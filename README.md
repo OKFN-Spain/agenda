@@ -6,44 +6,45 @@ Si tienes un evento que proponer, añade un nuevo *issue*.
 
 ## Madrid Python: Aplicaciones avanzadas de *Scraping*
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-01-13 mié&gt;</span></span>
-<http://www.meetup.com/es-ES/Madrid-Python-Meetup/events/227936864/>
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-01-13 mié&gt;</span></span>
+-   URL: <http://www.meetup.com/es-ES/Madrid-Python-Meetup/events/227936864/>
 
 ## Grupo R de Madrid
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-01-14 jue 19:00&gt;&#x2013;&lt;2016-01-14 jue 20:45&gt;</span></span>
-Medialab Prado, Plaza de las Letras, C/ de la Alameda, 15 , Madrid
-<http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
-<http://www.meetup.com/es-ES/Grupo-de-Usuarios-de-R-de-Madrid/events/227983479/>
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-01-14 jue 19:00&gt;&#x2013;&lt;2016-01-14 jue 20:45&gt;</span></span>
+-   Dónde: Medialab Prado, Plaza de las Letras, C/ de la Alameda, 15 , Madrid
+-   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
+-   URL: <http://www.meetup.com/es-ES/Grupo-de-Usuarios-de-R-de-Madrid/events/227983479/>
 
--   Francisco Rodriguez: **Introducción a las Redes Neuronales**. Francisco hará una introducción a las redes neuronales con R. Las redes neuronales vuelven a ser un campo de intensa actividad de investigación con la aparición de las nuevas topologías de red utilizadas en "Deep Learning".
+### Introducción a las Redes Neuronales
 
--   Carlos Ortega: **Calidad del aire de Madrid**. Carlos, a partir de los datos del propio Ayuntamiento de Madrid, mostrará un conjunto de análisis sobre cómo de saludable es el aire que respiramos.
+Francisco Rodríguez hará una introducción a las redes neuronales con R. Las redes neuronales vuelven a ser un campo de intensa actividad de investigación con la aparición de las nuevas topologías de red utilizadas en "Deep Learning".
 
--   Karel Rodriguez: **Price Sensitivity Meter (PSM) in R**.  Karel mostrará cómo R se puede aplicar para crear una aplicación de uso empresarial que permite determinar el precio óptimo de compra utilizando percepciones psicológicas.
+### Calidad del aire de Madrid
+
+Carlos Ortega, a partir de los datos del propio Ayuntamiento de Madrid, mostrará un conjunto de análisis sobre cómo de saludable es el aire que respiramos.
+
+### Price Sensitivity Meter (PSM) in R
+
+Karel Rodriguez mostrará cómo R se puede aplicar para crear una aplicación de uso empresarial que permite determinar el precio óptimo de compra utilizando percepciones psicológicas.
 
 ## MadridJS: Taller de programación funcional
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-01-16 sáb 10:00&gt;&#x2013;&lt;2016-01-16 sáb 14:00&gt;</span></span>
-Campus Madrid, Calle Manzanares, 1, Madrid
-<http://www.openstreetmap.org/way/7648766>
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-01-16 sáb 10:00&gt;&#x2013;&lt;2016-01-16 sáb 14:00&gt;</span></span>
+-   Dónde: Campus Madrid, Calle Manzanares, 1, Madrid.
+-   Mapa: <http://www.openstreetmap.org/way/7648766>
+-   URL: <http://www.meetup.com/es-ES/madridjs/events/227302060/>
 
 De la mano de Javier Vélez, profesor de la UNED y co-organizador de MadridJS, aprenderemos a usar técnicas funcionales con JavaScript.
-
-El evento será en la sala de formación de la primera planta. Para no dejar a nadie fuera, no vamos a limitar las plazas. Tened en cuenta que sólo los primeros 25 tendrán plaza, así que ¡sed puntuales!
 
 En este taller nos centraremos en abordar los elementos esenciales de la programación funcional tratando de describir como es la algoritmia funcional de una manera comparada en relación a la imperativa. Revisaremos los principios de diseño fundamentales, la ausencia de estado, la transparencia referencial, la inmutabilidad, etc. Estudiaremos recursividad y diseño funcional por inmersión, orden superior y compositividad, evaluación parcial y currificación, abstracciones de datos funcionales, streams y apis fluidas y lo que el tiempo nos permita&#x2026; Todo ello nos proporcionará las skills necesarias para entender qué es exactamente una solución funcional, que la distingue de otras aproximaciones y nos preparará sin duda para hacer frente al emergente reto de las arquitecturas reactivas que se imponen como una realidad actual. 
 
 ## X Machine Learning Spain
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-01-18 lun 18:30&gt;&#x2013;&lt;2016-01-18 lun 20:30&gt;</span></span>
-Campus Madrid, Calle Manzanares, 1, Madrid
-<http://www.openstreetmap.org/way/7648766>
-<http://www.meetup.com/es-ES/MachineLearningSpain/events/227206352/>
-
--   18.45 - "Pragmatic ML: simple tips and interesting research problems"
--   19.30 - "Sistemas Cognitivos Artificiales: cuando aprender no es suficiente"
--   20.15 - Networking: cervezas para charlar sobre todo lo que interesa.
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-01-18 lun 18:30&gt;&#x2013;&lt;2016-01-18 lun 20:30&gt;</span></span>
+-   Dónde: Campus Madrid, Calle Manzanares, 1, Madrid
+-   Mapa: <http://www.openstreetmap.org/way/7648766>
+-   URL: <http://www.meetup.com/es-ES/MachineLearningSpain/events/227206352/>
 
 ### Pragmatic ML
 
@@ -60,19 +61,19 @@ También imparte clases y conferencias de Informática, Inteligencia Artificial,
 
 ## Journocoders Madrid meets BBC API
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-01-19 mar 18:45&gt;&#x2013;&lt;2016-01-19 mar 20:30&gt;</span></span>
-Medialab Prado, Plaza de las Letras, C/ de la Alameda, 15 , Madrid
-<http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
-<http://s.coop/apibbc>
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-01-19 mar 18:45&gt;&#x2013;&lt;2016-01-19 mar 20:30&gt;</span></span>
+-   Dónde: Medialab Prado, Plaza de las Letras, C/ de la Alameda, 15 , Madrid
+-   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
+-   URL: <http://s.coop/apibbc>
 
-Seguimos un tutorial muy básico sobre cómo trabajar con API. Para ello, utilizaremos la herramienta desarrollada por BBC News Labs: News Juicer API. Esta API permite acceder a los artículos en diferentes idiomas de más de 400 medios en todo el mundo. 
+Primero haremos un show&tell con los enlaces recomendados de #periodismodatos. Luego seguimos un tutorial muy básico sobre cómo trabajar con API. Para ello, utilizaremos la herramienta desarrollada por BBC News Labs: News Juicer API. Esta API permite acceder a los artículos en diferentes idiomas de más de 400 medios en todo el mundo. 
 
 ## Java vs Node.js: el encuentro
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-01-19 mar&gt;</span></span>
-Campus Madrid, Calle Manzanares, 1, Madrid
-<http://www.openstreetmap.org/way/7648766>
-<http://www.meetup.com/es-ES/Node-js-Madrid/events/226495441/>
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-01-19 mar&gt;</span></span>
+-   Dónde: Campus Madrid, Calle Manzanares, 1, Madrid
+-   Mapa: <http://www.openstreetmap.org/way/7648766>
+-   URL: <http://www.meetup.com/es-ES/Node-js-Madrid/events/226495441/>
 
 Vamos a hacer una mesa redonda entre dos comunidades muy distintas en apariencia pero no tanto en la práctica: Java y Node.js. Moderada por el gran David Bonilla (@david\_bonilla),  CEO de Otogami, y con los siguientes ponentes de lujo asiático:
 
@@ -95,10 +96,10 @@ Vamos a hacer una mesa redonda entre dos comunidades muy distintas en apariencia
 
 ## *D3.js Madrid*: introducción a *D3.js* y creación de *dashboard* con *DC.js*
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-01-27 mié 19:30&gt;&#x2013;&lt;2016-01-27 mié 20:30&gt;</span></span>
-Oficinas de ShuttleCloud, Ronda de Atocha, 37 Oficina Derecha 28012, Madrid
-<http://www.openstreetmap.org/node/3423331185>
-<http://www.meetup.com/es-ES/Madrid-D3-js/events/228011001>
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-01-27 mié 19:30&gt;&#x2013;&lt;2016-01-27 mié 20:30&gt;</span></span>
+-   Dónde: Oficinas de ShuttleCloud, Ronda de Atocha, 37 Oficina Derecha 28012, Madrid
+-   Mapa: <http://www.openstreetmap.org/node/3423331185>
+-   URL: <http://www.meetup.com/es-ES/Madrid-D3-js/events/228011001>
 
 Segundo Meetup de [D3.js Madrid](http://www.meetup.com/es-ES/Madrid-D3-js/) con un par de charlas:
 
@@ -115,24 +116,19 @@ PD: por cierto, si te animas a dar una charla en futuras ediciones no dudes en d
 
 ## Circumvention Tech Festival
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-01 mar&gt;&#x2013;&lt;2016-03-06 dom&gt;</span></span>
-Las Naves, Carrer de Joan Verdeguer 16, Valencia, España
-<http://www.openstreetmap.org/way/158789093#map=19/39.45850/-0.33798>
-<http://www.circumventionfestival.es/>
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-01 mar&gt;&#x2013;&lt;2016-03-06 dom&gt;</span></span>
+-   Dónde: Las Naves, Carrer de Joan Verdeguer 16, Valencia, España
+-   Mapa: <http://www.openstreetmap.org/way/158789093#map=19/39.45850/-0.33798>
+-   URL: <http://www.circumventionfestival.es/>
 
 Se han registrado profesionales de 47 países diferentes y contamos con la participación de organizaciones como Tor, Electronic Frontier Foundation, Freedom of the Press Foundation, Xnet, Tactical Tech, Global Voices, Filtra.la, APC, Mozilla Foundation y muchas más.
 
 ## Día de los Datos Abiertos
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-05 sáb&gt;</span></span>
-Medialab-Prado, Alameda 15, 28014, Madrid
-<http://spain.opendataday.org>
-
-## Premios OKFN 2016, OKFN Awards 2016
-
-<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-05 sáb&gt;</span></span>
-Medialab-Prado, Alameda 15 28014, Madrid
-<http://premios.okfn.es>
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-05 sáb&gt;</span></span>
+-   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
+-   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
+-   URL: <http://spain.opendataday.org>
 
 # Abril
 
