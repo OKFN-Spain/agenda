@@ -112,6 +112,50 @@ Así que animaros aunque no hayáis utilizado D3 nunca.
 
 PD: por cierto, si te animas a dar una charla en futuras ediciones no dudes en decírnoslo. Queremos mantener el formato de dos charlas cortas, una introductoria y otra algo más avanzada.
 
+# Febrero
+
+## II Aniversario Data Science Spain
+
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-02-04 jue&gt;</span></span>
+-   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
+-   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
+-   URL: <http://www.meetup.com/es-ES/Data-Science-Spain/events/227690627/>
+
+El próximo 4 de febrero DATA SCIENCE SPAIN cumple 2 AÑOS y queremos celebrarlo realizando el primer encuentro de 2016 con todos vosotros!!
+
+Abrimos como siempre un call4papers para que podáis presentar vuestras ideas de charlas mandando un mail a cmartinez@synergicpartners.com
+
+## Grupo R de Madrid
+
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-02-11 jue 19:00&gt;&#x2013;&lt;2016-02-11 jue 20:45&gt;</span></span>
+-   Dónde: Medialab Prado, Plaza de las Letras, C/ de la Alameda, 15 , Madrid
+-   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
+-   URL: <http://www.meetup.com/es-ES/Grupo-de-Usuarios-de-R-de-Madrid/events/228578129/>
+
+### Programa:
+
+-   Gabriel Antonio Valverde Castilla: Introducción al "Deep Learning"
+-   Carlos J. Gil Bellosta: Modelos Estadísticos usando "rstan", interfaz R a Stan, el lenguaje que permite la creación y determinación de modelos estadísticos.
+-   Manuel García: "Artificial Bee Colony (ABC) Optimization" (paquete "ABCoptim"), optimización de funciones basado en agentes que simulan el comportamiento de una colonia de abejas.
+
+## El periodista como analista de datos masivos
+
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-02-17 mié 18:30&gt;&#x2013;&lt;2016-02-17 mié 20:30&gt;</span></span>
+-   Dónde: Medialab Prado, Plaza de las Letras, C/ de la Alameda, 15 , Madrid
+-   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
+-   URL: <http://www.meetup.com/es-ES/Madrid-Periodismo-de-datos-Meetup/events/228690087/> y <http://medialab-prado.es/article/analisis-de-datos-masivos-con-talend-open-studio>
+-   Organizado por: Grupo de #periodismodatos de Medialab-Prado, *Journocoders Madrid*
+
+El 17 de febrero alcanzamos las 28 sesiones y celebramos el día del amor por el software libre (#ILOVEFS) con un reto que afrontaremos entre todxs: la herramienta libre Talend Open Studio de la mano de Rigo, analista de datos del ICIJ, Consorcio Internacional de Periodistas de Investigación y que está acostumbrado a trabajar con grandes volúmenes de datos en proyectos periodísticos de primerísima fila como *Offshore Leaks*.
+
+Imaginaos un programa que es capaz de cargar distintas archivos de datos de distintas fuentes, de realizar transformaciones a los datos como lo haríais con Refine, de mezclar esos datos e insertarlos en una base de datos y mostrara el resultado final con un informe del proceso. Ese es un ejemplo de lo que se puede hacer con Talend Open Studio y las herramientas ETL. 
+
+## ALLDATA 2016: Second International Conference on Big Data, Small Data, Linked Data and Open Data
+
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-02-21 dom&gt;&#x2013;&lt;2016-02-25 jue&gt;</span></span>
+-   Dónde: Lisboa, Portugal
+-   URL: <http://www.iaria.org/conferences2016/ALLDATA16.html>
+
 # Marzo
 
 ## Circumvention Tech Festival
@@ -122,6 +166,22 @@ PD: por cierto, si te animas a dar una charla en futuras ediciones no dudes en d
 -   URL: <http://www.circumventionfestival.es/>
 
 Se han registrado profesionales de 47 países diferentes y contamos con la participación de organizaciones como Tor, Electronic Frontier Foundation, Freedom of the Press Foundation, Xnet, Tactical Tech, Global Voices, Filtra.la, APC, Mozilla Foundation y muchas más.
+
+## Carving Up Legacy with Microservices
+
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-03 jue&gt;</span></span>
+-   Dónde: Campus Madrid, Calle Manzanares, 1, Madrid
+-   Mapa: <http://www.openstreetmap.org/way/7648766>
+-   URL: <http://www.meetup.com/es-ES/Node-js-Madrid/events/227675594/>
+
+En marzo os traemos una charla conjuntamente con nuestros amigos de h4ckademy: una empresa de Londres que viene a Madrid a contarnos cómo han tomado un sistema legacy con .NET y lo han migrado a Node.js con microservicios. Y para que podáis practicar, ¡será en inglés, por supuesto!
+
+Carving Up Legacy with Microservices
+
+The London-based company GuideSmiths is going to introduce us how they migrated a £90M per annum revenue jobs site from a legacy .Net platform to an AWS / Docker / Node.js based one in 9 months.
+
+-   Steve Cresswell
+-   Felipe Polo
 
 ## Día de los Datos Abiertos
 
