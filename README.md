@@ -36,55 +36,56 @@
 <li><a href="#orgheadline18">ALLDATA 2016: Second International Conference on Big Data, Small Data, Linked Data and Open Data</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline24">Marzo</a>
+<li><a href="#orgheadline25">Marzo</a>
 <ul>
 <li><a href="#orgheadline20">Circumvention Tech Festival</a></li>
 <li><a href="#orgheadline21">Carving Up Legacy with Microservices</a></li>
-<li><a href="#orgheadline22">Día de los Datos Abiertos</a></li>
-<li><a href="#orgheadline23">Reunión GNOME Hispano</a></li>
+<li><a href="#orgheadline22">I Open Datathon ETSINF UPV sobre uso de datos abiertos</a></li>
+<li><a href="#orgheadline23">Día de los Datos Abiertos</a></li>
+<li><a href="#orgheadline24">Reunión GNOME Hispano</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline30">Abril</a>
+<li><a href="#orgheadline31">Abril</a>
 <ul>
-<li><a href="#orgheadline25">25th International World Wide Web Conference</a></li>
-<li><a href="#orgheadline26">Akademy-es 2016</a></li>
-<li><a href="#orgheadline27">Reunión GNOME Hispano</a></li>
-<li><a href="#orgheadline28">Q2016 European Conference on Quality in Official Statistics</a></li>
-<li><a href="#orgheadline29">Reunión GNOME Hispano</a></li>
+<li><a href="#orgheadline26">25th International World Wide Web Conference</a></li>
+<li><a href="#orgheadline27">Akademy-es 2016</a></li>
+<li><a href="#orgheadline28">Reunión GNOME Hispano</a></li>
+<li><a href="#orgheadline29">Q2016 European Conference on Quality in Official Statistics</a></li>
+<li><a href="#orgheadline30">Reunión GNOME Hispano</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline33">Mayo</a>
+<li><a href="#orgheadline34">Mayo</a>
 <ul>
-<li><a href="#orgheadline31">IV Jornadas Periodismo Datos #JPD16</a></li>
-<li><a href="#orgheadline32">Reunión GNOME Hispano</a></li>
+<li><a href="#orgheadline32">IV Jornadas Periodismo Datos #JPD16</a></li>
+<li><a href="#orgheadline33">Reunión GNOME Hispano</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline35">Junio</a>
+<li><a href="#orgheadline36">Junio</a>
 <ul>
-<li><a href="#orgheadline34">Reunión GNOME Hispano</a></li>
+<li><a href="#orgheadline35">Reunión GNOME Hispano</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline38">Julio</a>
+<li><a href="#orgheadline39">Julio</a>
 <ul>
-<li><a href="#orgheadline36">SIGIR 2016</a></li>
-<li><a href="#orgheadline37">Reunión GNOME Hispano</a></li>
+<li><a href="#orgheadline37">SIGIR 2016</a></li>
+<li><a href="#orgheadline38">Reunión GNOME Hispano</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline40">Octubre</a>
+<li><a href="#orgheadline41">Octubre</a>
 <ul>
-<li><a href="#orgheadline39">IODC 2016</a></li>
+<li><a href="#orgheadline40">IODC 2016</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline42">Todo el año</a>
+<li><a href="#orgheadline43">Todo el año</a>
 <ul>
-<li><a href="#orgheadline41">Premios de periodismo</a></li>
+<li><a href="#orgheadline42">Premios de periodismo</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline46">Ideas</a>
+<li><a href="#orgheadline47">Ideas</a>
 <ul>
-<li><a href="#orgheadline43">Calendario en Google</a></li>
-<li><a href="#orgheadline44">Calendario en ICS</a></li>
-<li><a href="#orgheadline45">Tinyletter</a></li>
+<li><a href="#orgheadline44">Calendario en Google</a></li>
+<li><a href="#orgheadline45">Calendario en ICS</a></li>
+<li><a href="#orgheadline46">Tinyletter</a></li>
 </ul>
 </li>
 </ul>
@@ -249,7 +250,7 @@ Imaginaos un programa que es capaz de cargar distintas archivos de datos de dist
 -   Dónde: Lisboa, Portugal
 -   URL: <http://www.iaria.org/conferences2016/ALLDATA16.html>
 
-# Marzo<a id="orgheadline24"></a>
+# Marzo<a id="orgheadline25"></a>
 
 ## Circumvention Tech Festival<a id="orgheadline20"></a>
 
@@ -276,28 +277,53 @@ The London-based company GuideSmiths is going to introduce us how they migrated 
 -   Steve Cresswell
 -   Felipe Polo
 
-## Día de los Datos Abiertos<a id="orgheadline22"></a>
+## I Open Datathon ETSINF UPV sobre uso de datos abiertos<a id="orgheadline22"></a>
+
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-04 vie&gt;</span></span>
+-   Dónde: UPV
+-   Mapa:
+-   URL: <http://s.coop/opendatathon>
+-   Hahstag: #OpenDatathon
+
+Los participantes tendrán tres semanas para crear un proyecto basado en datos abiertos, ya sea una visualización o una aplicación web. Los proyectos finalistas serán presentados el 4 de marzo en ETSINF UPV.
+
+Se abre el plazo para presentar propuestas al primer OpenDatathon ETSINF –UPV organizado por MUGI, el Máster en Gestión de la Información de la ETSINF UPV-, l’Escola Tècnica Superior d’Enginyeria Informàtica de la UPV y el [Grupo DataUPV](http://dataupv.webs.upv.es) con el fin de promocionar, promover y divulgar el uso de datos abiertos, especialmente entre los miembros de la comunidad universitaria.
+
+El plazo de presentación de proyectos estará abierto hasta el próximo 29 de febrero de 2016.
+
+El I OpenDatathon cuenta con 3 categorías:
+
+1.  mejor historia sobre los datos
+2.  mejor herramienta de exploración de datos
+3.  mejor aplicación basada en predicción de datos.
+4.  También habrá una categoría especial "Premio Cátedra Ciudad de Valencia UPV" con retos que usen datos abiertos del portal del ayuntamiento de Valencia sobre rutas, salud o movilidad.
+
+Todos los proyectos finalistas recibirán un diploma acreditativo. Adicionalmente por cada reto se prevé un primer premio de 350 euros y un segundo premio de 150 euros.
+
+Una vez recibidas las propuestas se seleccionarán 5 finalistas por categoría que tendrán la oportunidad de exponer sus trabajos el 4 de marzo en la ETSINF, fecha próxima a la celebración mundial del Open Data Day.
+
+## Día de los Datos Abiertos<a id="orgheadline23"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-05 sáb 10:00&gt;&#x2013;&lt;2016-03-05 sáb 20:00&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://spain.opendataday.org>
 
-## Reunión GNOME Hispano<a id="orgheadline23"></a>
+## Reunión GNOME Hispano<a id="orgheadline24"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-21 lun 18:30&gt;&#x2013;&lt;2016-03-21 lun 20:45&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://medialab-prado.es/article/gnome-hispano>
 
-# Abril<a id="orgheadline30"></a>
+# Abril<a id="orgheadline31"></a>
 
-## 25th International World Wide Web Conference<a id="orgheadline25"></a>
+## 25th International World Wide Web Conference<a id="orgheadline26"></a>
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-04-11 lun&gt;&#x2013;&lt;2016-04-15 vie&gt;</span></span>
 <http://www2016.ca/>
 
-## Akademy-es 2016<a id="orgheadline26"></a>
+## Akademy-es 2016<a id="orgheadline27"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-04-15 vie&gt;&#x2013;&lt;2016-04-17 dom&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
@@ -306,14 +332,14 @@ The London-based company GuideSmiths is going to introduce us how they migrated 
 
 he KDE® Community is an international technology team dedicated to creating a free and user-friendly computing experience, offering an advanced graphical desktop, a wide variety of applications for communication, work, education and entertainment and a platform to easily build new applications upon. We have a strong focus on finding innovative solutions to old and new problems, creating a vibrant atmosphere open for experimentation.site\* Mayo
 
-## Reunión GNOME Hispano<a id="orgheadline27"></a>
+## Reunión GNOME Hispano<a id="orgheadline28"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-04-18 lun 18:30&gt;&#x2013;&lt;2016-04-18 lun 20:45&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://medialab-prado.es/article/gnome-hispano>
 
-## Q2016 European Conference on Quality in Official Statistics<a id="orgheadline28"></a>
+## Q2016 European Conference on Quality in Official Statistics<a id="orgheadline29"></a>
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-05-31 mar&gt;&#x2013;&lt;2016-06-03 vie&gt;</span></span>
 Madrid, 31 mayo-3 junio
@@ -336,16 +362,16 @@ Presidente. INE España                Director General Eurostat. Chief Statisti
 
 <http://www.q2016.es/?lang=es>
 
-## Reunión GNOME Hispano<a id="orgheadline29"></a>
+## Reunión GNOME Hispano<a id="orgheadline30"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-04-18 lun&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://medialab-prado.es/article/gnome-hispano>
 
-# Mayo<a id="orgheadline33"></a>
+# Mayo<a id="orgheadline34"></a>
 
-## IV Jornadas Periodismo Datos #JPD16<a id="orgheadline31"></a>
+## IV Jornadas Periodismo Datos #JPD16<a id="orgheadline32"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-05-05 jue&gt;&#x2013;&lt;2016-05-07 sáb&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
@@ -365,25 +391,25 @@ Presidente. INE España                Director General Eurostat. Chief Statisti
 <div itemprop="addressCountry">Spain</div>
 </div>
 
-## Reunión GNOME Hispano<a id="orgheadline32"></a>
+## Reunión GNOME Hispano<a id="orgheadline33"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-05-16 lun 18:30&gt;&#x2013;&lt;2016-05-16 lun 20:45&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://medialab-prado.es/article/gnome-hispano>
 
-# Junio<a id="orgheadline35"></a>
+# Junio<a id="orgheadline36"></a>
 
-## Reunión GNOME Hispano<a id="orgheadline34"></a>
+## Reunión GNOME Hispano<a id="orgheadline35"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-20 lun 18:30&gt;&#x2013;&lt;2016-06-20 lun 20:45&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://medialab-prado.es/article/gnome-hispano>
 
-# Julio<a id="orgheadline38"></a>
+# Julio<a id="orgheadline39"></a>
 
-## SIGIR 2016<a id="orgheadline36"></a>
+## SIGIR 2016<a id="orgheadline37"></a>
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-17 dom&gt;&#x2013;&lt;2016-07-21 jue&gt;</span></span>
 
@@ -395,16 +421,16 @@ The SIGIR conference is the major international forum for the presentation of ne
 
 <http://sigir.org/sigir2016/>
 
-## Reunión GNOME Hispano<a id="orgheadline37"></a>
+## Reunión GNOME Hispano<a id="orgheadline38"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-18 lun 18:30&gt;&#x2013;&lt;2016-07-18 lun 20:45&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://medialab-prado.es/article/gnome-hispano>
 
-# Octubre<a id="orgheadline40"></a>
+# Octubre<a id="orgheadline41"></a>
 
-## IODC 2016<a id="orgheadline39"></a>
+## IODC 2016<a id="orgheadline40"></a>
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 jue&gt;&#x2013;&lt;2016-10-07 vie&gt;</span></span>
 4ª Conferencia Internacional sobre Datos Abiertos
@@ -423,16 +449,16 @@ Objertivos globales, impacto local
 
 <http://opendatacon.org/>
 
-# Todo el año<a id="orgheadline42"></a>
+# Todo el año<a id="orgheadline43"></a>
 
-## Premios de periodismo<a id="orgheadline41"></a>
+## Premios de periodismo<a id="orgheadline42"></a>
 
 <http://gijn.org/2015/06/08/premios-para-periodistas-de-investigacion/>
 
-# Ideas<a id="orgheadline46"></a>
+# Ideas<a id="orgheadline47"></a>
 
-## Calendario en Google<a id="orgheadline43"></a>
+## Calendario en Google<a id="orgheadline44"></a>
 
-## Calendario en ICS<a id="orgheadline44"></a>
+## Calendario en ICS<a id="orgheadline45"></a>
 
-## Tinyletter<a id="orgheadline45"></a>
+## Tinyletter<a id="orgheadline46"></a>
