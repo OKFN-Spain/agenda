@@ -36,56 +36,63 @@
 <li><a href="#orgheadline18">ALLDATA 2016: Second International Conference on Big Data, Small Data, Linked Data and Open Data</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline25">Marzo</a>
+<li><a href="#orgheadline27">Marzo</a>
 <ul>
-<li><a href="#orgheadline20">Circumvention Tech Festival</a></li>
-<li><a href="#orgheadline21">Carving Up Legacy with Microservices</a></li>
-<li><a href="#orgheadline22">I Open Datathon ETSINF UPV sobre uso de datos abiertos</a></li>
-<li><a href="#orgheadline23">Día de los Datos Abiertos</a></li>
-<li><a href="#orgheadline24">Reunión GNOME Hispano</a></li>
+<li><a href="#orgheadline21">Presentación informe España en Gobierno Abierto, 2013-2014</a>
+<ul>
+<li><a href="#orgheadline20">Invitados especiales:</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline31">Abril</a>
+<li><a href="#orgheadline22">Circumvention Tech Festival</a></li>
+<li><a href="#orgheadline23">Carving Up Legacy with Microservices</a></li>
+<li><a href="#orgheadline24">I Open Datathon ETSINF UPV sobre uso de datos abiertos</a></li>
+<li><a href="#orgheadline25">Día de los Datos Abiertos</a></li>
+<li><a href="#orgheadline26">Reunión GNOME Hispano</a></li>
+</ul>
+</li>
+<li><a href="#orgheadline34">Abril</a>
 <ul>
-<li><a href="#orgheadline26">25th International World Wide Web Conference</a></li>
-<li><a href="#orgheadline27">Akademy-es 2016</a></li>
-<li><a href="#orgheadline28">Reunión GNOME Hispano</a></li>
-<li><a href="#orgheadline29">Q2016 European Conference on Quality in Official Statistics</a></li>
+<li><a href="#orgheadline28">25th International World Wide Web Conference</a></li>
+<li><a href="#orgheadline29">Akademy-es 2016</a></li>
 <li><a href="#orgheadline30">Reunión GNOME Hispano</a></li>
+<li><a href="#orgheadline31">Q2016 European Conference on Quality in Official Statistics</a></li>
+<li><a href="#orgheadline32">Reunión GNOME Hispano</a></li>
+<li><a href="#orgheadline33">Newsimpact Madrid</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline34">Mayo</a>
+<li><a href="#orgheadline37">Mayo</a>
 <ul>
-<li><a href="#orgheadline32">IV Jornadas Periodismo Datos #JPD16</a></li>
-<li><a href="#orgheadline33">Reunión GNOME Hispano</a></li>
+<li><a href="#orgheadline35">IV Jornadas Periodismo Datos #JPD16</a></li>
+<li><a href="#orgheadline36">Reunión GNOME Hispano</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline36">Junio</a>
+<li><a href="#orgheadline39">Junio</a>
 <ul>
-<li><a href="#orgheadline35">Reunión GNOME Hispano</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline39">Julio</a>
-<ul>
-<li><a href="#orgheadline37">SIGIR 2016</a></li>
 <li><a href="#orgheadline38">Reunión GNOME Hispano</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline41">Octubre</a>
+<li><a href="#orgheadline43">Julio</a>
 <ul>
-<li><a href="#orgheadline40">IODC 2016</a></li>
+<li><a href="#orgheadline40">SIGIR 2016</a></li>
+<li><a href="#orgheadline41">Reunión GNOME Hispano</a></li>
+<li><a href="#orgheadline42">SRCCON</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline43">Todo el año</a>
+<li><a href="#orgheadline45">Octubre</a>
 <ul>
-<li><a href="#orgheadline42">Premios de periodismo</a></li>
+<li><a href="#orgheadline44">IODC 2016</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline47">Ideas</a>
+<li><a href="#orgheadline47">Todo el año</a>
 <ul>
-<li><a href="#orgheadline44">Calendario en Google</a></li>
-<li><a href="#orgheadline45">Calendario en ICS</a></li>
-<li><a href="#orgheadline46">Tinyletter</a></li>
+<li><a href="#orgheadline46">Premios de periodismo</a></li>
+</ul>
+</li>
+<li><a href="#orgheadline51">Ideas</a>
+<ul>
+<li><a href="#orgheadline48">Calendario en Google</a></li>
+<li><a href="#orgheadline49">Calendario en ICS</a></li>
+<li><a href="#orgheadline50">Tinyletter</a></li>
 </ul>
 </li>
 </ul>
@@ -250,9 +257,28 @@ Imaginaos un programa que es capaz de cargar distintas archivos de datos de dist
 -   Dónde: Lisboa, Portugal
 -   URL: <http://www.iaria.org/conferences2016/ALLDATA16.html>
 
-# Marzo<a id="orgheadline25"></a>
+# Marzo<a id="orgheadline27"></a>
 
-## Circumvention Tech Festival<a id="orgheadline20"></a>
+## Presentación informe España en Gobierno Abierto, 2013-2014<a id="orgheadline21"></a>
+
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-01 mar 19:00&gt;&#x2013;&lt;2016-03-01 mar 20:30&gt;</span></span>
+-   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
+-   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
+-   URL: <http://medialab-prado.es/article/presentacion-informe-de-espana-en-gobierno-abierto-2013-2014>
+-   Streaming: <http://medialab-prado.es/article/streaming>
+
+España forma parte de la Alianza para el Gobierno Abierto desde 2011, iniciativa que integra a casi 70 países del mundo y cuyo propósito es compartir experiencias y desarrollar un foro permanente para avanzar hacia una mayor transparencia pública, combatir la corrupción con apertura de datos, incentivar la participación ciudadana y fortalecer los sistemas de control social y rendición pública de cuentas a través de las nuevas tecnologías.
+
+El informe se realiza bajo una metodología común para todos los países participantes y recoge los hallazgos principales del avance de España en Gobierno Abierto. La información gubernamental se contrasta con las valoraciones y hallazgos de OSC implicadas con la transparencia y el gobierno abierto en España, ofrece argumentos críticos a la vez que propuestas constructivas, y detalla el avance y los retos de desarrollo de los 10 compromisos incluidos en el segundo plan de acción, siendo el compromiso más importante el lanzamiento del Portal de la Transparencia de la Administración General del Estado.
+
+Este informe ha sido realizado por el Investigador del [GIGAPP](http://www.gigapp.org) (Grupo de Investigación en Gobierno, Administración y Políticas Públicas), Dr. César Nicandro Cruz-Rubio ([@cesarncruz](https://twitter.com/cesarncruz)). 
+
+### Invitados especiales:<a id="orgheadline20"></a>
+
+-   Dña. Victoria Anderica. Experta en transparencia y gobierno abierto. Responsable del área de Transparencia. Ayuntamiento de Madrid
+-   Dña. Victoria Figueroa. Directora de la Oficina de Transparencia y Acceso a la Información. Ministerio de la Presidencia
+
+## Circumvention Tech Festival<a id="orgheadline22"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-01 mar&gt;&#x2013;&lt;2016-03-06 dom&gt;</span></span>
 -   Dónde: Las Naves, Carrer de Joan Verdeguer 16, Valencia, España
@@ -261,7 +287,7 @@ Imaginaos un programa que es capaz de cargar distintas archivos de datos de dist
 
 Se han registrado profesionales de 47 países diferentes y contamos con la participación de organizaciones como Tor, Electronic Frontier Foundation, Freedom of the Press Foundation, Xnet, Tactical Tech, Global Voices, Filtra.la, APC, Mozilla Foundation y muchas más.
 
-## Carving Up Legacy with Microservices<a id="orgheadline21"></a>
+## Carving Up Legacy with Microservices<a id="orgheadline23"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-03 jue&gt;</span></span>
 -   Dónde: Campus Madrid, Calle Manzanares, 1, Madrid
@@ -277,7 +303,7 @@ The London-based company GuideSmiths is going to introduce us how they migrated 
 -   Steve Cresswell
 -   Felipe Polo
 
-## I Open Datathon ETSINF UPV sobre uso de datos abiertos<a id="orgheadline22"></a>
+## I Open Datathon ETSINF UPV sobre uso de datos abiertos<a id="orgheadline24"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-04 vie&gt;</span></span>
 -   Dónde: UPV
@@ -302,28 +328,28 @@ Todos los proyectos finalistas recibirán un diploma acreditativo. Adicionalment
 
 Una vez recibidas las propuestas se seleccionarán 5 finalistas por categoría que tendrán la oportunidad de exponer sus trabajos el 4 de marzo en la ETSINF, fecha próxima a la celebración mundial del Open Data Day.
 
-## Día de los Datos Abiertos<a id="orgheadline23"></a>
+## Día de los Datos Abiertos<a id="orgheadline25"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-05 sáb 10:00&gt;&#x2013;&lt;2016-03-05 sáb 20:00&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://spain.opendataday.org>
 
-## Reunión GNOME Hispano<a id="orgheadline24"></a>
+## Reunión GNOME Hispano<a id="orgheadline26"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-21 lun 18:30&gt;&#x2013;&lt;2016-03-21 lun 20:45&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://medialab-prado.es/article/gnome-hispano>
 
-# Abril<a id="orgheadline31"></a>
+# Abril<a id="orgheadline34"></a>
 
-## 25th International World Wide Web Conference<a id="orgheadline26"></a>
+## 25th International World Wide Web Conference<a id="orgheadline28"></a>
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-04-11 lun&gt;&#x2013;&lt;2016-04-15 vie&gt;</span></span>
 <http://www2016.ca/>
 
-## Akademy-es 2016<a id="orgheadline27"></a>
+## Akademy-es 2016<a id="orgheadline29"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-04-15 vie&gt;&#x2013;&lt;2016-04-17 dom&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
@@ -332,14 +358,14 @@ Una vez recibidas las propuestas se seleccionarán 5 finalistas por categoría q
 
 he KDE® Community is an international technology team dedicated to creating a free and user-friendly computing experience, offering an advanced graphical desktop, a wide variety of applications for communication, work, education and entertainment and a platform to easily build new applications upon. We have a strong focus on finding innovative solutions to old and new problems, creating a vibrant atmosphere open for experimentation.site\* Mayo
 
-## Reunión GNOME Hispano<a id="orgheadline28"></a>
+## Reunión GNOME Hispano<a id="orgheadline30"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-04-18 lun 18:30&gt;&#x2013;&lt;2016-04-18 lun 20:45&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://medialab-prado.es/article/gnome-hispano>
 
-## Q2016 European Conference on Quality in Official Statistics<a id="orgheadline29"></a>
+## Q2016 European Conference on Quality in Official Statistics<a id="orgheadline31"></a>
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-05-31 mar&gt;&#x2013;&lt;2016-06-03 vie&gt;</span></span>
 Madrid, 31 mayo-3 junio
@@ -362,16 +388,27 @@ Presidente. INE España                Director General Eurostat. Chief Statisti
 
 <http://www.q2016.es/?lang=es>
 
-## Reunión GNOME Hispano<a id="orgheadline30"></a>
+## Reunión GNOME Hispano<a id="orgheadline32"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-04-18 lun&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://medialab-prado.es/article/gnome-hispano>
 
-# Mayo<a id="orgheadline34"></a>
+## Newsimpact Madrid<a id="orgheadline33"></a>
 
-## IV Jornadas Periodismo Datos #JPD16<a id="orgheadline32"></a>
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-04-26 mar&gt;</span></span>
+-   Dónde: Madrid
+-   URL: <http://newsimpact.io>
+-   Fuente: <http://ejc.net/projects/news/article/ejc-announces-a-new-series-of-news-impact-summits-in-2016>
+
+The European Journalism Centre announces a new 2016 series of nine News Impact Summits, free-of-charge media innovation events, powered by the Google News Lab. The summit series builds on its successful 2015 editions by revisiting some of the European capitals from last year, whilst covering new locations in Europe and for the first time the Middle East.
+
+Since its pilot event in Vienna, the series has visited nine European cities, and established a network of 2300+ editors, journalists, newsroom managers and J-school students all across Europe. This year’s series will also cover new topics in the domain of digital journalism including but not limited to digital storytelling, interactives, newsgathering, verification, VR and AR.
+
+# Mayo<a id="orgheadline37"></a>
+
+## IV Jornadas Periodismo Datos #JPD16<a id="orgheadline35"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-05-05 jue&gt;&#x2013;&lt;2016-05-07 sáb&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
@@ -391,25 +428,25 @@ Presidente. INE España                Director General Eurostat. Chief Statisti
 <div itemprop="addressCountry">Spain</div>
 </div>
 
-## Reunión GNOME Hispano<a id="orgheadline33"></a>
+## Reunión GNOME Hispano<a id="orgheadline36"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-05-16 lun 18:30&gt;&#x2013;&lt;2016-05-16 lun 20:45&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://medialab-prado.es/article/gnome-hispano>
 
-# Junio<a id="orgheadline36"></a>
+# Junio<a id="orgheadline39"></a>
 
-## Reunión GNOME Hispano<a id="orgheadline35"></a>
+## Reunión GNOME Hispano<a id="orgheadline38"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-20 lun 18:30&gt;&#x2013;&lt;2016-06-20 lun 20:45&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://medialab-prado.es/article/gnome-hispano>
 
-# Julio<a id="orgheadline39"></a>
+# Julio<a id="orgheadline43"></a>
 
-## SIGIR 2016<a id="orgheadline37"></a>
+## SIGIR 2016<a id="orgheadline40"></a>
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-17 dom&gt;&#x2013;&lt;2016-07-21 jue&gt;</span></span>
 
@@ -421,16 +458,22 @@ The SIGIR conference is the major international forum for the presentation of ne
 
 <http://sigir.org/sigir2016/>
 
-## Reunión GNOME Hispano<a id="orgheadline38"></a>
+## Reunión GNOME Hispano<a id="orgheadline41"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-18 lun 18:30&gt;&#x2013;&lt;2016-07-18 lun 20:45&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://medialab-prado.es/article/gnome-hispano>
 
-# Octubre<a id="orgheadline41"></a>
+## SRCCON<a id="orgheadline42"></a>
 
-## IODC 2016<a id="orgheadline40"></a>
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-28 jue&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-29 vie&gt;</span></span>
+-   Dónde:  Pacific Northwest College of Art, Portland, Oregon, EE.UU.
+-   URL: <http://srccon.org/>
+
+# Octubre<a id="orgheadline45"></a>
+
+## IODC 2016<a id="orgheadline44"></a>
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 jue&gt;&#x2013;&lt;2016-10-07 vie&gt;</span></span>
 4ª Conferencia Internacional sobre Datos Abiertos
@@ -449,16 +492,16 @@ Objertivos globales, impacto local
 
 <http://opendatacon.org/>
 
-# Todo el año<a id="orgheadline43"></a>
+# Todo el año<a id="orgheadline47"></a>
 
-## Premios de periodismo<a id="orgheadline42"></a>
+## Premios de periodismo<a id="orgheadline46"></a>
 
 <http://gijn.org/2015/06/08/premios-para-periodistas-de-investigacion/>
 
-# Ideas<a id="orgheadline47"></a>
+# Ideas<a id="orgheadline51"></a>
 
-## Calendario en Google<a id="orgheadline44"></a>
+## Calendario en Google<a id="orgheadline48"></a>
 
-## Calendario en ICS<a id="orgheadline45"></a>
+## Calendario en ICS<a id="orgheadline49"></a>
 
-## Tinyletter<a id="orgheadline46"></a>
+## Tinyletter<a id="orgheadline50"></a>
