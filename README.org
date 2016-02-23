@@ -209,11 +209,40 @@ Una vez recibidas las propuestas se seleccionarán 5 finalistas por categoría q
 
 
 
-** Día de los Datos Abiertos
+** Día de los Datos Abiertos Madrid
 - Cuándo: <2016-03-05 sáb 10:00-20:00>
 - Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 - Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
-- URL: http://spain.opendataday.org
+- URL: https://okfn-spain.github.io/madrid.opendataday.org
+
+** Día de los Datos Abiertos Barcelona
+- Cuándo: <2016-03-05 sáb>
+- Dónde: 
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL: https://okfn-spain.github.io/madrid.opendataday.org
+
+apps4citizens organizará el Open Inspiration Data Day en la Fábrica Lehman (Barcelona), para promover el desarrollo de aplicaciones aprovechando el potencial de los datos abiertos. Será el 5 de marzo y contará con especialistas que buscarán estimular a los participantes.
+** Día de los Datos Abiertos Bilbao
+- Cuándo: <2016-03-05 sáb>
+- Dónde: 
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL: https://okfn-spain.github.io/madrid.opendataday.org
+
+MORElab research group and Bilbao City Council will organize the local event at Auzo Factory Rekalde on March 4th. More info at [Open Data Day Bilbao http://opendataday.deusto.es].
+** Día de los Datos Abiertos Girona
+- Cuándo: <2016-03-05 sáb>
+- Dónde: 
+- Mapa:
+- URL: 
+
+Girona, Municipal City Archive of Girona will publish the dataset of the fonds that it keeps.
+** Día de los Datos Abiertos Granada
+- Cuándo: <2016-03-05 sáb>
+- Dónde: 
+- Mapa:
+- URL: 
+
+The Free Software Office in the University of Granada will organize its third Granada2016 Open Data and Projects Hackatón, place TBD, starting on March 4th and ending on Monday 7th in the morning. Please check the page for details. Several topics have been proposed: Analysis of election data in Spain and elsewhere. Gender in university degrees and students. Street naming analysis
 
 ** Reunión GNOME Hispano
 - Cuándo: <2016-03-21 lun 18:30-20:45>

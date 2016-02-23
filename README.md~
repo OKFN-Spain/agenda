@@ -50,49 +50,52 @@
 <li><a href="#orgheadline26">Reunión GNOME Hispano</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline34">Abril</a>
+<li><a href="#orgheadline35">Abril</a>
 <ul>
-<li><a href="#orgheadline28">25th International World Wide Web Conference</a></li>
-<li><a href="#orgheadline29">Akademy-es 2016</a></li>
-<li><a href="#orgheadline30">Reunión GNOME Hispano</a></li>
-<li><a href="#orgheadline31">Q2016 European Conference on Quality in Official Statistics</a></li>
-<li><a href="#orgheadline32">Reunión GNOME Hispano</a></li>
-<li><a href="#orgheadline33">Newsimpact Madrid</a></li>
+<li><a href="#orgheadline28">Festival Internacional de Periodismo de Perugia</a></li>
+<li><a href="#orgheadline29">25th International World Wide Web Conference</a></li>
+<li><a href="#orgheadline30">Akademy-es 2016</a></li>
+<li><a href="#orgheadline31">Reunión GNOME Hispano</a></li>
+<li><a href="#orgheadline32">Q2016 European Conference on Quality in Official Statistics</a></li>
+<li><a href="#orgheadline33">Reunión GNOME Hispano</a></li>
+<li><a href="#orgheadline34">Newsimpact Madrid</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline37">Mayo</a>
+<li><a href="#orgheadline38">Mayo</a>
 <ul>
-<li><a href="#orgheadline35">IV Jornadas Periodismo Datos #JPD16</a></li>
-<li><a href="#orgheadline36">Reunión GNOME Hispano</a></li>
+<li><a href="#orgheadline36">IV Jornadas Periodismo Datos #JPD16</a></li>
+<li><a href="#orgheadline37">Reunión GNOME Hispano</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline39">Junio</a>
+<li><a href="#orgheadline40">Junio</a>
 <ul>
-<li><a href="#orgheadline38">Reunión GNOME Hispano</a></li>
+<li><a href="#orgheadline39">Reunión GNOME Hispano</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline43">Julio</a>
+<li><a href="#orgheadline44">Julio</a>
 <ul>
-<li><a href="#orgheadline40">SIGIR 2016</a></li>
-<li><a href="#orgheadline41">Reunión GNOME Hispano</a></li>
-<li><a href="#orgheadline42">SRCCON</a></li>
+<li><a href="#orgheadline41">SIGIR 2016</a></li>
+<li><a href="#orgheadline42">Reunión GNOME Hispano</a></li>
+<li><a href="#orgheadline43">SRCCON</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline45">Octubre</a>
+<li><a href="#orgheadline46">Octubre</a>
 <ul>
-<li><a href="#orgheadline44">IODC 2016</a></li>
+<li><a href="#orgheadline45">IODC 2016</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline47">Todo el año</a>
+<li><a href="#orgheadline47">Todo el año</a></li>
+<li><a href="#orgheadline50">Becas</a>
 <ul>
-<li><a href="#orgheadline46">Premios de periodismo</a></li>
+<li><a href="#orgheadline48">Becas El País y Amazon para festival internacional de Periodismo de Perugia</a></li>
+<li><a href="#orgheadline49">Premios de periodismo</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline51">Ideas</a>
+<li><a href="#orgheadline54">Ideas</a>
 <ul>
-<li><a href="#orgheadline48">Calendario en Google</a></li>
-<li><a href="#orgheadline49">Calendario en ICS</a></li>
-<li><a href="#orgheadline50">Tinyletter</a></li>
+<li><a href="#orgheadline51">Calendario en Google</a></li>
+<li><a href="#orgheadline52">Calendario en ICS</a></li>
+<li><a href="#orgheadline53">Tinyletter</a></li>
 </ul>
 </li>
 </ul>
@@ -342,14 +345,21 @@ Una vez recibidas las propuestas se seleccionarán 5 finalistas por categoría q
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://medialab-prado.es/article/gnome-hispano>
 
-# Abril<a id="orgheadline34"></a>
+# Abril<a id="orgheadline35"></a>
 
-## 25th International World Wide Web Conference<a id="orgheadline28"></a>
+## Festival Internacional de Periodismo de Perugia<a id="orgheadline28"></a>
+
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-04-06 mié&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-04-10 dom&gt;</span></span>
+-   Dónde: Perugia, Italia
+-   Mapa:
+-   URL: <http://www.festivaldelgiornalismo.com/>
+
+## 25th International World Wide Web Conference<a id="orgheadline29"></a>
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-04-11 lun&gt;&#x2013;&lt;2016-04-15 vie&gt;</span></span>
 <http://www2016.ca/>
 
-## Akademy-es 2016<a id="orgheadline29"></a>
+## Akademy-es 2016<a id="orgheadline30"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-04-15 vie&gt;&#x2013;&lt;2016-04-17 dom&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
@@ -358,14 +368,14 @@ Una vez recibidas las propuestas se seleccionarán 5 finalistas por categoría q
 
 he KDE® Community is an international technology team dedicated to creating a free and user-friendly computing experience, offering an advanced graphical desktop, a wide variety of applications for communication, work, education and entertainment and a platform to easily build new applications upon. We have a strong focus on finding innovative solutions to old and new problems, creating a vibrant atmosphere open for experimentation.site\* Mayo
 
-## Reunión GNOME Hispano<a id="orgheadline30"></a>
+## Reunión GNOME Hispano<a id="orgheadline31"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-04-18 lun 18:30&gt;&#x2013;&lt;2016-04-18 lun 20:45&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://medialab-prado.es/article/gnome-hispano>
 
-## Q2016 European Conference on Quality in Official Statistics<a id="orgheadline31"></a>
+## Q2016 European Conference on Quality in Official Statistics<a id="orgheadline32"></a>
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-05-31 mar&gt;&#x2013;&lt;2016-06-03 vie&gt;</span></span>
 Madrid, 31 mayo-3 junio
@@ -388,14 +398,14 @@ Presidente. INE España                Director General Eurostat. Chief Statisti
 
 <http://www.q2016.es/?lang=es>
 
-## Reunión GNOME Hispano<a id="orgheadline32"></a>
+## Reunión GNOME Hispano<a id="orgheadline33"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-04-18 lun&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://medialab-prado.es/article/gnome-hispano>
 
-## Newsimpact Madrid<a id="orgheadline33"></a>
+## Newsimpact Madrid<a id="orgheadline34"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-04-26 mar&gt;</span></span>
 -   Dónde: Madrid
@@ -406,9 +416,9 @@ The European Journalism Centre announces a new 2016 series of nine News Impact S
 
 Since its pilot event in Vienna, the series has visited nine European cities, and established a network of 2300+ editors, journalists, newsroom managers and J-school students all across Europe. This year’s series will also cover new topics in the domain of digital journalism including but not limited to digital storytelling, interactives, newsgathering, verification, VR and AR.
 
-# Mayo<a id="orgheadline37"></a>
+# Mayo<a id="orgheadline38"></a>
 
-## IV Jornadas Periodismo Datos #JPD16<a id="orgheadline35"></a>
+## IV Jornadas Periodismo Datos #JPD16<a id="orgheadline36"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-05-05 jue&gt;&#x2013;&lt;2016-05-07 sáb&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
@@ -428,25 +438,25 @@ Since its pilot event in Vienna, the series has visited nine European cities, an
 <div itemprop="addressCountry">Spain</div>
 </div>
 
-## Reunión GNOME Hispano<a id="orgheadline36"></a>
+## Reunión GNOME Hispano<a id="orgheadline37"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-05-16 lun 18:30&gt;&#x2013;&lt;2016-05-16 lun 20:45&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://medialab-prado.es/article/gnome-hispano>
 
-# Junio<a id="orgheadline39"></a>
+# Junio<a id="orgheadline40"></a>
 
-## Reunión GNOME Hispano<a id="orgheadline38"></a>
+## Reunión GNOME Hispano<a id="orgheadline39"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-20 lun 18:30&gt;&#x2013;&lt;2016-06-20 lun 20:45&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://medialab-prado.es/article/gnome-hispano>
 
-# Julio<a id="orgheadline43"></a>
+# Julio<a id="orgheadline44"></a>
 
-## SIGIR 2016<a id="orgheadline40"></a>
+## SIGIR 2016<a id="orgheadline41"></a>
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-17 dom&gt;&#x2013;&lt;2016-07-21 jue&gt;</span></span>
 
@@ -458,22 +468,22 @@ The SIGIR conference is the major international forum for the presentation of ne
 
 <http://sigir.org/sigir2016/>
 
-## Reunión GNOME Hispano<a id="orgheadline41"></a>
+## Reunión GNOME Hispano<a id="orgheadline42"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-18 lun 18:30&gt;&#x2013;&lt;2016-07-18 lun 20:45&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://medialab-prado.es/article/gnome-hispano>
 
-## SRCCON<a id="orgheadline42"></a>
+## SRCCON<a id="orgheadline43"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-28 jue&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-29 vie&gt;</span></span>
 -   Dónde:  Pacific Northwest College of Art, Portland, Oregon, EE.UU.
 -   URL: <http://srccon.org/>
 
-# Octubre<a id="orgheadline45"></a>
+# Octubre<a id="orgheadline46"></a>
 
-## IODC 2016<a id="orgheadline44"></a>
+## IODC 2016<a id="orgheadline45"></a>
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 jue&gt;&#x2013;&lt;2016-10-07 vie&gt;</span></span>
 4ª Conferencia Internacional sobre Datos Abiertos
@@ -494,14 +504,25 @@ Objertivos globales, impacto local
 
 # Todo el año<a id="orgheadline47"></a>
 
-## Premios de periodismo<a id="orgheadline46"></a>
+# Becas<a id="orgheadline50"></a>
+
+## Becas El País y Amazon para festival internacional de Periodismo de Perugia<a id="orgheadline48"></a>
+
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-02-16 mar&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-04 vie&gt;</span></span>
+-   Fecha límite:   DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-04 vie&gt;</span></span>
+-   URL: <http://politica.elpais.com/politica/2016/02/15/actualidad/1455539561_487834.html>
+
+Los participantes deben escribir un ensayo sobre el periodismo en la era digital
+Los premiados ganarán un viaje al Festival Internacional de Periodismo de Perugia
+
+## Premios de periodismo<a id="orgheadline49"></a>
 
 <http://gijn.org/2015/06/08/premios-para-periodistas-de-investigacion/>
 
-# Ideas<a id="orgheadline51"></a>
+# Ideas<a id="orgheadline54"></a>
 
-## Calendario en Google<a id="orgheadline48"></a>
+## Calendario en Google<a id="orgheadline51"></a>
 
-## Calendario en ICS<a id="orgheadline49"></a>
+## Calendario en ICS<a id="orgheadline52"></a>
 
-## Tinyletter<a id="orgheadline50"></a>
+## Tinyletter<a id="orgheadline53"></a>
