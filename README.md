@@ -65,42 +65,55 @@
 <li><a href="#orgheadline38">Newsimpact Madrid</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline42">Mayo</a>
+<li><a href="#orgheadline46">Mayo</a>
 <ul>
 <li><a href="#orgheadline40">IV Jornadas Periodismo Datos #JPD16</a></li>
-<li><a href="#orgheadline41">Reunión GNOME Hispano</a></li>
+<li><a href="#orgheadline41">News Impact Summit London</a></li>
+<li><a href="#orgheadline42">Reunión GNOME Hispano</a></li>
+<li><a href="#orgheadline43">I Congreso Iberoamericano Nebrija PIATCOM: tendencias, competencias y perfiles profesionales en el sector de la comunicación</a></li>
+<li><a href="#orgheadline44">Jornadas SIG Libre</a></li>
+<li><a href="#orgheadline45">News Impact Summit Doha</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline44">Junio</a>
+<li><a href="#orgheadline51">Junio</a>
 <ul>
-<li><a href="#orgheadline43">Reunión GNOME Hispano</a></li>
+<li><a href="#orgheadline47">ICA Fukuoka 2016, conference of the International Communication Association</a></li>
+<li><a href="#orgheadline48">GEN Summit</a></li>
+<li><a href="#orgheadline49">Data Journalism Awards</a></li>
+<li><a href="#orgheadline50">Reunión GNOME Hispano</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline48">Julio</a>
+<li><a href="#orgheadline56">Julio</a>
 <ul>
-<li><a href="#orgheadline45">SIGIR 2016</a></li>
-<li><a href="#orgheadline46">Reunión GNOME Hispano</a></li>
-<li><a href="#orgheadline47">SRCCON</a></li>
+<li><a href="#orgheadline52">News Impact Summit Berlin</a></li>
+<li><a href="#orgheadline53">SIGIR 2016</a></li>
+<li><a href="#orgheadline54">Reunión GNOME Hispano</a></li>
+<li><a href="#orgheadline55">SRCCON</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline51">Octubre</a>
+<li><a href="#orgheadline60">Octubre</a>
 <ul>
-<li><a href="#orgheadline49">VII Congreso Internacional en Gobierno, Administración y Políticas Públicas</a></li>
-<li><a href="#orgheadline50">IODC 2016</a></li>
+<li><a href="#orgheadline57">VII Congreso Internacional en Gobierno, Administración y Políticas Públicas</a></li>
+<li><a href="#orgheadline58">IODC 2016</a></li>
+<li><a href="#orgheadline59">Big Data Week</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline52">Todo el año</a></li>
-<li><a href="#orgheadline55">Becas</a>
+<li><a href="#orgheadline61">Todo el año</a></li>
+<li><a href="#orgheadline64">Becas</a>
 <ul>
-<li><a href="#orgheadline53">Becas El País y Amazon para festival internacional de Periodismo de Perugia</a></li>
-<li><a href="#orgheadline54">Premios de periodismo</a></li>
+<li><a href="#orgheadline62">Becas El País y Amazon para festival internacional de Periodismo de Perugia</a></li>
+<li><a href="#orgheadline63">Premios de periodismo</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline59">Ideas</a>
+<li><a href="#orgheadline65">Cursos</a></li>
+<li><a href="#orgheadline66">ProPublica's Summer Data Institute</a></li>
+<li><a href="#orgheadline72">Ideas</a>
 <ul>
-<li><a href="#orgheadline56">Calendario en Google</a></li>
-<li><a href="#orgheadline57">Calendario en ICS</a></li>
-<li><a href="#orgheadline58">Tinyletter</a></li>
+<li><a href="#orgheadline67">Calendario en Google</a></li>
+<li><a href="#orgheadline68">Calendario en ICS</a></li>
+<li><a href="#orgheadline69">Tinyletter</a></li>
+<li><a href="#orgheadline70">Schema.org</a></li>
+<li><a href="#orgheadline71">Orgmode</a></li>
 </ul>
 </li>
 </ul>
@@ -109,7 +122,7 @@
 
 Bienvenidxs a la agenda de eventos relacionados o de interés para la comunidad del conocimiento abierto España.
 
-Si tienes un evento que proponer, añade un nuevo *issue*.
+Si tienes un evento que proponer, añade [una nueva issue](https://github.com/OKFN-Spain/agenda/issues/new).
 
 # Enero<a id="orgheadline13"></a>
 
@@ -457,7 +470,7 @@ The European Journalism Centre announces a new 2016 series of nine News Impact S
 
 Since its pilot event in Vienna, the series has visited nine European cities, and established a network of 2300+ editors, journalists, newsroom managers and J-school students all across Europe. This year’s series will also cover new topics in the domain of digital journalism including but not limited to digital storytelling, interactives, newsgathering, verification, VR and AR.
 
-# Mayo<a id="orgheadline42"></a>
+# Mayo<a id="orgheadline46"></a>
 
 ## IV Jornadas Periodismo Datos #JPD16<a id="orgheadline40"></a>
 
@@ -479,25 +492,102 @@ Since its pilot event in Vienna, the series has visited nine European cities, an
 <div itemprop="addressCountry">Spain</div>
 </div>
 
-## Reunión GNOME Hispano<a id="orgheadline41"></a>
+## News Impact Summit London<a id="orgheadline41"></a>
+
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-05-12 jue&gt;</span></span>
+-   Dónde: Londres, Reino Unido
+-   URL: <http://newsimpact.io>
+-   Fuente: <http://ejc.net/projects/news/article/ejc-announces-a-new-series-of-news-impact-summits-in-2016>
+
+## Reunión GNOME Hispano<a id="orgheadline42"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-05-16 lun 18:30&gt;&#x2013;&lt;2016-05-16 lun 20:45&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://medialab-prado.es/article/gnome-hispano>
 
-# Junio<a id="orgheadline44"></a>
+## I Congreso Iberoamericano Nebrija PIATCOM: tendencias, competencias y perfiles profesionales en el sector de la comunicación<a id="orgheadline43"></a>
 
-## Reunión GNOME Hispano<a id="orgheadline43"></a>
+-   Call for Abstracts DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-13 dom&gt;</span></span>
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-05-24 mar&gt;&#x2013;&lt;2016-05-25 mié&gt;</span></span>
+-   Dónde: Universidad Nebrija. Facultad de Ciencias de la Comunicación. Campus de la Berzosa. Hoyo del Manzanares. Madrid
+-   Mapa: <http://www.openstreetmap.org/relation/346078#map=17/40.59978/-3.94578>
+-   URL: <http://www.congresopiatcom.com/>
+
+## Jornadas SIG Libre<a id="orgheadline44"></a>
+
+-   Call for Abstracts DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-13 dom&gt;</span></span>
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-05-24 mar&gt;&#x2013;&lt;2016-05-29 dom&gt;</span></span>
+-   Dónde: Aulas de Informática, Facultad de Letras (Universitat de Girona)
+-   Mapa:
+-   URL: <http://www.sigte.udg.edu/jornadassiglibre/jornadas-sig-libre/talleres/>
+
+Las Jornadas de SIG Libre son un evento de referencia en el sector de las tecnologías libres en el ámbito de la información geográfica. Son un punto de encuentro donde compartir conocimientos, experiencias y crear sinergias. El idioma de la conferencia es el Español.
+
+La International QGIS User and Developer Conference quiere convertirse en el espacio de referencia, y un punto de encuentro para la familia de usuarios y desarrolladores que orbitan alrededor del proyecto QGIS, con el objetivo de recopilar experiencias y compartir el conocimiento sobre QGIS. El idioma de la conferencia es el Inglés.
+
+## News Impact Summit Doha<a id="orgheadline45"></a>
+
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-05-30 lun&gt;</span></span>
+-   Dónde: Doha, Qatar
+-   URL: <http://newsimpact.io>
+-   Fuente: <http://ejc.net/projects/news/article/ejc-announces-a-new-series-of-news-impact-summits-in-2016>
+
+# Junio<a id="orgheadline51"></a>
+
+## ICA Fukuoka 2016, conference of the International Communication Association<a id="orgheadline47"></a>
+
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-09 jue&gt;&#x2013;&lt;2016-06-13 lun&gt;</span></span>
+-   Dónde: Fukuoka, Japón
+-   Mapa:
+-   URL: <http://icahdq.org>
+
+## GEN Summit<a id="orgheadline48"></a>
+
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-15 mié&gt;&#x2013;&lt;2016-06-17 vie&gt;</span></span>
+-   Dónde: Viena, Austria
+-   Mapa:
+-   URL: <http://www.gensummit2016.org/>
+
+How can the media industry deal with Facebook, Apple, Google, Amazon and other mega-platforms offering news to their users? This is the major question for 2016 and the sixth annual GEN Summit will explore the most relevant solutions for your newsroom. Over-the-top platforms claim to want to partner with media organisations and share revenue, but who will own the data and the readers’ loyalty? Content distribution is becoming a common battleground for legacy media and pure online players alike. For the first time, both are facing the same struggle. Join more than 600 Editors-in-Chief and media innovators for three days in Vienna, presented by the Global Editors Network, June 15-17, 2016.
+
+## Data Journalism Awards<a id="orgheadline49"></a>
+
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-17 vie&gt;</span></span>
+-   Dónde: Viena, Austria
+-   Mapa:
+-   URL: <http://www.globaleditorsnetwork.org/programmes/data-journalism-awards/>
+
+Estos son los únicos premios mundiales que reconocen y ayudan a visibilizar la labor periodística que combina la visualización y el análisis de datos para narrar historias innovadoras. Entre los ganadores de anteriores ediciones de se encuentran The New York Times, ProPublica, The Guardian o La Nación (de Argentina). La fecha límite para presentar los proyectos es el 10 de abril a media noche (horario del Meridiano de Greenwich) y la cuantía de los premios es €1.000. Los premios #DJA2016 están orientados a redacciones y periodistas de organizaciones y grupos editoriales de cualquier tamaño, tanto grandes como pequeños. Se reconocen a los mejores trabajos en 12 categorías, incluyendo:
+
+-   Mejor trabajo de visualización de datos
+-   Mejor investigación
+-   Mejor app de datos aplicada al periodismo
+-   Mejor web de periodismo de datos
+-   Mejor portfolio individual
+-   Mejor uso de datos en una noticia de última hora
+-   Premio a datos abiertos
+-   Premio de excelencia (premio del jurado y premio del público)
+
+El concurso está organizado por Global Editors Network, una plataforma que cuenta con el apoyo de Google y Knight Foundation y que aglutina jefes de redacción e innovadores en medios de comunicación comprometidos con el periodismo de alta calidad.
+
+## Reunión GNOME Hispano<a id="orgheadline50"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-20 lun 18:30&gt;&#x2013;&lt;2016-06-20 lun 20:45&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://medialab-prado.es/article/gnome-hispano>
 
-# Julio<a id="orgheadline48"></a>
+# Julio<a id="orgheadline56"></a>
 
-## SIGIR 2016<a id="orgheadline45"></a>
+## News Impact Summit Berlin<a id="orgheadline52"></a>
+
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-01 vie&gt;</span></span>
+-   Dónde: Berlín, Alemania
+-   URL: <http://newsimpact.io>
+-   Fuente: <http://ejc.net/projects/news/article/ejc-announces-a-new-series-of-news-impact-summits-in-2016>
+
+## SIGIR 2016<a id="orgheadline53"></a>
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-17 dom&gt;&#x2013;&lt;2016-07-21 jue&gt;</span></span>
 
@@ -509,22 +599,25 @@ The SIGIR conference is the major international forum for the presentation of ne
 
 <http://sigir.org/sigir2016/>
 
-## Reunión GNOME Hispano<a id="orgheadline46"></a>
+## Reunión GNOME Hispano<a id="orgheadline54"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-18 lun 18:30&gt;&#x2013;&lt;2016-07-18 lun 20:45&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 -   Mapa: <http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359>
 -   URL: <http://medialab-prado.es/article/gnome-hispano>
 
-## SRCCON<a id="orgheadline47"></a>
+## SRCCON<a id="orgheadline55"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-28 jue&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-29 vie&gt;</span></span>
 -   Dónde:  Pacific Northwest College of Art, Portland, Oregon, EE.UU.
+-   Mapa:
 -   URL: <http://srccon.org/>
 
-# Octubre<a id="orgheadline51"></a>
+SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. Active participation is at the center of SRCCON, and we work to make it an inclusive and welcoming event where people can feel comfortable jumping in to work on complex problems. We welcome participants from all fields—if you want to strengthen journalism online, we want you there.
 
-## VII Congreso Internacional en Gobierno, Administración y Políticas Públicas<a id="orgheadline49"></a>
+# Octubre<a id="orgheadline60"></a>
+
+## VII Congreso Internacional en Gobierno, Administración y Políticas Públicas<a id="orgheadline57"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 lun&gt;&#x2013;&lt;2016-10-05 mié&gt;</span></span>
 -   Dónde:
@@ -534,7 +627,7 @@ The SIGIR conference is the major international forum for the presentation of ne
 “Construyendo una nueva cultura administrativa: políticas y gestión pública con la ciudadanía”
 El Congreso Internacional en Gobierno, Administración y Políticas Públicas, organizado por el GIGAPP desde 2010, ha logrado constituirse en un Congreso anual de referencia en los temas de Gobierno, Administración y Políticas Públicas en Iberoamérica. La progresión del evento da cuenta del avance en cantidad y calidad del evento. Este evento es un espacio abierto pensado para presentar y debatir nuevas ideas y enfoques, experiencias e investigaciones de calidad y cultivar vínculos de colaboración y generación de redes de trabajo sobre los ejes temáticos en los que se enmarca. 
 
-## IODC 2016<a id="orgheadline50"></a>
+## IODC 2016<a id="orgheadline58"></a>
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 jue&gt;&#x2013;&lt;2016-10-07 vie&gt;</span></span>
 4ª Conferencia Internacional sobre Datos Abiertos
@@ -553,11 +646,32 @@ Objertivos globales, impacto local
 
 <http://opendatacon.org/>
 
-# Todo el año<a id="orgheadline52"></a>
+## Big Data Week<a id="orgheadline59"></a>
 
-# Becas<a id="orgheadline55"></a>
+<div itemscope itemtype="http://schema.org/Event">
+<a itemprop="url" href="http://london.bigdataweek.com/"><div itemprop="name"><strong>Big Data Week</strong></div>
+</a>
+<div itemprop="description">A global festival of Data</div>
+<div><meta itemprop="startDate" content="2016-10-27T10:00">Starts: 27/10/2016 10:00AM</div>
+<meta itemprop="endDate" content="2016-10-27:12.000">Ends: 2016-10-27:00.000
+</div>
+<div itemprop="location" itemscope itemtype="http://schema.org/PostalAddress">
+<div><span itemprop="addressLocality">Londres</span>, <span itemprop="addressRegion">Londres</span></div><div itemprop="addressCountry">Reino Unido</div>
+</div>
 
-## Becas El País y Amazon para festival internacional de Periodismo de Perugia<a id="orgheadline53"></a>
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 jue&gt;</span></span>
+-   Dónde: etc.venues 155 Bishopsgate, Londres, Reino Unido
+-   Mapa: 51.5186567,-0.08028590000003533
+-   URL: <http://london.bigdataweek.com/>
+
+Big data players from finance, healthcare & insurance, retail, IoT, entertainment, and travel are coming together for one week full of events.
+Learn from industry leaders, attend meet-ups, webinars, workshops and discuss the latest developments in the big data world.
+
+# Todo el año<a id="orgheadline61"></a>
+
+# Becas<a id="orgheadline64"></a>
+
+## Becas El País y Amazon para festival internacional de Periodismo de Perugia<a id="orgheadline62"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-02-16 mar&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-04 vie&gt;</span></span>
 -   Fecha límite:   DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-04 vie&gt;</span></span>
@@ -566,14 +680,27 @@ Objertivos globales, impacto local
 Los participantes deben escribir un ensayo sobre el periodismo en la era digital
 Los premiados ganarán un viaje al Festival Internacional de Periodismo de Perugia
 
-## Premios de periodismo<a id="orgheadline54"></a>
+## Premios de periodismo<a id="orgheadline63"></a>
 
 <http://gijn.org/2015/06/08/premios-para-periodistas-de-investigacion/>
 
-# Ideas<a id="orgheadline59"></a>
+# Cursos<a id="orgheadline65"></a>
 
-## Calendario en Google<a id="orgheadline56"></a>
+# ProPublica's Summer Data Institute<a id="orgheadline66"></a>
 
-## Calendario en ICS<a id="orgheadline57"></a>
+First-ever Summer Data Institute, a 10-day intensive workshop on how to use data, design and code for journalism. The workshop will be from June 1st to 15th in our NYC offices. The deadline to apply is March 31st.
 
-## Tinyletter<a id="orgheadline58"></a>
+<https://projects.propublica.org/graphics/summer>
+<https://www.propublica.org/nerds/item/propublica-summer-data-institute>
+
+# Ideas<a id="orgheadline72"></a>
+
+## Calendario en Google<a id="orgheadline67"></a>
+
+## Calendario en ICS<a id="orgheadline68"></a>
+
+## Tinyletter<a id="orgheadline69"></a>
+
+## Schema.org<a id="orgheadline70"></a>
+
+## Orgmode<a id="orgheadline71"></a>
