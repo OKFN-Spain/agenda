@@ -377,6 +377,18 @@ Kiki Von Glinow, Director of Growth and Analytics, The Huffington Post
 - Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 - Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
 - URL: http://medialab-prado.es/article/gnome-hispano
+** ESS Visualization Workshop
+- Cuándo: <2016-05-17 mar>--<2016-05-18 mié>
+- Dónde: Valencia
+- Mapa: 
+- URL: http://ec.europa.eu/eurostat/cros/content/2016-visualisation-workshop_en
+- Organiza: Comisión Europea (Eurostat), con el apoyo de DevStat (España) www.devstat.com, en consorcio con el Centro Nacional para la Enseñanza de Estadística (Rumanía) y Prueba abierta (España).
+
+El evento abordará la visualización como una herramienta para el análisis y visualización de datos y como instrumento de difusión.
+
+El taller tiene como objetivo aumentar la conciencia sobre el tema de la visualización de las estadísticas; identificar las mejores prácticas emergentes para identificar sinergias y opciones para los esfuerzos de desarrollo conjuntos; compartir las mejores prácticas, nuevas ideas, herramientas y experiencias. Estos objetivos tienen que contribuir al objetivo más amplio de facilitar la cooperación dentro de la ESS en el desarrollo e implementación de soluciones metodológicas comunes, alineada con la cartera de ejecución de ESS Visión 2020 http://ec.europa.eu/eurostat/web/ess/about-us/ess-vision-2020 (en particular, los aspectos de visualización de la DIGICOM proyecte) 
+http://ec.europa.eu/eurostat/documents/42577/6906243/DIGICOM+Business+Case+1.0/8a2f1b42-4101-4208-9c49-1d1819604047
+
 ** I Congreso Iberoamericano Nebrija PIATCOM: tendencias, competencias y perfiles profesionales en el sector de la comunicación
 - Call for Abstracts DEADLINE: <2016-03-13 dom>
 - Cuándo: <2016-05-24 mar>--<2016-05-25 mié>
