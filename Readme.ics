@@ -6,8 +6,8 @@ X-WR-TIMEZONE:CET
 X-WR-CALDESC:Agenda de Open Knowledge España 2016
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20160317T082930Z
-UID:TS1-d62336a3-323a-4cb8-bb1c-ff91e4a86c67
+DTSTAMP:20160318T161137Z
+UID:TS1-96326e2b-be02-4e22-841d-893a30b3e19a
 DTSTART;VALUE=DATE:20160113
 DTEND;VALUE=DATE:20160114
 SUMMARY:Madrid Python: Aplicaciones avanzadas de /Scraping/
@@ -16,8 +16,8 @@ DESCRIPTION:• Cuándo: <2016-01-13 mié>\n• URL:\n  [http://www.meetup.com/e
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082930Z
-UID:TS1-a3d68da2-15f8-416c-a32d-df71dc6ea3df
+DTSTAMP:20160318T161137Z
+UID:TS1-1832f44c-db13-4588-84d3-e5a76f142b0c
 DTSTART:20160114T190000
 DTEND:20160114T204500
 SUMMARY:Grupo R de Madrid
@@ -29,8 +29,8 @@ DESCRIPTION:• Cuándo: <2016-01-14 jue 19:00>–<2016-01-14 jue 20:45>\n• D�
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082930Z
-UID:TS1-6f476795-537b-40e2-a9be-a7cea5de38f0
+DTSTAMP:20160318T161137Z
+UID:TS1-9078666a-cf7e-4289-b19e-255302a8e5ff
 DTSTART:20160116T100000
 DTEND:20160116T140000
 SUMMARY:MadridJS: Taller de programación funcional
@@ -54,8 +54,8 @@ DESCRIPTION:• Cuándo: <2016-01-16 sáb 10:00>–<2016-01-16 sáb 14:00>\n• 
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082930Z
-UID:TS1-932eab6d-92b2-429f-a638-00a51db57bdf
+DTSTAMP:20160318T161137Z
+UID:TS1-8da1b344-35b6-437c-8d0e-67ede31d9480
 DTSTART:20160118T183000
 DTEND:20160118T203000
 SUMMARY:X Machine Learning Spain
@@ -66,8 +66,8 @@ DESCRIPTION:• Cuándo: <2016-01-18 lun 18:30>–<2016-01-18 lun 20:30>\n• D�
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082930Z
-UID:TS1-71c60fb9-0563-45e8-aaa3-00fa945b6862
+DTSTAMP:20160318T161137Z
+UID:TS1-318fb7da-6dec-4141-b444-040afd852a2c
 DTSTART:20160119T184500
 DTEND:20160119T203000
 SUMMARY:Journocoders Madrid meets BBC API
@@ -83,8 +83,8 @@ DESCRIPTION:• Cuándo: <2016-01-19 mar 18:45>–<2016-01-19 mar 20:30>\n• D�
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082930Z
-UID:TS1-100d031c-31d4-4cbb-ba46-bd40c3c310de
+DTSTAMP:20160318T161137Z
+UID:TS1-10151d00-bf01-422d-abe2-73c1b552dd24
 DTSTART;VALUE=DATE:20160119
 DTEND;VALUE=DATE:20160120
 SUMMARY:Java vs Node.js: el encuentro
@@ -105,8 +105,8 @@ DESCRIPTION:• Cuándo: <2016-01-19 mar>\n• Dónde: Campus Madrid\, Calle Man
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082930Z
-UID:TS1-45e455fd-8c37-4946-af3e-e82058a623b2
+DTSTAMP:20160318T161137Z
+UID:TS1-e614cf7e-4c4d-4df6-bd2e-a2385efc41a7
 DTSTART:20160127T193000
 DTEND:20160127T203000
 SUMMARY:/D3.js Madrid/: introducción a /D3.js/ y creación de /dashboard/ co
@@ -131,8 +131,8 @@ DESCRIPTION:• Cuándo: <2016-01-27 mié 19:30>–<2016-01-27 mié 20:30>\n• 
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082930Z
-UID:TS1-7cbc37c8-540d-45cf-88e8-0843ad490685
+DTSTAMP:20160318T161137Z
+UID:TS1-34e43490-05b3-414d-98e7-4cf1ad4da3a4
 DTSTART;VALUE=DATE:20160204
 DTEND;VALUE=DATE:20160205
 SUMMARY:II Aniversario Data Science Spain
@@ -147,8 +147,8 @@ DESCRIPTION:• Cuándo: <2016-02-04 jue>\n• Dónde: Medialab-Prado\, Alameda 
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082930Z
-UID:TS1-80fc3ffd-7e3f-4800-bec6-2ca509bb07bc
+DTSTAMP:20160318T161137Z
+UID:TS1-06b57e7e-f339-4dad-809a-dd59220f06df
 DTSTART:20160211T190000
 DTEND:20160211T204500
 SUMMARY:Grupo R de Madrid
@@ -160,8 +160,8 @@ DESCRIPTION:• Cuándo: <2016-02-11 jue 19:00>–<2016-02-11 jue 20:45>\n• D�
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082930Z
-UID:TS1-0a8f102e-c4af-41db-8d9f-d52ec1712436
+DTSTAMP:20160318T161137Z
+UID:TS1-0ade7a8f-5847-4f5a-9cb3-384168cdc988
 DTSTART:20160217T183000
 DTEND:20160217T203000
 SUMMARY:El periodista como analista de datos masivos
@@ -186,8 +186,8 @@ DESCRIPTION:• Cuándo: <2016-02-17 mié 18:30>–<2016-02-17 mié 20:30>\n• 
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082930Z
-UID:TS1-d10db7b3-8679-491d-9bec-5fd8274409c0
+DTSTAMP:20160318T161137Z
+UID:TS1-328575bf-1e0c-43c8-9fe1-e489df53dbcd
 DTSTART;VALUE=DATE:20160221
 DTEND;VALUE=DATE:20160226
 SUMMARY:ALLDATA 2016: Second International Conference on Big Data\, Small D
@@ -197,8 +197,8 @@ DESCRIPTION:• Cuándo: <2016-02-21 dom>–<2016-02-25 jue>\n• Dónde: Lisboa
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082931Z
-UID:TS1-18eaedc7-ffdb-4dbf-a6c1-3c3e63584833
+DTSTAMP:20160318T161138Z
+UID:TS1-5bb43b89-3f2a-40ca-82e7-42dc27c5283c
 DTSTART:20160301T190000
 DTEND:20160301T203000
 SUMMARY:Presentación informe España en Gobierno Abierto\, 2013-2014
@@ -228,8 +228,8 @@ DESCRIPTION:• Cuándo: <2016-03-01 mar 19:00>–<2016-03-01 mar 20:30>\n• D�
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082931Z
-UID:TS1-809857ed-33f9-4cdb-88fc-f96a5f723ee3
+DTSTAMP:20160318T161138Z
+UID:TS1-a0cc5ceb-a7d2-450d-acff-21e1a5ba4254
 DTSTART;VALUE=DATE:20160301
 DTEND;VALUE=DATE:20160307
 SUMMARY:Circumvention Tech Festival
@@ -244,8 +244,8 @@ DESCRIPTION:• Cuándo: <2016-03-01 mar>–<2016-03-06 dom>\n• Dónde: Las Na
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082931Z
-UID:TS1-41176b03-75a4-4575-a140-da2adc0bd2de
+DTSTAMP:20160318T161138Z
+UID:TS1-720934ab-f592-45b0-9cff-81f5b458cc52
 DTSTART;VALUE=DATE:20160303
 DTEND;VALUE=DATE:20160304
 SUMMARY:Carving Up Legacy with Microservices
@@ -263,8 +263,8 @@ DESCRIPTION:• Cuándo: <2016-03-03 jue>\n• Dónde: Campus Madrid\, Calle Man
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082931Z
-UID:TS1-86f6b708-6269-4bb6-8c76-db3274a40654
+DTSTAMP:20160318T161138Z
+UID:TS1-1202b86c-59f3-4277-adbb-d8c2e8c1886f
 DTSTART;VALUE=DATE:20160304
 DTEND;VALUE=DATE:20160305
 SUMMARY:I Open Datathon ETSINF UPV sobre uso de datos abiertos
@@ -293,8 +293,8 @@ DESCRIPTION:• Cuándo: <2016-03-04 vie>\n• Dónde: UPV\n• Mapa:\n• URL: 
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082931Z
-UID:TS1-37c70bfc-6dee-41b4-8ac8-7140bcabcbd5
+DTSTAMP:20160318T161138Z
+UID:TS1-7b289178-a3d7-4587-b120-3893e1151fbb
 DTSTART:20160305T100000
 DTEND:20160305T200000
 SUMMARY:Día de los Datos Abiertos Madrid
@@ -305,8 +305,8 @@ DESCRIPTION:• Cuándo: <2016-03-05 sáb 10:00>–<2016-03-05 sáb 20:00>\n• 
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082931Z
-UID:TS1-81eef759-c108-4aa2-b2e0-8817641f146f
+DTSTAMP:20160318T161138Z
+UID:TS1-e6c659c6-a858-443c-bb7f-fbd80b5c3563
 DTSTART;VALUE=DATE:20160305
 DTEND;VALUE=DATE:20160306
 SUMMARY:Día de los Datos Abiertos Barcelona
@@ -320,8 +320,8 @@ DESCRIPTION:• Cuándo: <2016-03-05 sáb>\n• Dónde:\n• Mapa:\n  [http://ww
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082931Z
-UID:TS1-5a0f6f6c-1893-421f-9beb-bc5278aa0512
+DTSTAMP:20160318T161138Z
+UID:TS1-43e8554f-d339-4144-97a5-528f321f57fd
 DTSTART;VALUE=DATE:20160305
 DTEND;VALUE=DATE:20160306
 SUMMARY:Día de los Datos Abiertos Bilbao
@@ -334,8 +334,8 @@ DESCRIPTION:• Cuándo: <2016-03-05 sáb>\n• Dónde:\n• Mapa:\n  [http://ww
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082931Z
-UID:TS1-abc76657-3cf9-4f37-92b3-b05debd900ec
+DTSTAMP:20160318T161138Z
+UID:TS1-13d32732-6852-4f4e-b78b-c9831e96fe33
 DTSTART;VALUE=DATE:20160305
 DTEND;VALUE=DATE:20160306
 SUMMARY:Día de los Datos Abiertos Girona
@@ -345,8 +345,8 @@ DESCRIPTION:• Cuándo: <2016-03-05 sáb>\n• Dónde:\n• Mapa:\n• URL:\n\n
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082931Z
-UID:TS1-382e1660-4d0e-40e0-8855-645d042bc7dd
+DTSTAMP:20160318T161138Z
+UID:TS1-f4b313e3-6baa-460d-a9ca-c2ba985950a7
 DTSTART;VALUE=DATE:20160305
 DTEND;VALUE=DATE:20160306
 SUMMARY:Día de los Datos Abiertos Granada
@@ -360,8 +360,8 @@ DESCRIPTION:• Cuándo: <2016-03-05 sáb>\n• Dónde:\n• Mapa:\n• URL:\n\n
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082931Z
-UID:TS1-ea27b1e2-7b43-4c4e-ae18-e4b93c1f1ae4
+DTSTAMP:20160318T161138Z
+UID:TS1-31551beb-2cf7-4335-abde-48e6727bd398
 DTSTART:20160321T183000
 DTEND:20160321T204500
 SUMMARY:Reunión GNOME Hispano
@@ -372,8 +372,8 @@ DESCRIPTION:• Cuándo: <2016-03-21 lun 18:30>–<2016-03-21 lun 20:45>\n• D�
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082931Z
-UID:TS1-68294691-2f34-4655-9426-9fb05237ea3c
+DTSTAMP:20160318T161138Z
+UID:TS1-f492654c-7e9a-4649-8562-52a5161996a5
 DTSTART;VALUE=DATE:20160406
 DTEND;VALUE=DATE:20160411
 SUMMARY:Festival Internacional de Periodismo de Perugia
@@ -382,8 +382,8 @@ DESCRIPTION:• Cuándo: <2016-04-06 mié>–<2016-04-10 dom>\n• Dónde: Perug
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082931Z
-UID:TS1-9620fb8f-82b7-425b-942d-f2d07d89c4ac
+DTSTAMP:20160318T161138Z
+UID:TS1-3e5dbe3b-289a-4bee-a931-b9b1e78dbdfd
 DTSTART;VALUE=DATE:20160411
 DTEND;VALUE=DATE:20160416
 SUMMARY:25th International World Wide Web Conference
@@ -391,8 +391,8 @@ DESCRIPTION:<2016-04-11 lun>–<2016-04-15 vie> [http://www2016.ca/]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082931Z
-UID:TS1-f8be09d8-a96a-43ff-bf8b-86cfd4fe1577
+DTSTAMP:20160318T161138Z
+UID:TS1-74f4e74c-4cc5-4dfa-bdec-10fc59766247
 DTSTART;VALUE=DATE:20160415
 DTEND;VALUE=DATE:20160418
 SUMMARY:Akademy-es 2016
@@ -409,8 +409,8 @@ DESCRIPTION:• Cuándo: <2016-04-15 vie>–<2016-04-17 dom>\n• Dónde: Medial
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082931Z
-UID:TS1-7e79ab78-d8d5-4864-a3cf-7226484e4824
+DTSTAMP:20160318T161138Z
+UID:TS1-6c3a3042-4611-4d36-a46a-1f27995b28ed
 DTSTART:20160418T183000
 DTEND:20160418T204500
 SUMMARY:Reunión GNOME Hispano
@@ -421,8 +421,8 @@ DESCRIPTION:• Cuándo: <2016-04-18 lun 18:30>–<2016-04-18 lun 20:45>\n• D�
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082931Z
-UID:TS1-c05ca318-d16d-4dc2-a177-d5b995fcc589
+DTSTAMP:20160318T161138Z
+UID:TS1-0aba7c81-3749-4297-9bc8-ab64cdd77b4c
 DTSTART;VALUE=DATE:20160531
 DTEND;VALUE=DATE:20160604
 SUMMARY:Q2016 European Conference on Quality in Official Statistics
@@ -457,8 +457,8 @@ DESCRIPTION:<2016-05-31 mar>–<2016-06-03 vie> Madrid\, 31 mayo-3 junio El I
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082931Z
-UID:TS1-23ddcd21-69f7-4608-851e-0c17ae6a09de
+DTSTAMP:20160318T161138Z
+UID:TS1-d8f8a696-9083-4265-bac9-d5da71752bf6
 DTSTART;VALUE=DATE:20160418
 DTEND;VALUE=DATE:20160419
 SUMMARY:Reunión GNOME Hispano
@@ -469,8 +469,8 @@ DESCRIPTION:• Cuándo: <2016-04-18 lun>\n• Dónde: Medialab-Prado\, Alameda 
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082932Z
-UID:TS1-d0a88c5f-8fe9-401a-a0b9-c2b502292fa2
+DTSTAMP:20160318T161138Z
+UID:TS1-d8e1dcde-4fd6-409b-a7b5-ad89baef143b
 DTSTART:20160425T084500
 DTEND:20160425T173000
 SUMMARY:Newsimpact Madrid
@@ -481,8 +481,8 @@ DESCRIPTION:• Cuándo: <2016-04-25 lun 08:45>–<2016-04-25 lun 17:30>\n• D�
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082932Z
-UID:TS1-4fa23273-8979-4cd5-a13f-4237f398bcf6
+DTSTAMP:20160318T161138Z
+UID:TS1-23ce8bf4-a05c-4743-b5e6-66d2ebfdc8d4
 DTSTART;VALUE=DATE:20160505
 DTEND;VALUE=DATE:20160508
 SUMMARY:IV Jornadas Periodismo Datos #JPD16
@@ -493,8 +493,8 @@ DESCRIPTION:• Cuándo: <2016-05-05 jue>–<2016-05-07 sáb>\n• Dónde: Media
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082932Z
-UID:TS1-7e7a94c7-297d-40ce-90cb-b78f1da802de
+DTSTAMP:20160318T161138Z
+UID:TS1-a91d8f6f-641f-4ce2-8d43-9c093652d052
 DTSTART;VALUE=DATE:20160512
 DTEND;VALUE=DATE:20160513
 SUMMARY:News Impact Summit London
@@ -504,8 +504,8 @@ DESCRIPTION:• Cuándo: <2016-05-12 jue>\n• Dónde: Londres\, Reino Unido\n�
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082932Z
-UID:TS1-11c233a8-e846-442a-b4db-d0b4811a8b99
+DTSTAMP:20160318T161138Z
+UID:TS1-db7e1dd7-4385-40b2-81d2-7cbf7fcca3b1
 DTSTART:20160516T183000
 DTEND:20160516T204500
 SUMMARY:Reunión GNOME Hispano
@@ -516,8 +516,34 @@ DESCRIPTION:• Cuándo: <2016-05-16 lun 18:30>–<2016-05-16 lun 20:45>\n• D�
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082932Z
-UID:TS1-8f69ebcb-79f3-47af-a849-8be479f1665f
+DTSTAMP:20160318T161138Z
+UID:TS1-7c588ce3-ca8a-4e06-a37e-55fb76f2640b
+DTSTART;VALUE=DATE:20160517
+DTEND;VALUE=DATE:20160519
+SUMMARY:ESS Visualization Workshop
+DESCRIPTION:• Cuándo: <2016-05-17 mar>–<2016-05-18 mié>\n• Dónde: Valencia\
+ n• Mapa:\n• URL:\n  [http://ec.europa.eu/eurostat/cros/content/2016-visual
+ isation-workshop_en]\n• Organiza: Comisión Europea (Eurostat)\, con el apo
+ yo de DevStat\n  (España) www.devstat.com\, en consorcio con el Centro Nac
+ ional para\n  la Enseñanza de Estadística (Rumanía) y Prueba abierta (Espa
+ ña).\n\nEl evento abordará la visualización como una herramienta para el\n
+ análisis y visualización de datos y como instrumento de difusión.\n\nEl ta
+ ller tiene como objetivo aumentar la conciencia sobre el tema de\nla visua
+ lización de las estadísticas\; identificar las mejores\nprácticas emergent
+ es para identificar sinergias y opciones para los\nesfuerzos de desarrollo
+  conjuntos\; compartir las mejores prácticas\,\nnuevas ideas\, herramienta
+ s y experiencias. Estos objetivos tienen que\ncontribuir al objetivo más a
+ mplio de facilitar la cooperación dentro\nde la ESS en el desarrollo e imp
+ lementación de soluciones\nmetodológicas comunes\, alineada con la cartera
+  de ejecución de ESS\nVisión 2020\n[http://ec.europa.eu/eurostat/web/ess/a
+ bout-us/ess-vision-2020] (en\nparticular\, los aspectos de visualización d
+ e la DIGICOM proyecte)\n[http://ec.europa.eu/eurostat/documents/42577/6906
+ 243/DIGICOM+Business+Case+1.0/8a2f1b42-4101-4208-9c49-1d1819604047]
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20160318T161138Z
+UID:TS1-0a664dc3-f567-4d83-abf7-0042510d73a2
 DTSTART;VALUE=DATE:20160313
 DTEND;VALUE=DATE:20160314
 SUMMARY:I Congreso Iberoamericano Nebrija PIATCOM: tendencias\, competencia
@@ -530,8 +556,8 @@ DESCRIPTION:• Call for Abstracts DEADLINE: <2016-03-13 dom>\n• Cuándo: <201
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082932Z
-UID:TS2-8f69ebcb-79f3-47af-a849-8be479f1665f
+DTSTAMP:20160318T161138Z
+UID:TS2-0a664dc3-f567-4d83-abf7-0042510d73a2
 DTSTART;VALUE=DATE:20160524
 DTEND;VALUE=DATE:20160526
 SUMMARY:I Congreso Iberoamericano Nebrija PIATCOM: tendencias\, competencia
@@ -544,8 +570,8 @@ DESCRIPTION:• Call for Abstracts DEADLINE: <2016-03-13 dom>\n• Cuándo: <201
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082932Z
-UID:TS1-ce5b51d0-a1a9-45e2-b88a-35ffb36c547f
+DTSTAMP:20160318T161138Z
+UID:TS1-898f6b9a-af12-446e-a895-a2a9c13cb931
 DTSTART;VALUE=DATE:20160313
 DTEND;VALUE=DATE:20160314
 SUMMARY:Jornadas SIG Libre
@@ -565,8 +591,8 @@ DESCRIPTION:⁃ Call for Abstracts DEADLINE: <2016-03-13 dom>\n⁃ Cuándo: <201
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082932Z
-UID:TS2-ce5b51d0-a1a9-45e2-b88a-35ffb36c547f
+DTSTAMP:20160318T161138Z
+UID:TS2-898f6b9a-af12-446e-a895-a2a9c13cb931
 DTSTART;VALUE=DATE:20160524
 DTEND;VALUE=DATE:20160530
 SUMMARY:Jornadas SIG Libre
@@ -586,8 +612,8 @@ DESCRIPTION:⁃ Call for Abstracts DEADLINE: <2016-03-13 dom>\n⁃ Cuándo: <201
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082932Z
-UID:TS1-c34d0046-a75d-44a1-916c-cc8ad3e6882a
+DTSTAMP:20160318T161138Z
+UID:TS1-34e1a12e-f75d-4038-9d08-31b330e43b48
 DTSTART;VALUE=DATE:20160530
 DTEND;VALUE=DATE:20160531
 SUMMARY:News Impact Summit Doha
@@ -597,8 +623,8 @@ DESCRIPTION:• Cuándo: <2016-05-30 lun>\n• Dónde: Doha\, Qatar\n• URL: [h
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082932Z
-UID:TS1-5626abee-e382-4f8c-8792-176709b57469
+DTSTAMP:20160318T161138Z
+UID:TS1-36714286-f854-40da-a87e-40c64052ffcd
 DTSTART;VALUE=DATE:20160609
 DTEND;VALUE=DATE:20160614
 SUMMARY:ICA Fukuoka 2016\, conference of the International Communication As
@@ -608,8 +634,8 @@ DESCRIPTION:• Cuándo: <2016-06-09 jue>–<2016-06-13 lun>\n• Dónde: Fukuok
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082932Z
-UID:TS1-924700ea-60d3-4378-9942-72d423e625d3
+DTSTAMP:20160318T161138Z
+UID:TS1-ad6fd023-808b-4c1b-a3e6-a30d8b31bc01
 DTSTART;VALUE=DATE:20160615
 DTEND;VALUE=DATE:20160618
 SUMMARY:GEN Summit
@@ -628,8 +654,8 @@ DESCRIPTION:• Cuándo: <2016-06-15 mié>–<2016-06-17 vie>\n• Dónde: Viena
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082932Z
-UID:DL-07f51b69-e337-47de-88c3-de68d09bef68
+DTSTAMP:20160318T161138Z
+UID:DL-f9e2e9f5-82c0-43b4-a5d0-290ec8ca3adf
 DTSTART;VALUE=DATE:20160410
 DTEND;VALUE=DATE:20160411
 SUMMARY:DL: Data Journalism Awards
@@ -656,8 +682,8 @@ DESCRIPTION:• Cuándo: <2016-06-17 vie>\n• Dónde: Viena\, Austria\n• Mapa
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082932Z
-UID:TS1-07f51b69-e337-47de-88c3-de68d09bef68
+DTSTAMP:20160318T161138Z
+UID:TS1-f9e2e9f5-82c0-43b4-a5d0-290ec8ca3adf
 DTSTART;VALUE=DATE:20160617
 DTEND;VALUE=DATE:20160618
 SUMMARY:Data Journalism Awards
@@ -684,8 +710,8 @@ DESCRIPTION:• Cuándo: <2016-06-17 vie>\n• Dónde: Viena\, Austria\n• Mapa
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082932Z
-UID:TS1-4bbeb6c0-99ff-4a8b-9232-901bd4e85d2a
+DTSTAMP:20160318T161138Z
+UID:TS1-3b8495a3-faec-479e-afb1-ab2929e6c96a
 DTSTART:20160620T183000
 DTEND:20160620T204500
 SUMMARY:Reunión GNOME Hispano
@@ -696,8 +722,8 @@ DESCRIPTION:• Cuándo: <2016-06-20 lun 18:30>–<2016-06-20 lun 20:45>\n• D�
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082932Z
-UID:TS1-523bf4e1-477b-445a-9e68-e413522fda5e
+DTSTAMP:20160318T161138Z
+UID:TS1-5e2097a4-908f-4336-862d-32dfcd7d288c
 DTSTART;VALUE=DATE:20160701
 DTEND;VALUE=DATE:20160702
 SUMMARY:News Impact Summit Berlin
@@ -707,8 +733,8 @@ DESCRIPTION:• Cuándo: <2016-07-01 vie>\n• Dónde: Berlín\, Alemania\n• U
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082933Z
-UID:TS1-5cbcc189-b124-45dd-b5bc-f840725df79c
+DTSTAMP:20160318T161138Z
+UID:TS1-e08ef343-c768-4f95-a69d-b35782ad6c56
 DTSTART;VALUE=DATE:20160717
 DTEND;VALUE=DATE:20160722
 SUMMARY:SIGIR 2016
@@ -731,8 +757,8 @@ DESCRIPTION:<2016-07-17 dom>–<2016-07-21 jue>\n\n39th International ACM SIG
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082933Z
-UID:TS1-d5157a1e-923a-4cd2-bc87-6f1d4d8f2d7d
+DTSTAMP:20160318T161138Z
+UID:TS1-87d9a956-60c6-498f-bd63-06fa340821dd
 DTSTART:20160718T183000
 DTEND:20160718T204500
 SUMMARY:Reunión GNOME Hispano
@@ -743,8 +769,8 @@ DESCRIPTION:• Cuándo: <2016-07-18 lun 18:30>–<2016-07-18 lun 20:45>\n• D�
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082933Z
-UID:TS1-b423482b-66a8-4dcf-a35b-922462f8e14e
+DTSTAMP:20160318T161138Z
+UID:TS1-834befe7-2712-4182-bb1e-f7d8e41aefaa
 DTSTART;VALUE=DATE:20160728
 DTEND;VALUE=DATE:20160730
 SUMMARY:SRCCON
@@ -759,8 +785,8 @@ DESCRIPTION:• Cuándo: <2016-07-28 jue>–<2016-07-29 vie>\n• Dónde: Pacifi
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082933Z
-UID:TS1-151c3865-2692-4af6-9d0d-1887dea5c22b
+DTSTAMP:20160318T161138Z
+UID:TS1-78126011-f042-4ec8-915d-3a7e90948bf6
 DTSTART;VALUE=DATE:20161003
 DTEND;VALUE=DATE:20161006
 SUMMARY:VII Congreso Internacional en Gobierno\, Administración y Políticas
@@ -780,8 +806,8 @@ DESCRIPTION:• Cuándo: <2016-10-03 lun>–<2016-10-05 mié>\n• Dónde:\n• 
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082933Z
-UID:TS1-0e1c4a50-16db-4f7a-b172-8b1215f5ac2e
+DTSTAMP:20160318T161138Z
+UID:TS1-65087c86-1868-4e32-931e-0bd3c0b654cb
 DTSTART;VALUE=DATE:20161006
 DTEND;VALUE=DATE:20161008
 SUMMARY:IODC 2016
@@ -791,8 +817,8 @@ DESCRIPTION:<2016-10-06 jue>–<2016-10-07 vie> 4ª Conferencia Internacional
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082933Z
-UID:TS1-33e82abd-5208-41d7-b1e3-1c550f1634d5
+DTSTAMP:20160318T161138Z
+UID:TS1-a480926f-31b8-4561-b8b3-0652dea98764
 DTSTART;VALUE=DATE:20161027
 DTEND;VALUE=DATE:20161028
 SUMMARY:Big Data Week
@@ -806,8 +832,8 @@ DESCRIPTION:• Cuándo: <2016-10-27 jue>\n• Dónde: etc.venues 155 Bishopsgat
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082933Z
-UID:TS1-32264f9c-4200-42ab-abf2-bef4e184ea2a
+DTSTAMP:20160318T161138Z
+UID:TS1-c966c4dc-c7b8-4883-924c-ef25fbf9bc93
 DTSTART;VALUE=DATE:20160216
 DTEND;VALUE=DATE:20160305
 SUMMARY:Becas El País y Amazon para festival internacional de Periodismo de
@@ -820,8 +846,8 @@ DESCRIPTION:• Cuándo: <2016-02-16 mar>–<2016-03-04 vie>\n• Fecha límite:
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082933Z
-UID:TS2-32264f9c-4200-42ab-abf2-bef4e184ea2a
+DTSTAMP:20160318T161138Z
+UID:TS2-c966c4dc-c7b8-4883-924c-ef25fbf9bc93
 DTSTART;VALUE=DATE:20160304
 DTEND;VALUE=DATE:20160305
 SUMMARY:Becas El País y Amazon para festival internacional de Periodismo de
@@ -834,8 +860,8 @@ DESCRIPTION:• Cuándo: <2016-02-16 mar>–<2016-03-04 vie>\n• Fecha límite:
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160317T082933Z
-UID:DL-d5952ab0-003b-4d8b-82ee-8b3f84eaba0c
+DTSTAMP:20160318T161138Z
+UID:DL-11fa9268-9d42-499d-b671-3f833ff4795f
 DTSTART;VALUE=DATE:20160331
 DTEND;VALUE=DATE:20160401
 SUMMARY:DL: ProPublica's Summer Data Institute
