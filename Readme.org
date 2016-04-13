@@ -272,27 +272,8 @@ he KDE® Community is an international technology team dedicated to creating a f
 - Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
 - URL: http://medialab-prado.es/article/gnome-hispano
 
-** Q2016 European Conference on Quality in Official Statistics
-<2016-05-31 mar>--<2016-06-03 vie>
-Madrid, 31 mayo-3 junio
-El Instituto Nacional de Estadística de España y Eurostat tienen el placer de invitarle a la Conferencia Europea sobre Calidad en las Estadísticas Oficiales (Q2016) que tendrá lugar en el Círculo de Bellas Artes en Madrid, España, del 1 al 3 de Junio de 2016.
 
-El programa de la Conferencia se complementa además con una serie de cursos especializados, que se impartirán el día previo a la Conferencia (31 de Mayo de 2016).
 
-Desde su creación en 2001, estas Conferencias han supuesto un marco idóneo para presentar y discutir el progreso y desarrollo de la calidad en las estadísticas oficiales, así como para el intercambio de metodologías y buenas prácticas entre expertos de diferentes ámbitos estadísticos (oficinas de estadísticas, organizaciones internacionales, investigadores y académicos).
-
-La Conferencia pretende abarcar temas relevantes e innovadores en calidad, que van desde los desafíos y nuevos paradigmas en una sociedad impulsada por la información y el conocimiento, incluyendo el manejo de “Big data” y “estadísticas multi-fuente”, hasta los aspectos de gobernabilidad y gestión vinculados a la Visión 2020 o las lecciones aprendidas en las revisiones por pares (Peer review) 2013-2015 en el Sistema Estadístico Europeo. Además, siendo un foro abierto al debate, representa una oportunidad para presentar innovaciones en la medición y gestión de la calidad en campos y productos estadísticos específicos.
-
-El sitio web de la Conferencia ofrece información sobre la sede de la conferencia, alojamiento, cursos de formación y eventos sociales, así como los plazos para la presentación de trabajos. Las inscripciones ya están abiertas.
-
-Por favor si tienen alguna duda, contáctenos
-
-¡Les esperamos en Madrid!
-
-Gregorio Izquierdo                       Walter Radermacher
-Presidente. INE España                Director General Eurostat. Chief Statistician of the European Union
-
-http://www.q2016.es/?lang=es
 ** Reunión GNOME Hispano
 - Cuándo: <2016-04-18 lun>
 - Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
@@ -342,7 +323,14 @@ Kiki Von Glinow, Director of Growth and Analytics, The Huffington Post
  - María Ramírez, Elespanol.com
  - Fernando Berlín, radiocable.com
  - Juan Luis Sanchez, eldiario.es
- - Moderator: Dani Seseña, Cámara Abierta TVE 
+ - Moderator: Dani Seseña, Cámara Abierta TVE
+
+** TICTeC 2016
+- Cuándo: <2016-04-27 mié>--<2016-04-28 jue>
+- Dónde: Edificio Este, World Trade Center, Barcelona 8039
+- URL: https://www.mysociety.org/files/2015/09/Agenda-2016.pdf
+- Language: English
+
 
 * Mayo
 ** IV Jornadas Periodismo Datos #JPD16
@@ -415,6 +403,13 @@ La International QGIS User and Developer Conference quiere convertirse en el esp
 - Fuente: http://ejc.net/projects/news/article/ejc-announces-a-new-series-of-news-impact-summits-in-2016
 
 * Junio
+** Q2016 European Conference on Quality in Official Statistics
+<2016-05-31 mar>--<2016-06-03 vie>
+- URL: http://www.q2016.es/?lang=es
+- Lugar: Círculo de Bellas Artes en Madrid, España
+- Fechas: del 1 al 3 de Junio de 2016.
+
+
 ** ICA Fukuoka 2016, conference of the International Communication Association
 - Cuándo: <2016-06-09 jue>--<2016-06-13 lun>
 - Dónde: Fukuoka, Japón
@@ -450,7 +445,17 @@ El concurso está organizado por Global Editors Network, una plataforma que cuen
 - Cuándo: <2016-06-20 lun 18:30-20:45>
 - Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 - Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
-- URL: http://medialab-prado.es/article/gnome-hispano 
+- URL: http://medialab-prado.es/article/gnome-hispano
+** Wikimania 2016
+- Proposals:    DEADLINE: <2016-03-30 mié>
+- Cuándo: <2016-06-22 mié>--<2016-06-28 mar>
+- Dónde: Esino Lario, Lecco, Lombardía, Italia
+- Mapa: 
+- URL: https://wikimania2016.wikimedia.org/wiki/Main_Page
+
+Wikimania is the annual conference celebrating Wikipedia and its sister free knowledge projects with conferences, discussions, meetups, training and a hackathon. Hundreds of volunteer editors come together to learn about and discuss projects, approaches and issues.
+
+Join us in Esino Lario, Province of Lecco, Lombardy Region, Italy, on June 22–23 (pre-conference), 24–26 (main conference) and 27–28 (post-conference), 2016.
 
 * Julio
 ** News Impact Summit Berlin
@@ -458,7 +463,26 @@ El concurso está organizado por Global Editors Network, una plataforma que cuen
 - Dónde: Berlín, Alemania
 - URL: http://newsimpact.io
 - Fuente: http://ejc.net/projects/news/article/ejc-announces-a-new-series-of-news-impact-summits-in-2016
+** 2nd Swiss Open Cultural Data Hackaton
+- Cuándo: <2016-07-01 vie>--<2016-07-02 sáb>
+- Dónde: Basel University Library / Digital Humanities Lab, Basilea, Suiza.
+- URL: http://make.opendata.ch/wiki/event:2016-07
 
+You can already bring in ideas about ways to use cultural data. Have a look at the Swiss cultural data and data from heritage institutions abroad published under open licenses:
+- Swiss Data Sources
+- Open Cultural Data (Worldwide)
+
+You can help by sharing cultural data
+
+You may own yourself cultural data that you are ready to share. Please look at these infosheets (German / French) on how to share data. If you have further questions, please feel free to contact beat.estermann@openglam.ch.
+
+Share your discoveries of unspotted cultural data
+
+Maybe you are aware of interesting cultural data. In preparation for the hackathon we are putting together a list of such datasets links to interesting data. We encourage you to contribute to it by adding new items.
+
+Share Project Ideas
+
+You can already bring in ideas about ways to use cultural data. Feel free to take part in an ongoing brainstorming on this page. 
 ** SIGIR 2016
 <2016-07-17 dom>--<2016-07-21 jue>
 
