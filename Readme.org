@@ -384,6 +384,35 @@ El evento abordará la visualización como una herramienta para el análisis y v
 El taller tiene como objetivo aumentar la conciencia sobre el tema de la visualización de las estadísticas; identificar las mejores prácticas emergentes para identificar sinergias y opciones para los esfuerzos de desarrollo conjuntos; compartir las mejores prácticas, nuevas ideas, herramientas y experiencias. Estos objetivos tienen que contribuir al objetivo más amplio de facilitar la cooperación dentro de la ESS en el desarrollo e implementación de soluciones metodológicas comunes, alineada con la cartera de ejecución de ESS Visión 2020 http://ec.europa.eu/eurostat/web/ess/about-us/ess-vision-2020 (en particular, los aspectos de visualización de la DIGICOM proyecte) 
 http://ec.europa.eu/eurostat/documents/42577/6906243/DIGICOM+Business+Case+1.0/8a2f1b42-4101-4208-9c49-1d1819604047
 
+** Democracy Lab. Common Technology and the Democratic City
+- Cuándo: <2016-05-23 lun>--<2016-05-27 vie>
+- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL: http://dcentproject.eu/dcentmadrid/democracy-lab/
+- Registro: http://dcentproject.eu/dcentmadrid/register
+The week begins with a four-day Democracy Lab (23-27 May, Medialab-Prado) delivering workshops, hackathons and open sessions to develop, think and design tools, processes and strategies for democratic participation.
+*** Creating a Democratic Commons Network
+
+Hosted by: Xabier Barandiaran (Faculty of Social Work, University of the Basque Country; IAS Research Centre for Life, Mind and Society; and Wikitoki); Yago Bermejo Abati (LaboDemo).
+*** Data Journalism with Decide Madrid
+
+Hosted by: Pablo Aragon (Eurecat; Internet Interdisciplinary Institute, Open University of Catalonia); David Cabo (Fundació Civio) and Eva Belmonte (Fundació Civio).
+*** Direct Democracy: Legal strategies for local implementation
+
+Hosted by: Juan Carlos Madroñal (Más Democracia); Francisco Jurado (Andalucian Parliament); and Juan Moreno Yagüe (Andalucian Parliament).
+*** Coding Democracy: Ruby on rails hackathon
+
+Hosted by: Consul Team, Madrid City Council
+*** Digital Democracy: D-CENT, citizen engagement and economic empowerment
+
+Hosted by: D-CENT and Medialab-Prado
+
+*** Initiatives for open democracy and a decentralised Internet
+
+Hosted by: D-CENT; Redecentralise.org; and Labodemo.net
+*** Workshop: Making Modern Direct Democracy Work
+
+Hosted by: Bruno Kaufmann (Initiative and Referendum Institute Europe); and invited guests.
 ** I Congreso Iberoamericano Nebrija PIATCOM: tendencias, competencias y perfiles profesionales en el sector de la comunicación
 - Call for Abstracts DEADLINE: <2016-03-13 dom>
 - Cuándo: <2016-05-24 mar>--<2016-05-25 mié>
@@ -401,6 +430,18 @@ Las Jornadas de SIG Libre son un evento de referencia en el sector de las tecnol
 
  
 La International QGIS User and Developer Conference quiere convertirse en el espacio de referencia, y un punto de encuentro para la familia de usuarios y desarrolladores que orbitan alrededor del proyecto QGIS, con el objetivo de recopilar experiencias y compartir el conocimiento sobre QGIS. El idioma de la conferencia es el Inglés.
+
+** Common Technology and the Democratic City conference
+- Cuándo: <2016-05-27 vie>--<2016-05-28 sáb>
+- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL: http://dcentproject.eu/dcentmadrid/conference/
+The Common Technology and the Democratic City conference (27-28 May, Museo Reina Sofia) will conclude the week’s activities. Prompting discussion on network democracy, new forms of citizen participation and digital commons in democratic Cities, the conference will showcase the success of the European D-CENT project and look at the future of digital democracy.
+
+The event will gather politicians, activists, researchers, social movements, hackers and Cities to explore innovative methods, digital tools, and policies to strengthen large-scale citizen participation in the political process at European and global level. Participants will debate public policies at the municipal, national and European level to transform democracy and promote transparency to devolve power to citizens and fight concentration of power within public institutions.
+
+By sharing real-world insights from these global experiments and demonstrating the digital tools being used, the event will provide a positive vision of collective intelligence in 21st Century democracy.
+
 
 
 ** News Impact Summit Doha
