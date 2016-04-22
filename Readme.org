@@ -338,13 +338,28 @@ Kiki Von Glinow, Director of Growth and Analytics, The Huffington Post
 - URL: https://www.mysociety.org/files/2015/09/Agenda-2016.pdf
 - Language: English
 
+** Domina Git y GitHub
+30 sesiones del [[http://medialab-prado.es/article/periodismo_de_datos_-_grupo_de_trabajo][grupo de periodismo de datos de Medialab-Prado]] y cuarta de [[https://twitter.com/journocodersMAD][@JournocodersMAD]]. Si en estas 29 sesiones desde que comenzamos en 2011 no has aprendido [[https://git-scm.com/][Git]] y no has usado [[https://github.com][GitHub]], no sabes lo que te estás perdiendo.
+- Cuándo: <2016-04-27 mié 18:30-20:45>
+- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL: http://medialab-prado.es/article/domina-git-y-github
+- Meetup: http://www.meetup.com/es-ES/Madrid-Periodismo-de-datos-Meetup/events/230516014/
+
+** Rrrrevolucionem la primavera??? R per a Dummies i periodistes
+Ja ha arribat la primavera i estem tots RRRRevolucionats, així que a Hacks/Hackers Barcelona hem preparat una nova sessió per sacsejar el periodisme. 
+- Cuándo: <2016-04-29 vie>
+- Dónde: Barcelona Activa
+- Meetup: http://www.meetup.com/es-ES/Hacks-Hackers-Barcelona/events/230399129/?a=socialmedia
+- Organiza: Hacks/Hackers Barcelona
 
 * Mayo
 ** IV Jornadas Periodismo Datos #JPD16
 - Cuándo: <2016-05-05 jue>--<2016-05-07 sáb>
 - Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 - Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
-- URL: http://periodismodatos.okfn.es
+- URL: http://jpd16.okfn.es
+- Entradas: http://jpdatos.eventbrite.es/?s=61065066
 
 #+BEGIN_HTML
 <div itemscope itemtype="http://schema.org/Event">
@@ -626,6 +641,11 @@ First-ever Summer Data Institute, a 10-day intensive workshop on how to use data
 
 https://projects.propublica.org/graphics/summer
 https://www.propublica.org/nerds/item/propublica-summer-data-institute
+
+* Enlaces de interés
+
+** Naked Data, Code for South Africa Newsletter
+http://code4sa.org/newsletter/
 
 * Ideas
 
