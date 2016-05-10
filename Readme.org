@@ -428,6 +428,30 @@ Hosted by: D-CENT; Redecentralise.org; and Labodemo.net
 *** Workshop: Making Modern Direct Democracy Work
 
 Hosted by: Bruno Kaufmann (Initiative and Referendum Institute Europe); and invited guests.
+** Ciudades democráticas
+Tecnologías de los comunes y derecho a la ciudad democrática
+- Cuándo: <2016-05-23 lun>--<2016-05-28 sáb>
+- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid. Museo Reina Sofía.
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL: http://ciudades-democraticas.cc
+
+La ciudad de Madrid será entre el 23 y 28 de mayo la capital mundial de la participación ciudadana y tecnológica. El D-Cent Project, el Ayuntamiento de Madrid y el Museo Nacional Centro de Arte Reina Sofía han programado una intensa semana llena de actividades sobre ciudades democráticas, tecnologías de los comunes y participación ciudadana. El programa del encuentro se divide en el Democracy Lab y en la Conferencia Internacional.
+
+** Hackathon Fujitsu Open Data para Smart Cities
+- Plazo: <2016-05-22 dom>
+- Cuándo: <2016-05-24 mar>
+- Dónde: Pabellón 8 de IFEMA, Calle de Ribera del Sena, Madrid.
+- Mapa: http://www.openstreetmap.org/way/34050269
+- URL: http://dcentproject.eu/dcentmadrid/conference/
+Hackathon Fujitsu Open Data para Smart Cities patrocinado conjuntamente por Fujitsu España y Fujitsu Laboratories.
+
+En Fujitsu queremos fomentar el desarrollo de nuevos métodos de exploración de datos, colaborando tanto en los avances científicos de ámbito público como en aquellos que afectan a la vida cotidiana de las personas. Creemos que Open Data en general y Linked Open Data en particular pueden desempeñar un papel vital en nuestras vidas, ayudando a la Transformación Digital de la Sociedad a través del uso de fuentes públicas de datos.
+
+Por este motivo, en 2015 patrocinamos el primer concurso sobre Linked Open Data y este año lanzamos un Hackathon sobre el mismo tema. En Fujitsu queremos hacer realidad el Linked Open Data.
+
+El Hackathon se desarrollará el día 24 de mayo dentro del evento Digital Enterprise Show, que tendrá lugar en el Pabellón 8 de IFEMA en Madrid. Fujitsu otorgará un premio en metálico de 3.000 euros al mejor desarrollo. Este premio será presentado públicamente durante el Fujitsu World Tour el día 25 de mayo también en el Pabellón 8 de IFEMA.
+
+
 ** I Congreso Iberoamericano Nebrija PIATCOM: tendencias, competencias y perfiles profesionales en el sector de la comunicación
 - Call for Abstracts DEADLINE: <2016-03-13 dom>
 - Cuándo: <2016-05-24 mar>--<2016-05-25 mié>
@@ -471,6 +495,19 @@ By sharing real-world insights from these global experiments and demonstrating t
 - URL: http://www.q2016.es/?lang=es
 - Lugar: Círculo de Bellas Artes en Madrid, España
 - Fechas: del 1 al 3 de Junio de 2016.
+
+** Open Expo 2016
+- Cuándo: <2016-06-02 jue>
+- Dónde: Ático de la Estación de Chamartín, Calle de Rodríguez Jaén, Madrid.
+- Mapa: http://www.openstreetmap.org/relation/4804690
+- URL: http://www.openexpo.es
+- Entrada: Varía el precio, http://www.openexpo.es/openexpo-2016/inscripcion
+
+OpenExpo 2016, III Feria y Congreso anual sobre FLOSS y Open World Economy (Open Data y Open Innovation) que reúne el 2 de junio 2016 en el Espacio MEEU, Ático de la Estación de Chamartín (Madrid) a más de 2.000 personalidades del sector, profesionales y empresas en búsqueda de generación de negocio.
+
+• Encuentro con más de 2.000 profesionales senior del sector en solo un día: representantes de las principales empresas e instituciones, desarrolladores de código abierto, hackers, expertos, proveedores y usuarios de todos los niveles.
+• Un día de conferencias, casos de éxito, Keynotes, talleres, mesas redondas, demos y otras actividades paralelas en torno al mundo de las tecnologías libres.
+• Más de 100 empresas participantes que presentarán sus novedades y soluciones tecnológicas.
 
 
 ** ICA Fukuoka 2016, conference of the International Communication Association
