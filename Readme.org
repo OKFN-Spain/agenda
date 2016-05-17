@@ -3,10 +3,12 @@
 #+TAGS: boletín, periodismodatos, tinyletter, 
 #+DESCRIPTION: Calendario de eventos relacionados con el conocimiento abierto para 2016
 #+TITLE: Agenda de Open Knowledge España 2016
-#+OPTIONS:  toc:1 num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 Bienvenidxs a la agenda de eventos relacionados o de interés para la comunidad del conocimiento abierto España.
 
 Si tienes un evento que proponer, añade [[https://github.com/OKFN-Spain/agenda/issues/new][una nueva issue]].
+
+#+TOC: headlines 2
 
 * Enero
 ** Madrid Python: Aplicaciones avanzadas de /Scraping/
