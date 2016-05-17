@@ -658,7 +658,34 @@ Big data players from finance, healthcare & insurance, retail, IoT, entertainmen
 Learn from industry leaders, attend meet-ups, webinars, workshops and discuss the latest developments in the big data world.
 
 * Todo el año
-* Becas
+* Becas, ofertas de trabajo
+** Desarrollador web Python en Viderum
+- URL: http://www.viderum.com/blog/2015/12/07/senior-python-web-developer
+- Entidad: Viderum
+- Publicado: <2015-12-15 mar>
+
+Working in the fast-growing area of open data, we build open source tools to drive transparency, accountability and re-use. Based on CKAN, we‘ve built the the official national data portals from the UK to Brazil, US to Australia and many others.
+
+We’re looking for someone passionate about the technical challenges of building software that is used as the infrastructure for open data around the world, so come join our growing team to shape the future of the open data ecosystem!
+
+Key Skills
+
+- Python, JavaScript, HTML, CSS
+- Python web frameworks (we use Pylons and Flask)
+- PostgreSQL and SQLAlchemy
+- Self motivated, self-starter, able to manage your own time
+
+Extra bonus points for:
+
+- Open source projects/contributions
+- Front end skills, particularly in data-vis
+- You’ve written an app using open data before
+- Experience working in a distributed team
+- Ability to communicate in German
+
+How to apply
+
+Email jobs@viderum.com, with the subject line “Python Developer: CKAN”. Please include your CV and a link to your GitHub (or similar) profile.
 ** Becas El País y Amazon para festival internacional de Periodismo de Perugia
 - Cuándo: <2016-02-16 mar>--<2016-03-04 vie>
 - Fecha límite:   DEADLINE: <2016-03-04 vie>
@@ -669,6 +696,37 @@ Los premiados ganarán un viaje al Festival Internacional de Periodismo de Perug
 
 ** Premios de periodismo
 http://gijn.org/2015/06/08/premios-para-periodistas-de-investigacion/
+
+** eldiario.es
+- URL: http://www.eldiario.es/redaccion/Quieres-tecnologico-revolucionara-sostenibilidad-medios_6_505059505.html
+- desarrolladores para encargarse del diseño e implantación de la tecnología del modelo editorial y de socios de eldiario.es
+- [[https://docs.google.com/document/d/1WeBBl6FqBbEAYDCJVk5um2R2vDsDxSjOaCuq_tiTT1s/edit][Lead Developer]] 
+- desarrolladores front
+- desarrolladores back-end.
+** Contentmine Fellowship
+- DEADLINE: <2016-06-03 vie>
+- URL: https://discuss.okfn.org/t/announcing-contentmine-fellowships-applications-due-3-june-2016/2761
+- Más info: https://contentmining.wordpress.com/2016/04/27/announcing-contentmine-fellowships/
+- We welcome and encourage applicants from outside academia.
+- Fellows will receive a £1000 grant and support for their project from the ContentMine team
+- If you have any questions about the Fellowships, please contact graham [at] contentmine [dot] org
+
+We require applicants to have basic knowledge of:
+
+- UNIX command line
+- At least one programming language such as javascript, java, python, R, MATLAB or other data science/statistical programming languages.
+- Version control using git and github
+
+** Reuters Institute hosts Google Digital News Journalist Fellowship
+-   DEADLINE: <2016-06-17 vie>
+- Pueden aplicar periodistas de Austria, Belgium, Czech Republic, Denmark, Finland, France, Germany, Greece, Hungary, Italy, Ireland, Netherlands, Norway, Poland, Portugal, Spain, Sweden, Switzerland and Turkey
+- 5 años de inglés profesional
+- URL: https://ijnet.org/en/opportunities/reuters-institute-hosts-google-digital-news-journalist-fellowship-europe
+- Más info: http://reutersinstitute.politics.ox.ac.uk/news/call-applications-new-google-digital-news-journalist-fellowship-0
+- Twitter: [[https://twitter.com/risj_oxford][@risj_oxford]]
+The Reuters Institute for the Study of Journalism at Oxford University is seeking applications for its Google Digital News Journalist Fellowship in Oxford, United Kingdom.
+
+The fellowship is intended for two six-month terms starting either October 2016 or January 2017. Fellows will work on a research paper based on some aspect of either the survey data for the 2017 Reuters Institute Digital News Report or digital journalism more generally with a direct focus on the professional and industry implications based on their own experience. 
 
 * Cursos
 
