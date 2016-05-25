@@ -1,4 +1,4 @@
-#+BLOG: infotics
+#+BLOG: blog.infotics.es
 #+CATEGORY: calendario, evento, periodismodatos, datajournalism 
 #+TAGS: boletín, periodismodatos, tinyletter, 
 #+DESCRIPTION: Calendario de eventos relacionados con el conocimiento abierto para 2016
@@ -485,6 +485,12 @@ By sharing real-world insights from these global experiments and demonstrating t
 
 
 
+** Call for Abstracts Open Data Research Symposium
+   DEADLINE: <2016-05-30 lun>
+http://odresearch.org/abstract.html
+
+Conferencia el 5 de octubre
+
 ** News Impact Summit Doha
 - Cuándo: <2016-05-30 lun>
 - Dónde: Doha, Qatar
@@ -511,12 +517,52 @@ OpenExpo 2016, III Feria y Congreso anual sobre FLOSS y Open World Economy (Open
 • Un día de conferencias, casos de éxito, Keynotes, talleres, mesas redondas, demos y otras actividades paralelas en torno al mundo de las tecnologías libres.
 • Más de 100 empresas participantes que presentarán sus novedades y soluciones tecnológicas.
 
+** Debate sobre datos abiertos
+- Cuándo: <2016-06-02 jue 01:30-02:10pm>
+- Dónde: Ático de la Estación de Chamartín, Calle de Rodríguez Jaén, Madrid.
+- Mapa: http://www.openstreetmap.org/relation/4804690
+- URL: http://www.openexpo.es
+- Entrada: Varía el precio, http://www.openexpo.es/openexpo-2016/inscripcion
+
+Mesa redonda moderada por Adolfo Antón Bravo, presidente de Open Knowledge España y coordinador del programa de Transparencia y Datos Abiertos de Medialab-Prado. Con la participación de:
+- María Poveda, de ODI Madrid y OEG-UPM. Datos abiertos y enlazados (Linked Open Data)
+- Alberto Abella, de Open Knowledge España, profesor en URJC. Datos abiertos e impacto en la sociedad. ¿Como argumentar que invertir en datos abiertos no es un mal uso de los recursos públicos? ¿Tenemos los datos de su impacto?¿Sabemos como se produce? ¿Hay alguna buena práctica o seguir? ¿Cuanto hay de postureo en las apuestas por la apertura de datos?. 
+- representante del ayuntamiento de Madrid (por confirmar)
+
+*** Ponentes
+**** Adolfo Antón Bravo
+Adolfo Antón Bravo ([[https://www.twitter.com/adolflow][@adolflow]]) es doctor en Ciencias de la Información por la Universidad Complutense de Madrid donde ha realizado su tesis sobre Tecnologías de la Web Semántica. Presidente de Open Knowledge España y editor de Infotics.es (@infotics), ha coordinado las actividades del grupo de trabajo de Periodismo de Datos de Medialab-Prado y las Jornadas de Periodismo de Datos (2014-2016). Ha trabajado o trabaja como diseñador, periodista, formador y es un apasionado del Software Libre y el conocimiento abierto. En la actualidad coordina el programa de Transparencia y Datos Abiertos de Medialab-Prado.
+
+
+**** Alberto Abella
+Alberto Abella es profesor asociado de la URJC y investigador y doctorando sobre el impacto económico de los datos abiertos. Fundador de OK Spain y miembro de su junta directiva. Ha desarrollado una una métrica (http://meloda.org) para  evaluar como optimizar la publicación de open data. Publicó de 2003 a 2007 el I, II y III libro blanco del software libre en España. Actualmente sus líneas de investigación se centran en determinar el impacto de la economía de los datos. En el ámbito privado también ha participado en proyectos europeos para el fomento de empreas basadas en datos y es evaluador para incubadoras de negocios de startups con modelos de negocio basados en datos.
+**** María Poveda
+María Poveda Villalón es doctora en Inteligencia Artificial y máster en Investigación por la Universidad Politécnica de Madrid (UPM). Actualmente es investigadora postdoctoral en el Ontology Engineering Group de la UPM, grupo que alberga el Nodo para la región de Madrid del Open Data Institute. Sus intereses en investigación son principalmente la ingeniería ontológica, la web semántica y datos enlazados. Durante los últimos años ha realizado estancias de investigación en centros extranjeros como University of Liverpool (2011), Free University of Berlin (2012) y en empresas como Mondeca en Paris (2013). Además ha participado en numerosos proyectos de investigación tanto a nivel nacional como internacional.
 
 ** ICA Fukuoka 2016, conference of the International Communication Association
 - Cuándo: <2016-06-09 jue>--<2016-06-13 lun>
 - Dónde: Fukuoka, Japón
 - Mapa: 
 - URL: http://icahdq.org
+
+** Evento transparente
+- Cuándo: <2016-06-15 mié 10:00-18:00>
+- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL: http://eventotransparente.org/
+
+*** Horario
+- 10:00, Recepción y acreditaciones
+- 10:15, Presentación
+- 10:30, Panel 1: Participación ciudadana
+- 11:45, Café
+- 12:15, Panel 2: Datos abiertos
+- 13:30, Panel 3: Cómo mejorar la Legislación de Transparencia
+- 15:00, Cóctel
+- 16:15, Panel 4: Gobierno abierto
+- 17:45, Clausura: Luis Furnells, Presidente Ejecutivo Grupo Oesía
+
+
 ** GEN Summit
 - Cuándo: <2016-06-15 mié>--<2016-06-17 vie>
 - Dónde: Viena, Austria
@@ -618,8 +664,14 @@ SRCCON is a hands-on conference focused on the practical challenges news technol
 - URL: http://www.gigapp.org/index.php/congreso/congreso-2016
 
 “Construyendo una nueva cultura administrativa: políticas y gestión pública con la ciudadanía”
-El Congreso Internacional en Gobierno, Administración y Políticas Públicas, organizado por el GIGAPP desde 2010, ha logrado constituirse en un Congreso anual de referencia en los temas de Gobierno, Administración y Políticas Públicas en Iberoamérica. La progresión del evento da cuenta del avance en cantidad y calidad del evento. Este evento es un espacio abierto pensado para presentar y debatir nuevas ideas y enfoques, experiencias e investigaciones de calidad y cultivar vínculos de colaboración y generación de redes de trabajo sobre los ejes temáticos en los que se enmarca. 
- 
+El Congreso Internacional en Gobierno, Administración y Políticas Públicas, organizado por el GIGAPP desde 2010, ha logrado constituirse en un Congreso anual de referencia en los temas de Gobierno, Administración y Políticas Públicas en Iberoamérica. La progresión del evento da cuenta del avance en cantidad y calidad del evento. Este evento es un espacio abierto pensado para presentar y debatir nuevas ideas y enfoques, experiencias e investigaciones de calidad y cultivar vínculos de colaboración y generación de redes de trabajo sobre los ejes temáticos en los que se enmarca.
+
+** Open Data Research Symposium 2016
+- Cuándo: <2016-10-05 mié 10:00-20:00>
+- Dónde: Madrid, Spain
+- Mapa: 
+- URL: http://odresearch.org/ 
+
 ** IODC 2016
 <2016-10-06 jue>--<2016-10-07 vie>
 4ª Conferencia Internacional sobre Datos Abiertos
