@@ -504,6 +504,21 @@ Conferencia el 5 de octubre
 - Lugar: Círculo de Bellas Artes en Madrid, España
 - Fechas: del 1 al 3 de Junio de 2016.
 
+** Iniciación de Web Scraping con Python
+- Cuándo: <2016-06-01 mié 18:30-20:30>
+- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL: http://medialab-prado.es/article/iniciacion-a-web-scraping-con-python
+
+El 1 de junio escrapearemos la web con Python, o como también se dice, webscraping con Python de la mano de Nicolás Pérez (@nicolasperezi), reportero de datos de El Español.
+
+** CartoDBeers Elecciones 26J
+- Cuándo: <2016-06-01 mié 19:30-20:30>
+- Dónde: Palacio de la Prensa, Gran Vía 46, 2ª planta. 28013, Madrid
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL: https://www.eventbrite.es/e/entradas-cartodbeers-elecciones-26j-25258224028
+
+Taller enfocado a la visualización de los datos electorales para las elecciones generales del 26 de Junio. Tras este workshop, tendremos el placer de invitaros a unas cervezas y así poder charlar sobre cómo sacar el mayor partido a vuestras visualizaciones a través de CartoDB.
 ** Open Expo 2016
 - Cuándo: <2016-06-02 jue>
 - Dónde: Ático de la Estación de Chamartín, Calle de Rodríguez Jaén, Madrid.
@@ -589,6 +604,14 @@ Estos son los únicos premios mundiales que reconocen y ayudan a visibilizar la 
 - Premio de excelencia (premio del jurado y premio del público) 
 
 El concurso está organizado por Global Editors Network, una plataforma que cuenta con el apoyo de Google y Knight Foundation y que aglutina jefes de redacción e innovadores en medios de comunicación comprometidos con el periodismo de alta calidad.
+** Taller de PostGIS y CartoCSS con CartoDB
+- Cuándo: <2016-06-18 sáb 10:00-13:00>
+- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL: http://medialab-prado.es/article/taller-de-postgis-y-cartocss-con-cartodb
+
+Taller organizado por GeoInquietos Madrid será de dificultad intermedia ajustado para aquellos geoinquietos interesados en el análisis de bases de datos espaciales con PostGIS, así como el diseño de visualizaciones con el lenguaje de estilos CartoCSS, ambos dentro del editor de CartoDB. 
+
 ** Reunión GNOME Hispano
 - Cuándo: <2016-06-20 lun 18:30-20:45>
 - Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
@@ -671,7 +694,7 @@ El Congreso Internacional en Gobierno, Administración y Políticas Públicas, o
 - Dónde: Madrid, Spain
 - Mapa: 
 - URL: http://odresearch.org/ 
-
+- Hashtag: [[https://twitter.com/hashtag/ODRS16?src%3Dhash][ODR16]]
 ** IODC 2016
 <2016-10-06 jue>--<2016-10-07 vie>
 4ª Conferencia Internacional sobre Datos Abiertos
