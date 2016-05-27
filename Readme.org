@@ -554,6 +554,16 @@ Alberto Abella es profesor asociado de la URJC y investigador y doctorando sobre
 **** María Poveda
 María Poveda Villalón es doctora en Inteligencia Artificial y máster en Investigación por la Universidad Politécnica de Madrid (UPM). Actualmente es investigadora postdoctoral en el Ontology Engineering Group de la UPM, grupo que alberga el Nodo para la región de Madrid del Open Data Institute. Sus intereses en investigación son principalmente la ingeniería ontológica, la web semántica y datos enlazados. Durante los últimos años ha realizado estancias de investigación en centros extranjeros como University of Liverpool (2011), Free University of Berlin (2012) y en empresas como Mondeca en Paris (2013). Además ha participado en numerosos proyectos de investigación tanto a nivel nacional como internacional.
 
+** R en Junio en Medialab-Prado
+- Cuándo: <2016-06-09 jue 19:00-20:30>
+- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL: http://www.meetup.com/es-ES/Grupo-de-Usuarios-de-R-de-Madrid/events/231334596/
+
+Daniel Santolaria: Daniel nos presentará una solución sobre openCPU como servidor web para aplicaciones de R. Y de un ejemplo propio que se llama "Modeler", y que se trata de un modelizador web de series temporales. Éste se puede ver en medible.es
+
+Santiago Mota: Santiago hará una introducción a la plataforma Kaggle, qué es, cómo funciona y algunos consejos prácticos para los que están empezando.
+
 ** ICA Fukuoka 2016, conference of the International Communication Association
 - Cuándo: <2016-06-09 jue>--<2016-06-13 lun>
 - Dónde: Fukuoka, Japón
