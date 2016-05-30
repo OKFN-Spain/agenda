@@ -595,6 +595,21 @@ Santiago Mota: Santiago hará una introducción a la plataforma Kaggle, qué es,
 - URL: http://www.gensummit2016.org/
 
 How can the media industry deal with Facebook, Apple, Google, Amazon and other mega-platforms offering news to their users? This is the major question for 2016 and the sixth annual GEN Summit will explore the most relevant solutions for your newsroom. Over-the-top platforms claim to want to partner with media organisations and share revenue, but who will own the data and the readers’ loyalty? Content distribution is becoming a common battleground for legacy media and pure online players alike. For the first time, both are facing the same struggle. Join more than 600 Editors-in-Chief and media innovators for three days in Vienna, presented by the Global Editors Network, June 15-17, 2016.
+
+** Madrid D3.js: Teoría sobre visualización e introducción a Submarine.js
+- Cuándo: <2016-06-16 jue 19:30-20:45>
+- Dónde:  Ronda de Atocha, 37 Oficina Derecha 28012, Madrid
+- Mapa: 
+- URL: http://www.meetup.com/es-ES/Madrid-D3-js/events/231507953/?rv=ea1
+
+Juan Morales (@crispamares) hablará de Visualizar con la cabeza en mente:
+
+¿Cómo crear visualizaciones que representen tus datos de forma efectiva y expresiva? ¿Qué layout usar? ¿Qué colores usar? En esta charla hablaremos de percepción y de cómo mapear las variables de tu dataset a variables visuales.
+
+Álvaro Sánchez (@alvarosata) nos hablará de Submarine.js:
+
+¿Tienes datos geolocalizados y quieres visualizarlos? ¿Los productos de mapas se te quedan cortos, pero desarrollar desde cero es demasiado costoso? Submarine.js es una librería de código abierto para facilitar la impletementación de mapas interactivos con D3 y Leaflet. https://github.com/Telefonica/submarine
+
 ** Data Journalism Awards
    DEADLINE: <2016-04-10 dom>
 - Cuándo: <2016-06-17 vie>
