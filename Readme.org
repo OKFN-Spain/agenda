@@ -819,6 +819,16 @@ We require applicants to have basic knowledge of:
 - At least one programming language such as javascript, java, python, R, MATLAB or other data science/statistical programming languages.
 - Version control using git and github
 
+** UI Designer at Populate
+- Fecha publicación: <2016-05-17 mar>
+- URL: http://populate.tools/join_us.html
+Populate is looking for a visual designer
+Write to itsme@populate.tools telling us about:
+
+- 3 recent projects you worked in and you are most proud of, why, your achievements in the project and those of the project itself.
+- 3 civic tech initiatives (tools, data journalism projects, etc) you have discovered recently, and why you think they are interesting.
+- Some ideas of products you have been thinking on building.
+ 
 ** Reuters Institute hosts Google Digital News Journalist Fellowship
 -   DEADLINE: <2016-06-17 vie>
 - Pueden aplicar periodistas de Austria, Belgium, Czech Republic, Denmark, Finland, France, Germany, Greece, Hungary, Italy, Ireland, Netherlands, Norway, Poland, Portugal, Spain, Sweden, Switzerland and Turkey
