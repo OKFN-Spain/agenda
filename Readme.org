@@ -635,7 +635,14 @@ El concurso está organizado por Global Editors Network, una plataforma que cuen
 - Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
 - URL: http://medialab-prado.es/article/taller-de-postgis-y-cartocss-con-cartodb
 
-Taller organizado por GeoInquietos Madrid será de dificultad intermedia ajustado para aquellos geoinquietos interesados en el análisis de bases de datos espaciales con PostGIS, así como el diseño de visualizaciones con el lenguaje de estilos CartoCSS, ambos dentro del editor de CartoDB. 
+Taller organizado por GeoInquietos Madrid será de dificultad intermedia ajustado para aquellos geoinquietos interesados en el análisis de bases de datos espaciales con PostGIS, así como el diseño de visualizaciones con el lenguaje de estilos CartoCSS, ambos dentro del editor de CartoDB.
+** Code for Spain Unconference
+- Cuándo: <2016-06-18 sáb>
+- Dónde: Campus Madrid (Calle Moreno Nieto 12, Madrid)
+- Mapa: 
+- URL: https://docs.google.com/forms/d/1nbwT36hPt1FtokcElK5hW3VBrLzsUPHgEKjLtWddKFU/viewform?c=0&w=1
+
+Primer evento de la iniciativa con el que pretenden poner cara los miembros, dar a conocer cual es el propósito del proyecto, los avances realizados y principalmente abrir un espacio donde tratar aquellos temas que más nos preocupan como los que se pueden leer en el repositorio de Github: https://github.com/codeforspain/datos/issues
 
 ** Reunión GNOME Hispano
 - Cuándo: <2016-06-20 lun 18:30-20:45>
