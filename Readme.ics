@@ -6,8 +6,8 @@ X-WR-TIMEZONE:CEST
 X-WR-CALDESC:Agenda de Open Knowledge España 2016
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-3951dd6a-8681-45ab-b375-7c7d754ea51c
+DTSTAMP:20160606T083254Z
+UID:TS1-56de8832-328f-4e11-b0d6-80b7430e42cb
 DTSTART;VALUE=DATE:20160113
 DTEND;VALUE=DATE:20160114
 SUMMARY:Madrid Python: Aplicaciones avanzadas de /Scraping/
@@ -16,308 +16,312 @@ DESCRIPTION:• Cuándo: <2016-01-13 mié>\n• URL:\n  [http://www.meetup.com/e
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-b57d393c-b1c7-4df8-8432-a9995e1a743d
+DTSTAMP:20160606T083254Z
+UID:TS1-3e75d944-ee6e-4323-8b36-2ae7c5a59a1d
 DTSTART:20160114T190000
 DTEND:20160114T204500
 SUMMARY:Grupo R de Madrid
 DESCRIPTION:• Cuándo: <2016-01-14 jue 19:00>–<2016-01-14 jue 20:45>\n• Dónd
- e: Medialab Prado, Plaza de las Letras, C/ de la Alameda, 15 ,\n  Madrid\n
- • Mapa:\n  [http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.
- 69359]\n• URL:\n  [http://www.meetup.com/es-ES/Grupo-de-Usuarios-de-R-de-M
- adrid/events/227983479/]
+ e: Medialab Prado\, Plaza de las Letras\, C/ de la Alameda\, 15 \,\n  Madr
+ id\n• Mapa:\n  [http://www.openstreetmap.org/way/219016719#map=19/40.41044
+ /-3.69359]\n• URL:\n  [http://www.meetup.com/es-ES/Grupo-de-Usuarios-de-R-
+ de-Madrid/events/227983479/]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-ac65861c-d90d-48fb-8335-3a4af74c607a
+DTSTAMP:20160606T083254Z
+UID:TS1-507b7392-b04c-41e5-a9eb-a207acbcd4f4
 DTSTART:20160116T100000
 DTEND:20160116T140000
 SUMMARY:MadridJS: Taller de programación funcional
 DESCRIPTION:• Cuándo: <2016-01-16 sáb 10:00>–<2016-01-16 sáb 14:00>\n• Dónd
- e: Campus Madrid, Calle Manzanares, 1, Madrid.\n• Mapa: [http://www.openst
- reetmap.org/way/7648766]\n• URL: [http://www.meetup.com/es-ES/madridjs/eve
- nts/227302060/]\n\nDe la mano de Javier Vélez, profesor de la UNED y co-or
- ganizador de\nMadridJS, aprenderemos a usar técnicas funcionales con JavaS
- cript.\n\nEn este taller nos centraremos en abordar los elementos esencial
- es de\nla programación funcional tratando de describir como es la algoritm
- ia\nfuncional de una manera comparada en relación a la\nimperativa. Revisa
- remos los principios de diseño fundamentales, la\nausencia de estado, la t
- ransparencia referencial, la inmutabilidad,\netc. Estudiaremos recursivida
- d y diseño funcional por inmersión, orden\nsuperior y compositividad, eval
- uación parcial y currificación,\nabstracciones de datos funcionales, strea
- ms y apis fluidas y lo que el\ntiempo nos permita… Todo ello nos proporcio
- nará las skills necesarias\npara entender qué es exactamente una solución 
- funcional, que la\ndistingue de otras aproximaciones y nos preparará sin d
- uda para hacer\nfrente al emergente reto de las arquitecturas reactivas qu
- e se imponen\ncomo una realidad actual.
+ e: Campus Madrid\, Calle Manzanares\, 1\, Madrid.\n• Mapa: [http://www.ope
+ nstreetmap.org/way/7648766]\n• URL: [http://www.meetup.com/es-ES/madridjs/
+ events/227302060/]\n\nDe la mano de Javier Vélez\, profesor de la UNED y c
+ o-organizador de\nMadridJS\, aprenderemos a usar técnicas funcionales con 
+ JavaScript.\n\nEn este taller nos centraremos en abordar los elementos ese
+ nciales de\nla programación funcional tratando de describir como es la alg
+ oritmia\nfuncional de una manera comparada en relación a la\nimperativa. R
+ evisaremos los principios de diseño fundamentales\, la\nausencia de estado
+ \, la transparencia referencial\, la inmutabilidad\,\netc. Estudiaremos re
+ cursividad y diseño funcional por inmersión\, orden\nsuperior y compositiv
+ idad\, evaluación parcial y currificación\,\nabstracciones de datos funcio
+ nales\, streams y apis fluidas y lo que el\ntiempo nos permita… Todo ello 
+ nos proporcionará las skills necesarias\npara entender qué es exactamente 
+ una solución funcional\, que la\ndistingue de otras aproximaciones y nos p
+ reparará sin duda para hacer\nfrente al emergente reto de las arquitectura
+ s reactivas que se imponen\ncomo una realidad actual.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-b8773d9c-90c8-4c0a-a735-7b46d27cc012
+DTSTAMP:20160606T083254Z
+UID:TS1-42c42e33-59a3-4584-8526-602a993f7597
 DTSTART:20160118T183000
 DTEND:20160118T203000
 SUMMARY:X Machine Learning Spain
 DESCRIPTION:• Cuándo: <2016-01-18 lun 18:30>–<2016-01-18 lun 20:30>\n• Dónd
- e: Campus Madrid, Calle Manzanares, 1, Madrid\n• Mapa: [http://www.openstr
- eetmap.org/way/7648766]\n• URL:\n  [http://www.meetup.com/es-ES/MachineLea
- rningSpain/events/227206352/]
+ e: Campus Madrid\, Calle Manzanares\, 1\, Madrid\n• Mapa: [http://www.open
+ streetmap.org/way/7648766]\n• URL:\n  [http://www.meetup.com/es-ES/Machine
+ LearningSpain/events/227206352/]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-503c0707-04c1-4044-9ccc-b7634822513e
+DTSTAMP:20160606T083254Z
+UID:TS1-583bd40f-a7e9-41a9-ae3f-e5609bbf9dfd
 DTSTART:20160119T184500
 DTEND:20160119T203000
 SUMMARY:Journocoders Madrid meets BBC API
 DESCRIPTION:• Cuándo: <2016-01-19 mar 18:45>–<2016-01-19 mar 20:30>\n• Dónd
- e: Medialab Prado, Plaza de las Letras, C/ de la Alameda, 15 ,\n  Madrid\n
- • Mapa:\n  [http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.
- 69359]\n• URL: [http://s.coop/apibbc]\n\nPrimero haremos un show&tell con 
- los enlaces recomendados de\n#periodismodatos. Luego seguimos un tutorial 
- muy básico sobre cómo\ntrabajar con API. Para ello, utilizaremos la herram
- ienta desarrollada\npor BBC News Labs: News Juicer API. Esta API permite a
- cceder a los\nartículos en diferentes idiomas de más de 400 medios en todo
-  el mundo.
+ e: Medialab Prado\, Plaza de las Letras\, C/ de la Alameda\, 15 \,\n  Madr
+ id\n• Mapa:\n  [http://www.openstreetmap.org/way/219016719#map=19/40.41044
+ /-3.69359]\n• URL: [http://s.coop/apibbc]\n\nPrimero haremos un show&tell 
+ con los enlaces recomendados de\n#periodismodatos. Luego seguimos un tutor
+ ial muy básico sobre cómo\ntrabajar con API. Para ello\, utilizaremos la h
+ erramienta desarrollada\npor BBC News Labs: News Juicer API. Esta API perm
+ ite acceder a los\nartículos en diferentes idiomas de más de 400 medios en
+  todo el mundo.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-a082de0f-c89e-49d4-911e-e01a00a259a2
+DTSTAMP:20160606T083254Z
+UID:TS1-e6f1f3da-3ca9-49b7-a972-ac5a79d886bc
 DTSTART;VALUE=DATE:20160119
 DTEND;VALUE=DATE:20160120
 SUMMARY:Java vs Node.js: el encuentro
-DESCRIPTION:• Cuándo: <2016-01-19 mar>\n• Dónde: Campus Madrid, Calle Manza
- nares, 1, Madrid\n• Mapa: [http://www.openstreetmap.org/way/7648766]\n• UR
- L: [http://www.meetup.com/es-ES/Node-js-Madrid/events/226495441/]\n\nVamos
-  a hacer una mesa redonda entre dos comunidades muy distintas en\naparienc
- ia pero no tanto en la práctica: Java y Node.js. Moderada por\nel gran Dav
- id Bonilla (@david_bonilla), CEO de Otogami, y con los\nsiguientes ponente
- s de lujo asiático:\n\n• Javier Vélez (@javiervelezreye)\n• Javier Abadía 
- @javierabadia\n• Pedro Palao\n• Micael Gallego: @micael_gallego [https://a
- bout.me/micael.gallego]\n• Leo Antoli (@lantoli) [http://nextail.co]\n• Na
- cho Coloma (@nachocoloma)\n\n¿Qué podemos aprender unos de otros? ¿En qué 
- nos parecemos y en qué\nnos diferenciamos? Entre otras cosas, hablaremos d
- e:\n\n• Tipado fuerte vs tipado débil.\n• Productividad.\n• Rendimiento: b
- ruto y de entrada/salida.\n• Soporte enterprise.\n• Y los que salgan.\n\n¿
- Te vas a perder el evento de moda en el nuevo año?
+DESCRIPTION:• Cuándo: <2016-01-19 mar>\n• Dónde: Campus Madrid\, Calle Manz
+ anares\, 1\, Madrid\n• Mapa: [http://www.openstreetmap.org/way/7648766]\n•
+  URL: [http://www.meetup.com/es-ES/Node-js-Madrid/events/226495441/]\n\nVa
+ mos a hacer una mesa redonda entre dos comunidades muy distintas en\napari
+ encia pero no tanto en la práctica: Java y Node.js. Moderada por\nel gran 
+ David Bonilla (@david_bonilla)\, CEO de Otogami\, y con los\nsiguientes po
+ nentes de lujo asiático:\n\n• Javier Vélez (@javiervelezreye)\n• Javier Ab
+ adía @javierabadia\n• Pedro Palao\n• Micael Gallego: @micael_gallego [http
+ s://about.me/micael.gallego]\n• Leo Antoli (@lantoli) [http://nextail.co]\
+ n• Nacho Coloma (@nachocoloma)\n\n¿Qué podemos aprender unos de otros? ¿En
+  qué nos parecemos y en qué\nnos diferenciamos? Entre otras cosas\, hablar
+ emos de:\n\n• Tipado fuerte vs tipado débil.\n• Productividad.\n• Rendimie
+ nto: bruto y de entrada/salida.\n• Soporte enterprise.\n• Y los que salgan
+ .\n\n¿Te vas a perder el evento de moda en el nuevo año?
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-ce13bc4a-7863-4bc5-afde-aa882471155d
+DTSTAMP:20160606T083254Z
+UID:TS1-b3340cb3-463e-4c92-af08-61409c2a2c62
 DTSTART:20160127T193000
 DTEND:20160127T203000
 SUMMARY:/D3.js Madrid/: introducción a /D3.js/ y creación de /dashboard/ co
  n /DC.js/
 DESCRIPTION:• Cuándo: <2016-01-27 mié 19:30>–<2016-01-27 mié 20:30>\n• Dónd
- e: Oficinas de ShuttleCloud, Ronda de Atocha, 37 Oficina Derecha\n  28012,
-  Madrid\n• Mapa: [http://www.openstreetmap.org/node/3423331185]\n• URL: [h
- ttp://www.meetup.com/es-ES/Madrid-D3-js/events/228011001]\n\nSegundo Meetu
- p de [D3.js Madrid] con un par de charlas:\n\n• Introducción a [D3.js] por
-  [Beatriz Martínez]\n• Crear un dashboard con [DC.js], por [Fernando Blat]
- \n\nSe trata de dos charlas de 30 minutos de duración. Para la primera no\
- nhace falta ningún conocimiento previo de D3, mientras que para la\nsegund
- a se darán por sabidos algunos conceptos. La idea es poder\nllegar tanto a
-  gente que no conoce la librería como a gente que ya se\nha peleado con el
- la y quiere profundizar en algún tema.\n\nAsí que animaros aunque no hayái
- s utilizado D3 nunca.\n\nPD: por cierto, si te animas a dar una charla en 
- futuras ediciones no\ndudes en decírnoslo. Queremos mantener el formato de
-  dos charlas\ncortas, una introductoria y otra algo más avanzada.
+ e: Oficinas de ShuttleCloud\, Ronda de Atocha\, 37 Oficina Derecha\n  2801
+ 2\, Madrid\n• Mapa: [http://www.openstreetmap.org/node/3423331185]\n• URL:
+  [http://www.meetup.com/es-ES/Madrid-D3-js/events/228011001]\n\nSegundo Me
+ etup de [D3.js Madrid]\n(http://www.meetup.com/es-ES/Madrid-D3-js/) con un
+  par de charlas:\n\n• Introducción a [D3.js] (http://d3js.org) por [Beatri
+ z Martínez]\n  (https://twitter.com/maritrinez)\n• Crear un dashboard con 
+ [DC.js] (https://dc-js.github.io/dc.js/)\, por\n  [Fernando Blat] (https:/
+ /twitter.com/ferblape)\n\nSe trata de dos charlas de 30 minutos de duració
+ n. Para la primera no\nhace falta ningún conocimiento previo de D3\, mient
+ ras que para la\nsegunda se darán por sabidos algunos conceptos. La idea e
+ s poder\nllegar tanto a gente que no conoce la librería como a gente que y
+ a se\nha peleado con ella y quiere profundizar en algún tema.\n\nAsí que a
+ nimaros aunque no hayáis utilizado D3 nunca.\n\nPD: por cierto\, si te ani
+ mas a dar una charla en futuras ediciones no\ndudes en decírnoslo. Queremo
+ s mantener el formato de dos charlas\ncortas\, una introductoria y otra al
+ go más avanzada.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-546699af-8fe5-4238-a609-c0fc322810e0
+DTSTAMP:20160606T083254Z
+UID:TS1-3082feb7-26e4-4a90-8251-44505c2a93da
 DTSTART;VALUE=DATE:20160204
 DTEND;VALUE=DATE:20160205
 SUMMARY:II Aniversario Data Science Spain
-DESCRIPTION:• Cuándo: <2016-02-04 jue>\n• Dónde: Medialab-Prado, Alameda 15
- , 28014, Madrid\n• Mapa:\n  [http://www.openstreetmap.org/way/219016719#ma
- p=19/40.41044/-3.69359]\n• URL:\n  [http://www.meetup.com/es-ES/Data-Scien
- ce-Spain/events/227690627/]\n\nEl próximo 4 de febrero DATA SCIENCE SPAIN 
- cumple 2 AÑOS y queremos\ncelebrarlo realizando el primer encuentro de 201
- 6 con todos vosotros!!\n\nAbrimos como siempre un call4papers para que pod
- áis presentar vuestras\nideas de charlas mandando un mail a cmartinez@syne
- rgicpartners.com
+DESCRIPTION:• Cuándo: <2016-02-04 jue>\n• Dónde: Medialab-Prado\, Alameda 1
+ 5\, 28014\, Madrid\n• Mapa:\n  [http://www.openstreetmap.org/way/219016719
+ #map=19/40.41044/-3.69359]\n• URL:\n  [http://www.meetup.com/es-ES/Data-Sc
+ ience-Spain/events/227690627/]\n\nEl próximo 4 de febrero DATA SCIENCE SPA
+ IN cumple 2 AÑOS y queremos\ncelebrarlo realizando el primer encuentro de 
+ 2016 con todos vosotros!!\n\nAbrimos como siempre un call4papers para que 
+ podáis presentar vuestras\nideas de charlas mandando un mail a cmartinez@s
+ ynergicpartners.com
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-ea8d902a-9e0a-434e-a1b8-2665438b82b0
+DTSTAMP:20160606T083254Z
+UID:TS1-ffcd2f7b-db56-4c1a-bee7-01c646692a36
 DTSTART:20160211T190000
 DTEND:20160211T204500
 SUMMARY:Grupo R de Madrid
 DESCRIPTION:• Cuándo: <2016-02-11 jue 19:00>–<2016-02-11 jue 20:45>\n• Dónd
- e: Medialab Prado, Plaza de las Letras, C/ de la Alameda, 15 ,\n  Madrid\n
- • Mapa:\n  [http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.
- 69359]\n• URL:\n  [http://www.meetup.com/es-ES/Grupo-de-Usuarios-de-R-de-M
- adrid/events/228578129/]
+ e: Medialab Prado\, Plaza de las Letras\, C/ de la Alameda\, 15 \,\n  Madr
+ id\n• Mapa:\n  [http://www.openstreetmap.org/way/219016719#map=19/40.41044
+ /-3.69359]\n• URL:\n  [http://www.meetup.com/es-ES/Grupo-de-Usuarios-de-R-
+ de-Madrid/events/228578129/]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-2222693d-d1ac-4fc5-bba5-99614f4d217f
+DTSTAMP:20160606T083254Z
+UID:TS1-78e98252-4982-4109-b71e-207a90e9f8c8
 DTSTART:20160217T183000
 DTEND:20160217T203000
 SUMMARY:El periodista como analista de datos masivos
 DESCRIPTION:• Cuándo: <2016-02-17 mié 18:30>–<2016-02-17 mié 20:30>\n• Dónd
- e: Medialab Prado, Plaza de las Letras, C/ de la Alameda, 15 ,\n  Madrid\n
- • Mapa:\n  [http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.
- 69359]\n• URL:\n  [http://www.meetup.com/es-ES/Madrid-Periodismo-de-datos-
- Meetup/events/228690087/]\n  y\n  [http://medialab-prado.es/article/analis
- is-de-datos-masivos-con-talend-open-studio]\n• Organizado por: Grupo de #p
- eriodismodatos de Medialab-Prado,\n  /Journocoders Madrid/\n\nEl 17 de feb
- rero alcanzamos las 28 sesiones y celebramos el día del\namor por el softw
- are libre (#ILOVEFS) con un reto que afrontaremos\nentre todxs: la herrami
- enta libre Talend Open Studio de la mano de\nRigo, analista de datos del I
- CIJ, Consorcio Internacional de\nPeriodistas de Investigación y que está a
- costumbrado a trabajar con\ngrandes volúmenes de datos en proyectos period
- ísticos de primerísima\nfila como /Offshore Leaks/.\n\nImaginaos un progra
- ma que es capaz de cargar distintas archivos de\ndatos de distintas fuente
- s, de realizar transformaciones a los datos\ncomo lo haríais con Refine, d
- e mezclar esos datos e insertarlos en una\nbase de datos y mostrara el res
- ultado final con un informe del\nproceso. Ese es un ejemplo de lo que se p
- uede hacer con Talend Open\nStudio y las herramientas ETL.
+ e: Medialab Prado\, Plaza de las Letras\, C/ de la Alameda\, 15 \,\n  Madr
+ id\n• Mapa:\n  [http://www.openstreetmap.org/way/219016719#map=19/40.41044
+ /-3.69359]\n• URL:\n  [http://www.meetup.com/es-ES/Madrid-Periodismo-de-da
+ tos-Meetup/events/228690087/]\n  y\n  [http://medialab-prado.es/article/an
+ alisis-de-datos-masivos-con-talend-open-studio]\n• Organizado por: Grupo d
+ e #periodismodatos de Medialab-Prado\,\n  /Journocoders Madrid/\n\nEl 17 d
+ e febrero alcanzamos las 28 sesiones y celebramos el día del\namor por el 
+ software libre (#ILOVEFS) con un reto que afrontaremos\nentre todxs: la he
+ rramienta libre Talend Open Studio de la mano de\nRigo\, analista de datos
+  del ICIJ\, Consorcio Internacional de\nPeriodistas de Investigación y que
+  está acostumbrado a trabajar con\ngrandes volúmenes de datos en proyectos
+  periodísticos de primerísima\nfila como /Offshore Leaks/.\n\nImaginaos un
+  programa que es capaz de cargar distintas archivos de\ndatos de distintas
+  fuentes\, de realizar transformaciones a los datos\ncomo lo haríais con R
+ efine\, de mezclar esos datos e insertarlos en una\nbase de datos y mostra
+ ra el resultado final con un informe del\nproceso. Ese es un ejemplo de lo
+  que se puede hacer con Talend Open\nStudio y las herramientas ETL.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-3ed1714b-ec19-466f-952f-2ad9931dc11e
+DTSTAMP:20160606T083254Z
+UID:TS1-b97d8cc8-8320-414c-871c-192348050e3d
 DTSTART;VALUE=DATE:20160221
 DTEND;VALUE=DATE:20160226
-SUMMARY:ALLDATA 2016: Second International Conference on Big Data, Small Da
- ta, Linked Data and Open Data
-DESCRIPTION:• Cuándo: <2016-02-21 dom>–<2016-02-25 jue>\n• Dónde: Lisboa, P
- ortugal\n• URL: [http://www.iaria.org/conferences2016/ALLDATA16.html]
+SUMMARY:ALLDATA 2016: Second International Conference on Big Data\, Small D
+ ata\, Linked Data and Open Data
+DESCRIPTION:• Cuándo: <2016-02-21 dom>–<2016-02-25 jue>\n• Dónde: Lisboa\, 
+ Portugal\n• URL: [http://www.iaria.org/conferences2016/ALLDATA16.html]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-a9efa2fd-7935-448b-9ca0-2250b5d00235
+DTSTAMP:20160606T083254Z
+UID:TS1-b9c61ef3-21cb-4270-8b67-4f63740b1e77
 DTSTART:20160301T190000
 DTEND:20160301T203000
-SUMMARY:Presentación informe España en Gobierno Abierto, 2013-2014
+SUMMARY:Presentación informe España en Gobierno Abierto\, 2013-2014
 DESCRIPTION:• Cuándo: <2016-03-01 mar 19:00>–<2016-03-01 mar 20:30>\n• Dónd
- e: Medialab-Prado, Alameda 15, 28014, Madrid\n• Mapa:\n  [http://www.opens
- treetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL:\n  [http://me
- dialab-prado.es/article/presentacion-informe-de-espana-en-gobierno-abierto
- -2013-2014]\n• Streaming: [http://medialab-prado.es/article/streaming]\n\n
- España forma parte de la Alianza para el Gobierno Abierto desde 2011,\nini
- ciativa que integra a casi 70 países del mundo y cuyo propósito es\ncompar
- tir experiencias y desarrollar un foro permanente para avanzar\nhacia una 
- mayor transparencia pública, combatir la corrupción con\napertura de datos
- , incentivar la participación ciudadana y fortalecer\nlos sistemas de cont
- rol social y rendición pública de cuentas a través\nde las nuevas tecnolog
- ías.\n\nEl informe se realiza bajo una metodología común para todos los pa
- íses\nparticipantes y recoge los hallazgos principales del avance de Españ
- a\nen Gobierno Abierto. La información gubernamental se contrasta con las\
- nvaloraciones y hallazgos de OSC implicadas con la transparencia y el\ngob
- ierno abierto en España, ofrece argumentos críticos a la vez que\npropuest
- as constructivas, y detalla el avance y los retos de\ndesarrollo de los 10
-  compromisos incluidos en el segundo plan de\nacción, siendo el compromiso
-  más importante el lanzamiento del Portal\nde la Transparencia de la Admin
- istración General del Estado.\n\nEste informe ha sido realizado por el Inv
- estigador del [GIGAPP] (Grupo\nde Investigación en Gobierno, Administració
- n y Políticas Públicas),\nDr. César Nicandro Cruz-Rubio ([@cesarncruz]).
+ e: Medialab-Prado\, Alameda 15\, 28014\, Madrid\n• Mapa:\n  [http://www.op
+ enstreetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL:\n  [http:/
+ /medialab-prado.es/article/presentacion-informe-de-espana-en-gobierno-abie
+ rto-2013-2014]\n• Streaming: [http://medialab-prado.es/article/streaming]\
+ n\nEspaña forma parte de la Alianza para el Gobierno Abierto desde 2011\,\
+ niniciativa que integra a casi 70 países del mundo y cuyo propósito es\nco
+ mpartir experiencias y desarrollar un foro permanente para avanzar\nhacia 
+ una mayor transparencia pública\, combatir la corrupción con\napertura de 
+ datos\, incentivar la participación ciudadana y fortalecer\nlos sistemas d
+ e control social y rendición pública de cuentas a través\nde las nuevas te
+ cnologías.\n\nEl informe se realiza bajo una metodología común para todos 
+ los países\nparticipantes y recoge los hallazgos principales del avance de
+  España\nen Gobierno Abierto. La información gubernamental se contrasta co
+ n las\nvaloraciones y hallazgos de OSC implicadas con la transparencia y e
+ l\ngobierno abierto en España\, ofrece argumentos críticos a la vez que\np
+ ropuestas constructivas\, y detalla el avance y los retos de\ndesarrollo d
+ e los 10 compromisos incluidos en el segundo plan de\nacción\, siendo el c
+ ompromiso más importante el lanzamiento del Portal\nde la Transparencia de
+  la Administración General del Estado.\n\nEste informe ha sido realizado p
+ or el Investigador del [GIGAPP]\n(http://www.gigapp.org) (Grupo de Investi
+ gación en Gobierno\,\nAdministración y Políticas Públicas)\, Dr. César Nic
+ andro Cruz-Rubio\n([@cesarncruz] (https://twitter.com/cesarncruz)).
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-1a2b9bd7-7da6-4446-8528-2f4cc21cacb6
+DTSTAMP:20160606T083254Z
+UID:TS1-bf309706-f140-4110-ac6a-ac93032d0eb7
 DTSTART;VALUE=DATE:20160301
 DTEND;VALUE=DATE:20160307
 SUMMARY:Circumvention Tech Festival
 DESCRIPTION:• Cuándo: <2016-03-01 mar>–<2016-03-06 dom>\n• Dónde: Las Naves
- , Carrer de Joan Verdeguer 16, Valencia, España\n• Mapa:\n  [http://www.op
- enstreetmap.org/way/158789093#map=19/39.45850/-0.33798]\n• URL: [http://ww
- w.circumventionfestival.es/]\n\nSe han registrado profesionales de 47 país
- es diferentes y contamos con\nla participación de organizaciones como Tor,
-  Electronic Frontier\nFoundation, Freedom of the Press Foundation, Xnet, T
- actical Tech,\nGlobal Voices, Filtra.la, APC, Mozilla Foundation y muchas 
- más.
+ \, Carrer de Joan Verdeguer 16\, Valencia\, España\n• Mapa:\n  [http://www
+ .openstreetmap.org/way/158789093#map=19/39.45850/-0.33798]\n• URL: [http:/
+ /www.circumventionfestival.es/]\n\nSe han registrado profesionales de 47 p
+ aíses diferentes y contamos con\nla participación de organizaciones como T
+ or\, Electronic Frontier\nFoundation\, Freedom of the Press Foundation\, X
+ net\, Tactical Tech\,\nGlobal Voices\, Filtra.la\, APC\, Mozilla Foundatio
+ n y muchas más.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-94a60a43-08a4-4d61-8808-507e321c23f3
+DTSTAMP:20160606T083254Z
+UID:TS1-7d431570-a1ca-4cc3-985a-577d48ab9b0a
 DTSTART;VALUE=DATE:20160303
 DTEND;VALUE=DATE:20160304
 SUMMARY:Carving Up Legacy with Microservices
-DESCRIPTION:• Cuándo: <2016-03-03 jue>\n• Dónde: Campus Madrid, Calle Manza
- nares, 1, Madrid\n• Mapa: [http://www.openstreetmap.org/way/7648766]\n• UR
- L: [http://www.meetup.com/es-ES/Node-js-Madrid/events/227675594/]\n\nEn ma
- rzo os traemos una charla conjuntamente con nuestros amigos de\nh4ckademy:
-  una empresa de Londres que viene a Madrid a contarnos cómo\nhan tomado un
-  sistema legacy con .NET y lo han migrado a Node.js con\nmicroservicios. Y
-  para que podáis practicar, ¡será en inglés, por\nsupuesto!\n\nCarving Up 
- Legacy with Microservices\n\nThe London-based company GuideSmiths is going
-  to introduce us how they\nmigrated a £90M per annum revenue jobs site fro
- m a legacy .Net\nplatform to an AWS / Docker / Node.js based one in 9 mont
- hs.\n\n• Steve Cresswell\n• Felipe Polo
+DESCRIPTION:• Cuándo: <2016-03-03 jue>\n• Dónde: Campus Madrid\, Calle Manz
+ anares\, 1\, Madrid\n• Mapa: [http://www.openstreetmap.org/way/7648766]\n•
+  URL: [http://www.meetup.com/es-ES/Node-js-Madrid/events/227675594/]\n\nEn
+  marzo os traemos una charla conjuntamente con nuestros amigos de\nh4ckade
+ my: una empresa de Londres que viene a Madrid a contarnos cómo\nhan tomado
+  un sistema legacy con .NET y lo han migrado a Node.js con\nmicroservicios
+ . Y para que podáis practicar\, ¡será en inglés\, por\nsupuesto!\n\nCarvin
+ g Up Legacy with Microservices\n\nThe London-based company GuideSmiths is 
+ going to introduce us how they\nmigrated a £90M per annum revenue jobs sit
+ e from a legacy .Net\nplatform to an AWS / Docker / Node.js based one in 9
+  months.\n\n• Steve Cresswell\n• Felipe Polo
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-d6c699b9-3739-474b-888e-c1ce9d271eca
+DTSTAMP:20160606T083254Z
+UID:TS1-20dbdf8d-f8ae-47ec-88ff-2c776e86f4ed
 DTSTART;VALUE=DATE:20160304
 DTEND;VALUE=DATE:20160305
 SUMMARY:I Open Datathon ETSINF UPV sobre uso de datos abiertos
 DESCRIPTION:• Cuándo: <2016-03-04 vie>\n• Dónde: UPV\n• Mapa:\n• URL: [http
  ://s.coop/opendatathon]\n• Hahstag: #OpenDatathon\n\nLos participantes ten
- drán tres semanas para crear un proyecto basado\nen datos abiertos, ya sea
-  una visualización o una aplicación web. Los\nproyectos finalistas serán p
- resentados el 4 de marzo en ETSINF UPV.\n\nSe abre el plazo para presentar
-  propuestas al primer OpenDatathon\nETSINF –UPV organizado por MUGI, el Má
- ster en Gestión de la\nInformación de la ETSINF UPV-, l’Escola Tècnica Sup
- erior d’Enginyeria\nInformàtica de la UPV y el [Grupo DataUPV] con el fin 
- de promocionar,\npromover y divulgar el uso de datos abiertos, especialmen
- te entre los\nmiembros de la comunidad universitaria.\n\nEl plazo de prese
- ntación de proyectos estará abierto hasta el próximo\n29 de febrero de 201
- 6.\n\nEl I OpenDatathon cuenta con 3 categorías:\n\n1. mejor historia sobr
- e los datos\n2. mejor herramienta de exploración de datos\n3. mejor aplica
- ción basada en predicción de datos.\n4. También habrá una categoría especi
- al "Premio Cátedra Ciudad de\n   Valencia UPV" con retos que usen datos ab
- iertos del portal del\n   ayuntamiento de Valencia sobre rutas, salud o mo
- vilidad.\n\nTodos los proyectos finalistas recibirán un diploma\nacreditat
- ivo. Adicionalmente por cada reto se prevé un primer premio\nde 350 euros 
- y un segundo premio de 150 euros.\n\nUna vez recibidas las propuestas se s
- eleccionarán 5 finalistas por\ncategoría que tendrán la oportunidad de exp
- oner sus trabajos el 4 de\nmarzo en la ETSINF, fecha próxima a la celebrac
- ión mundial del Open\nData Day.
+ drán tres semanas para crear un proyecto basado\nen datos abiertos\, ya se
+ a una visualización o una aplicación web. Los\nproyectos finalistas serán 
+ presentados el 4 de marzo en ETSINF UPV.\n\nSe abre el plazo para presenta
+ r propuestas al primer OpenDatathon\nETSINF –UPV organizado por MUGI\, el 
+ Máster en Gestión de la\nInformación de la ETSINF UPV-\, l’Escola Tècnica 
+ Superior d’Enginyeria\nInformàtica de la UPV y el [Grupo DataUPV]\n(http:/
+ /dataupv.webs.upv.es) con el fin de promocionar\, promover y\ndivulgar el 
+ uso de datos abiertos\, especialmente entre los miembros de\nla comunidad 
+ universitaria.\n\nEl plazo de presentación de proyectos estará abierto has
+ ta el próximo\n29 de febrero de 2016.\n\nEl I OpenDatathon cuenta con 3 ca
+ tegorías:\n\n1. mejor historia sobre los datos\n2. mejor herramienta de ex
+ ploración de datos\n3. mejor aplicación basada en predicción de datos.\n4.
+  También habrá una categoría especial "Premio Cátedra Ciudad de\n   Valenc
+ ia UPV" con retos que usen datos abiertos del portal del\n   ayuntamiento 
+ de Valencia sobre rutas\, salud o movilidad.\n\nTodos los proyectos finali
+ stas recibirán un diploma\nacreditativo. Adicionalmente por cada reto se p
+ revé un primer premio\nde 350 euros y un segundo premio de 150 euros.\n\nU
+ na vez recibidas las propuestas se seleccionarán 5 finalistas por\ncategor
+ ía que tendrán la oportunidad de exponer sus trabajos el 4 de\nmarzo en la
+  ETSINF\, fecha próxima a la celebración mundial del Open\nData Day.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-bfa5bfc7-e7a5-4e7c-bcc7-840eb91d8dfa
+DTSTAMP:20160606T083254Z
+UID:TS1-fe2ec8d9-f41d-40db-94fe-5a61ac9661bf
 DTSTART:20160305T100000
 DTEND:20160305T200000
 SUMMARY:Día de los Datos Abiertos Madrid
 DESCRIPTION:• Cuándo: <2016-03-05 sáb 10:00>–<2016-03-05 sáb 20:00>\n• Dónd
- e: Medialab-Prado, Alameda 15, 28014, Madrid\n• Mapa:\n  [http://www.opens
- treetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [https://okfn
- -spain.github.io/madrid.opendataday.org]
+ e: Medialab-Prado\, Alameda 15\, 28014\, Madrid\n• Mapa:\n  [http://www.op
+ enstreetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [https://o
+ kfn-spain.github.io/madrid.opendataday.org]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-de765780-748b-4703-8a7c-081fb0fe7132
+DTSTAMP:20160606T083254Z
+UID:TS1-b8d4a3ab-bda3-4501-9daa-2fdfca152b8f
 DTSTART;VALUE=DATE:20160305
 DTEND;VALUE=DATE:20160306
 SUMMARY:Día de los Datos Abiertos Barcelona
 DESCRIPTION:• Cuándo: <2016-03-05 sáb>\n• Dónde:\n• Mapa:\n  [http://www.op
  enstreetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [https://o
  kfn-spain.github.io/madrid.opendataday.org]\n\napps4citizens organizará el
-  Open Inspiration Data Day en la Fábrica\nLehman (Barcelona), para promove
- r el desarrollo de aplicaciones\naprovechando el potencial de los datos ab
- iertos. Será el 5 de marzo y\ncontará con especialistas que buscarán estim
- ular a los participantes.
+  Open Inspiration Data Day en la Fábrica\nLehman (Barcelona)\, para promov
+ er el desarrollo de aplicaciones\naprovechando el potencial de los datos a
+ biertos. Será el 5 de marzo y\ncontará con especialistas que buscarán esti
+ mular a los participantes.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-d6d4491a-a22e-4355-adc1-5473ef57ae0c
+DTSTAMP:20160606T083254Z
+UID:TS1-f28008c0-f088-4b11-b735-004dafdc99ff
 DTSTART;VALUE=DATE:20160305
 DTEND;VALUE=DATE:20160306
 SUMMARY:Día de los Datos Abiertos Bilbao
@@ -330,56 +334,56 @@ DESCRIPTION:• Cuándo: <2016-03-05 sáb>\n• Dónde:\n• Mapa:\n  [http://ww
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-68096848-d670-4c95-8482-7155bbd44fdc
+DTSTAMP:20160606T083254Z
+UID:TS1-d7968300-49df-4ecd-b656-a3ddbac03f1a
 DTSTART;VALUE=DATE:20160305
 DTEND;VALUE=DATE:20160306
 SUMMARY:Día de los Datos Abiertos Girona
 DESCRIPTION:• Cuándo: <2016-03-05 sáb>\n• Dónde:\n• Mapa:\n• URL:\n\nGirona
- , Municipal City Archive of Girona will publish the dataset of\nthe fonds 
- that it keeps.
+ \, Municipal City Archive of Girona will publish the dataset of\nthe fonds
+  that it keeps.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-e0414ff3-0721-40c1-bd67-281d7c456f07
+DTSTAMP:20160606T083254Z
+UID:TS1-fc337644-5d68-42ec-863c-80297c58fce2
 DTSTART;VALUE=DATE:20160305
 DTEND;VALUE=DATE:20160306
 SUMMARY:Día de los Datos Abiertos Granada
 DESCRIPTION:• Cuándo: <2016-03-05 sáb>\n• Dónde:\n• Mapa:\n• URL:\n\nThe Fr
  ee Software Office in the University of Granada will organize\nits third G
- ranada2016 Open Data and Projects Hackatón, place TBD,\nstarting on March 
- 4th and ending on Monday 7th in the morning. Please\ncheck the page for de
- tails. Several topics have been proposed:\nAnalysis of election data in Sp
- ain and elsewhere. Gender in university\ndegrees and students. Street nami
- ng analysis
+ ranada2016 Open Data and Projects Hackatón\, place TBD\,\nstarting on Marc
+ h 4th and ending on Monday 7th in the morning. Please\ncheck the page for 
+ details. Several topics have been proposed:\nAnalysis of election data in 
+ Spain and elsewhere. Gender in university\ndegrees and students. Street na
+ ming analysis
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-8ecc98c5-ea6b-4960-a81f-f9a517a9dc5f
+DTSTAMP:20160606T083254Z
+UID:TS1-da214081-1f4e-4dde-85ee-d3cb7ffd29dd
 DTSTART:20160321T183000
 DTEND:20160321T204500
 SUMMARY:Reunión GNOME Hispano
 DESCRIPTION:• Cuándo: <2016-03-21 lun 18:30>–<2016-03-21 lun 20:45>\n• Dónd
- e: Medialab-Prado, Alameda 15, 28014, Madrid\n• Mapa:\n  [http://www.opens
- treetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://media
- lab-prado.es/article/gnome-hispano]
+ e: Medialab-Prado\, Alameda 15\, 28014\, Madrid\n• Mapa:\n  [http://www.op
+ enstreetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://me
+ dialab-prado.es/article/gnome-hispano]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-0da1aa47-3006-4333-bf7c-f655247af502
+DTSTAMP:20160606T083254Z
+UID:TS1-82a50cc0-2747-4e93-9e4a-648ec8edc0fb
 DTSTART;VALUE=DATE:20160406
 DTEND;VALUE=DATE:20160411
 SUMMARY:Festival Internacional de Periodismo de Perugia
-DESCRIPTION:• Cuándo: <2016-04-06 mié>–<2016-04-10 dom>\n• Dónde: Perugia, 
- Italia\n• Mapa:\n• URL: [http://www.festivaldelgiornalismo.com/]
+DESCRIPTION:• Cuándo: <2016-04-06 mié>–<2016-04-10 dom>\n• Dónde: Perugia\,
+  Italia\n• Mapa:\n• URL: [http://www.festivaldelgiornalismo.com/]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-b80ed5fb-c68e-47b9-8f20-cb4247dcc583
+DTSTAMP:20160606T083254Z
+UID:TS1-34c81d3f-e373-4bd7-8769-db5fa8bdaa1a
 DTSTART;VALUE=DATE:20160411
 DTEND;VALUE=DATE:20160416
 SUMMARY:25th International World Wide Web Conference
@@ -387,269 +391,271 @@ DESCRIPTION:<2016-04-11 lun>–<2016-04-15 vie> [http://www2016.ca/]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-04853742-d7ea-4c1c-9dc7-68a2f9b5596b
+DTSTAMP:20160606T083254Z
+UID:TS1-626848ea-00d2-4c76-94b4-0c0b3ba31067
 DTSTART;VALUE=DATE:20160415
 DTEND;VALUE=DATE:20160418
 SUMMARY:Akademy-es 2016
 DESCRIPTION:• Cuándo: <2016-04-15 vie>–<2016-04-17 dom>\n• Dónde: Medialab-
- Prado, Alameda 15, 28014, Madrid\n• Mapa:\n  [http://www.openstreetmap.org
- /way/219016719#map=19/40.41044/-3.69359]\n• URL: [https://www.kde-espana.o
- rg/akademy-es2016/]\nhe KDE® Community is an international technology team
-  dedicated to\ncreating a free and user-friendly computing experience, off
- ering an\nadvanced graphical desktop, a wide variety of applications for\n
- communication, work, education and entertainment and a platform to\neasily
-  build new applications upon. We have a strong focus on finding\ninnovativ
- e solutions to old and new problems, creating a vibrant\natmosphere open f
- or experimentation.site* Mayo
+ Prado\, Alameda 15\, 28014\, Madrid\n• Mapa:\n  [http://www.openstreetmap.
+ org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [https://www.kde-espan
+ a.org/akademy-es2016/]\nhe KDE® Community is an international technology t
+ eam dedicated to\ncreating a free and user-friendly computing experience\,
+  offering an\nadvanced graphical desktop\, a wide variety of applications 
+ for\ncommunication\, work\, education and entertainment and a platform to\
+ neasily build new applications upon. We have a strong focus on finding\nin
+ novative solutions to old and new problems\, creating a vibrant\natmospher
+ e open for experimentation.site* Mayo
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-71e274dc-854b-4fdd-b1f1-3b17f62bab0d
+DTSTAMP:20160606T083254Z
+UID:TS1-3247c227-52ce-4865-8064-5577f8fcf66b
 DTSTART:20160418T183000
 DTEND:20160418T204500
 SUMMARY:Reunión GNOME Hispano
 DESCRIPTION:• Cuándo: <2016-04-18 lun 18:30>–<2016-04-18 lun 20:45>\n• Dónd
- e: Medialab-Prado, Alameda 15, 28014, Madrid\n• Mapa:\n  [http://www.opens
- treetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://media
- lab-prado.es/article/gnome-hispano]
+ e: Medialab-Prado\, Alameda 15\, 28014\, Madrid\n• Mapa:\n  [http://www.op
+ enstreetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://me
+ dialab-prado.es/article/gnome-hispano]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-9fad5bfe-60a5-4b32-84b5-d2c3d15fe496
+DTSTAMP:20160606T083254Z
+UID:TS1-12ac187b-13d5-4896-be96-a0a652f09bd0
 DTSTART;VALUE=DATE:20160418
 DTEND;VALUE=DATE:20160419
 SUMMARY:Reunión GNOME Hispano
-DESCRIPTION:• Cuándo: <2016-04-18 lun>\n• Dónde: Medialab-Prado, Alameda 15
- , 28014, Madrid\n• Mapa:\n  [http://www.openstreetmap.org/way/219016719#ma
- p=19/40.41044/-3.69359]\n• URL: [http://medialab-prado.es/article/gnome-hi
- spano]
+DESCRIPTION:• Cuándo: <2016-04-18 lun>\n• Dónde: Medialab-Prado\, Alameda 1
+ 5\, 28014\, Madrid\n• Mapa:\n  [http://www.openstreetmap.org/way/219016719
+ #map=19/40.41044/-3.69359]\n• URL: [http://medialab-prado.es/article/gnome
+ -hispano]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-7ff3e49a-48aa-4bef-9ce7-06e5314fedfb
+DTSTAMP:20160606T083254Z
+UID:TS1-480388f2-a3f0-4243-9783-62505cd8f3da
 DTSTART:20160425T084500
 DTEND:20160425T173000
 SUMMARY:Newsimpact Madrid
 DESCRIPTION:• Cuándo: <2016-04-25 lun 08:45>–<2016-04-25 lun 17:30>\n• Dónd
- e: Jardín Metropolitano, Hispainia & Oriental, Madrid\n• URL: [http://news
- impact.io]\n• Language: English + Spanish translation\n• Moderation​: Rina
-  Tsubaki & Mattia Peretti
+ e: Jardín Metropolitano\, Hispainia & Oriental\, Madrid\n• URL: [http://ne
+ wsimpact.io]\n• Language: English + Spanish translation\n• Moderation​: Ri
+ na Tsubaki & Mattia Peretti
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-9e536518-28d8-435a-8452-52dd6ef9bbc4
+DTSTAMP:20160606T083254Z
+UID:TS1-9046d4c6-522a-47b9-991f-5de460b01f7e
 DTSTART;VALUE=DATE:20160426
 DTEND;VALUE=DATE:20160427
 SUMMARY:D-CENT and Open Knowledge Labs meetup
-DESCRIPTION:• Cuándo: <2016-04-26 mar>\n• Dónde: Makers of Barcelona (MOB),
-  Calle Bailén 11, bajos.\n• URL:\n  [https://attending.io/events/d-cent-an
- d-open-knowledge-labs-meetup]\n• Idioma: English\n• Mapa: [http://www.open
- streetmap.org/way/4745499]
+DESCRIPTION:• Cuándo: <2016-04-26 mar>\n• Dónde: Makers of Barcelona (MOB)\
+ , Calle Bailén 11\, bajos.\n• URL:\n  [https://attending.io/events/d-cent-
+ and-open-knowledge-labs-meetup]\n• Idioma: English\n• Mapa: [http://www.op
+ enstreetmap.org/way/4745499]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-1dff0454-f9d5-45fb-9d62-e1dce617aeef
+DTSTAMP:20160606T083254Z
+UID:TS1-7878f82e-b636-4efe-a7e0-8a1d3eed0ce5
 DTSTART;VALUE=DATE:20160427
 DTEND;VALUE=DATE:20160429
 SUMMARY:TICTeC 2016
 DESCRIPTION:• Cuándo: <2016-04-27 mié>–<2016-04-28 jue>\n• Dónde: Edificio 
- Este, World Trade Center, Barcelona 8039\n• URL: [https://www.mysociety.or
- g/files/2015/09/Agenda-2016.pdf]\n• Language: English
+ Este\, World Trade Center\, Barcelona 8039\n• URL: [https://www.mysociety.
+ org/files/2015/09/Agenda-2016.pdf]\n• Language: English
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-04b0671f-5f21-490e-8f61-0a27b62410ef
+DTSTAMP:20160606T083254Z
+UID:TS1-87dbdcf8-aa70-4b73-8b56-879db1f7dcfd
 DTSTART:20160427T183000
 DTEND:20160427T204500
 SUMMARY:Domina Git y GitHub
 DESCRIPTION:30 sesiones del [grupo de periodismo de datos de Medialab-Prado
- ] y\ncuarta de [@JournocodersMAD]. Si en estas 29 sesiones desde que\ncome
- nzamos en 2011 no has aprendido [Git] y no has usado [GitHub], no\nsabes l
- o que te estás perdiendo.\n• Cuándo: <2016-04-27 mié 18:30>–<2016-04-27 mi
- é 20:45>\n• Dónde: Medialab-Prado, Alameda 15, 28014, Madrid\n• Mapa:\n  [
- http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• UR
- L: [http://medialab-prado.es/article/domina-git-y-github]\n• Meetup:\n  [h
- ttp://www.meetup.com/es-ES/Madrid-Periodismo-de-datos-Meetup/events/230516
- 014/]
+ ]\n(http://medialab-prado.es/article/periodismo_de_datos_-_grupo_de_trabaj
+ o)\ny cuarta de [@JournocodersMAD]\n(https://twitter.com/journocodersMAD).
+  Si en estas 29 sesiones desde\nque comenzamos en 2011 no has aprendido [G
+ it] (https://git-scm.com/) y\nno has usado [GitHub] (https://github.com)\,
+  no sabes lo que te estás\nperdiendo.\n• Cuándo: <2016-04-27 mié 18:30>–<2
+ 016-04-27 mié 20:45>\n• Dónde: Medialab-Prado\, Alameda 15\, 28014\, Madri
+ d\n• Mapa:\n  [http://www.openstreetmap.org/way/219016719#map=19/40.41044/
+ -3.69359]\n• URL: [http://medialab-prado.es/article/domina-git-y-github]\n
+ • Meetup:\n  [http://www.meetup.com/es-ES/Madrid-Periodismo-de-datos-Meetu
+ p/events/230516014/]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-eb5892c0-afd4-4e86-a0b0-2ca8ad436fe4
+DTSTAMP:20160606T083254Z
+UID:TS1-7c00da63-3f72-43c9-b9c1-92f107104ffa
 DTSTART;VALUE=DATE:20160429
 DTEND;VALUE=DATE:20160430
 SUMMARY:Rrrrevolucionem la primavera??? R per a Dummies i periodistes
-DESCRIPTION:Ja ha arribat la primavera i estem tots RRRRevolucionats, així 
- que a\nHacks/Hackers Barcelona hem preparat una nova sessió per sacsejar e
- l\nperiodisme.\n• Cuándo: <2016-04-29 vie>\n• Dónde: Barcelona Activa\n• M
- eetup:\n  [http://www.meetup.com/es-ES/Hacks-Hackers-Barcelona/events/2303
- 99129/?a=socialmedia]\n• Organiza: Hacks/Hackers Barcelona
+DESCRIPTION:Ja ha arribat la primavera i estem tots RRRRevolucionats\, així
+  que a\nHacks/Hackers Barcelona hem preparat una nova sessió per sacsejar 
+ el\nperiodisme.\n• Cuándo: <2016-04-29 vie>\n• Dónde: Barcelona Activa\n• 
+ Meetup:\n  [http://www.meetup.com/es-ES/Hacks-Hackers-Barcelona/events/230
+ 399129/?a=socialmedia]\n• Organiza: Hacks/Hackers Barcelona
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-d38fec63-bb69-484f-a0a2-6730c5811881
+DTSTAMP:20160606T083254Z
+UID:TS1-1c82810d-f2b7-4627-991c-872687e6fc61
 DTSTART;VALUE=DATE:20160505
 DTEND;VALUE=DATE:20160508
 SUMMARY:IV Jornadas Periodismo Datos #JPD16
 DESCRIPTION:• Cuándo: <2016-05-05 jue>–<2016-05-07 sáb>\n• Dónde: Medialab-
- Prado, Alameda 15, 28014, Madrid\n• Mapa:\n  [http://www.openstreetmap.org
- /way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://jpd16.okfn.es]\n•
-  Entradas: [http://jpdatos.eventbrite.es/?s=61065066]
+ Prado\, Alameda 15\, 28014\, Madrid\n• Mapa:\n  [http://www.openstreetmap.
+ org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://jpd16.okfn.es]
+ \n• Entradas: [http://jpdatos.eventbrite.es/?s=61065066]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-a9988347-c01e-41e6-98fe-461bcc146c17
+DTSTAMP:20160606T083254Z
+UID:TS1-8a5345d2-dc58-452c-9cd2-8df49873a0f9
 DTSTART;VALUE=DATE:20160512
 DTEND;VALUE=DATE:20160513
 SUMMARY:News Impact Summit London
-DESCRIPTION:• Cuándo: <2016-05-12 jue>\n• Dónde: Londres, Reino Unido\n• UR
- L: [http://newsimpact.io]\n• Fuente:\n  [http://ejc.net/projects/news/arti
- cle/ejc-announces-a-new-series-of-news-impact-summits-in-2016]
+DESCRIPTION:• Cuándo: <2016-05-12 jue>\n• Dónde: Londres\, Reino Unido\n• U
+ RL: [http://newsimpact.io]\n• Fuente:\n  [http://ejc.net/projects/news/art
+ icle/ejc-announces-a-new-series-of-news-impact-summits-in-2016]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-275272ba-8894-4c57-bd8e-3c3ef9d7db77
+DTSTAMP:20160606T083254Z
+UID:TS1-67045c28-1fa1-4c29-8dfc-71a28583d459
 DTSTART:20160516T183000
 DTEND:20160516T204500
 SUMMARY:Reunión GNOME Hispano
 DESCRIPTION:• Cuándo: <2016-05-16 lun 18:30>–<2016-05-16 lun 20:45>\n• Dónd
- e: Medialab-Prado, Alameda 15, 28014, Madrid\n• Mapa:\n  [http://www.opens
- treetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://media
- lab-prado.es/article/gnome-hispano]
+ e: Medialab-Prado\, Alameda 15\, 28014\, Madrid\n• Mapa:\n  [http://www.op
+ enstreetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://me
+ dialab-prado.es/article/gnome-hispano]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-320131e7-e23d-4680-ad07-296e06fd5659
+DTSTAMP:20160606T083254Z
+UID:TS1-da57de14-1f0d-4d40-b723-1971dd2bbd75
 DTSTART;VALUE=DATE:20160517
 DTEND;VALUE=DATE:20160519
 SUMMARY:ESS Visualization Workshop
 DESCRIPTION:• Cuándo: <2016-05-17 mar>–<2016-05-18 mié>\n• Dónde: Valencia\
  n• Mapa:\n• URL:\n  [http://ec.europa.eu/eurostat/cros/content/2016-visual
- isation-workshop_en]\n• Organiza: Comisión Europea (Eurostat), con el apoy
- o de DevStat\n  (España) www.devstat.com, en consorcio con el Centro Nacio
- nal para\n  la Enseñanza de Estadística (Rumanía) y Prueba abierta (España
- ).\n\nEl evento abordará la visualización como una herramienta para el\nan
- álisis y visualización de datos y como instrumento de difusión.\n\nEl tall
- er tiene como objetivo aumentar la conciencia sobre el tema de\nla visuali
- zación de las estadísticas; identificar las mejores\nprácticas emergentes 
- para identificar sinergias y opciones para los\nesfuerzos de desarrollo co
- njuntos; compartir las mejores prácticas,\nnuevas ideas, herramientas y ex
- periencias. Estos objetivos tienen que\ncontribuir al objetivo más amplio 
- de facilitar la cooperación dentro\nde la ESS en el desarrollo e implement
- ación de soluciones\nmetodológicas comunes, alineada con la cartera de eje
- cución de ESS\nVisión 2020\n[http://ec.europa.eu/eurostat/web/ess/about-us
- /ess-vision-2020] (en\nparticular, los aspectos de visualización de la DIG
- ICOM proyecte)\n[http://ec.europa.eu/eurostat/documents/42577/6906243/DIGI
- COM+Business+Case+1.0/8a2f1b42-4101-4208-9c49-1d1819604047]
+ isation-workshop_en]\n• Organiza: Comisión Europea (Eurostat)\, con el apo
+ yo de DevStat\n  (España) www.devstat.com\, en consorcio con el Centro Nac
+ ional para\n  la Enseñanza de Estadística (Rumanía) y Prueba abierta (Espa
+ ña).\n\nEl evento abordará la visualización como una herramienta para el\n
+ análisis y visualización de datos y como instrumento de difusión.\n\nEl ta
+ ller tiene como objetivo aumentar la conciencia sobre el tema de\nla visua
+ lización de las estadísticas\; identificar las mejores\nprácticas emergent
+ es para identificar sinergias y opciones para los\nesfuerzos de desarrollo
+  conjuntos\; compartir las mejores prácticas\,\nnuevas ideas\, herramienta
+ s y experiencias. Estos objetivos tienen que\ncontribuir al objetivo más a
+ mplio de facilitar la cooperación dentro\nde la ESS en el desarrollo e imp
+ lementación de soluciones\nmetodológicas comunes\, alineada con la cartera
+  de ejecución de ESS\nVisión 2020\n[http://ec.europa.eu/eurostat/web/ess/a
+ bout-us/ess-vision-2020] (en\nparticular\, los aspectos de visualización d
+ e la DIGICOM proyecte)\n[http://ec.europa.eu/eurostat/documents/42577/6906
+ 243/DIGICOM+Business+Case+1.0/8a2f1b42-4101-4208-9c49-1d1819604047]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-6424707f-d821-4394-8d60-2060d7e29f1a
+DTSTAMP:20160606T083254Z
+UID:TS1-c097c07f-7e09-4834-9611-22cbbb310e6f
 DTSTART;VALUE=DATE:20160523
 DTEND;VALUE=DATE:20160528
 SUMMARY:Democracy Lab. Common Technology and the Democratic City
 DESCRIPTION:• Cuándo: <2016-05-23 lun>–<2016-05-27 vie>\n• Dónde: Medialab-
- Prado, Alameda 15, 28014, Madrid\n• Mapa:\n  [http://www.openstreetmap.org
- /way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://dcentproject.eu/d
- centmadrid/democracy-lab/]\n• Registro: [http://dcentproject.eu/dcentmadri
- d/register]\nThe week begins with a four-day Democracy Lab (23-27 May,\nMe
- dialab-Prado) delivering workshops, hackathons and open sessions to\ndevel
- op, think and design tools, processes and strategies for\ndemocratic parti
- cipation.
+ Prado\, Alameda 15\, 28014\, Madrid\n• Mapa:\n  [http://www.openstreetmap.
+ org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://dcentproject.e
+ u/dcentmadrid/democracy-lab/]\n• Registro: [http://dcentproject.eu/dcentma
+ drid/register]\nThe week begins with a four-day Democracy Lab (23-27 May\,
+ \nMedialab-Prado) delivering workshops\, hackathons and open sessions to\n
+ develop\, think and design tools\, processes and strategies for\ndemocrati
+ c participation.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-be4ac0f3-f9c3-4e01-ac4e-12e0d97b2a78
+DTSTAMP:20160606T083254Z
+UID:TS1-a3648155-dc20-4d0f-88c2-91d4502ff9db
 DTSTART;VALUE=DATE:20160523
 DTEND;VALUE=DATE:20160529
 SUMMARY:Ciudades democráticas
 DESCRIPTION:Tecnologías de los comunes y derecho a la ciudad democrática\n•
-  Cuándo: <2016-05-23 lun>–<2016-05-28 sáb>\n• Dónde: Medialab-Prado, Alame
- da 15, 28014, Madrid. Museo Reina Sofía.\n• Mapa:\n  [http://www.openstree
- tmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://ciudades-
- democraticas.cc]\n\nLa ciudad de Madrid será entre el 23 y 28 de mayo la c
- apital mundial\nde la participación ciudadana y tecnológica. El D-Cent Pro
- ject, el\nAyuntamiento de Madrid y el Museo Nacional Centro de Arte Reina 
- Sofía\nhan programado una intensa semana llena de actividades sobre ciudad
- es\ndemocráticas, tecnologías de los comunes y participación ciudadana. El
- \nprograma del encuentro se divide en el Democracy Lab y en la\nConferenci
- a Internacional.
+  Cuándo: <2016-05-23 lun>–<2016-05-28 sáb>\n• Dónde: Medialab-Prado\, Alam
+ eda 15\, 28014\, Madrid. Museo Reina Sofía.\n• Mapa:\n  [http://www.openst
+ reetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://ciudad
+ es-democraticas.cc]\n\nLa ciudad de Madrid será entre el 23 y 28 de mayo l
+ a capital mundial\nde la participación ciudadana y tecnológica. El D-Cent 
+ Project\, el\nAyuntamiento de Madrid y el Museo Nacional Centro de Arte Re
+ ina Sofía\nhan programado una intensa semana llena de actividades sobre ci
+ udades\ndemocráticas\, tecnologías de los comunes y participación ciudadan
+ a. El\nprograma del encuentro se divide en el Democracy Lab y en la\nConfe
+ rencia Internacional.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-3dcbf0b5-dcce-4eae-9e97-794c0864b2f3
+DTSTAMP:20160606T083254Z
+UID:TS1-b31ce19f-39a3-4ed9-abae-2e5237a3de35
 DTSTART;VALUE=DATE:20160522
 DTEND;VALUE=DATE:20160523
 SUMMARY:Hackathon Fujitsu Open Data para Smart Cities
 DESCRIPTION:• Plazo: <2016-05-22 dom>\n• Cuándo: <2016-05-24 mar>\n• Dónde:
-  Pabellón 8 de IFEMA, Calle de Ribera del Sena, Madrid.\n• Mapa: [http://w
- ww.openstreetmap.org/way/34050269]\n• URL: [http://dcentproject.eu/dcentma
- drid/conference/]\nHackathon Fujitsu Open Data para Smart Cities patrocina
- do\nconjuntamente por Fujitsu España y Fujitsu Laboratories.\n\nEn Fujitsu
-  queremos fomentar el desarrollo de nuevos métodos de\nexploración de dato
- s, colaborando tanto en los avances científicos de\námbito público como en
-  aquellos que afectan a la vida cotidiana de las\npersonas. Creemos que Op
- en Data en general y Linked Open Data en\nparticular pueden desempeñar un 
- papel vital en nuestras vidas,\nayudando a la Transformación Digital de la
-  Sociedad a través del uso\nde fuentes públicas de datos.\n\nPor este moti
- vo, en 2015 patrocinamos el primer concurso sobre Linked\nOpen Data y este
-  año lanzamos un Hackathon sobre el mismo tema. En\nFujitsu queremos hacer
-  realidad el Linked Open Data.\n\nEl Hackathon se desarrollará el día 24 d
- e mayo dentro del evento\nDigital Enterprise Show, que tendrá lugar en el 
- Pabellón 8 de IFEMA en\nMadrid. Fujitsu otorgará un premio en metálico de 
- 3.000 euros al mejor\ndesarrollo. Este premio será presentado públicamente
-  durante el\nFujitsu World Tour el día 25 de mayo también en el Pabellón 8
-  de\nIFEMA.
+  Pabellón 8 de IFEMA\, Calle de Ribera del Sena\, Madrid.\n• Mapa: [http:/
+ /www.openstreetmap.org/way/34050269]\n• URL: [http://dcentproject.eu/dcent
+ madrid/conference/]\nHackathon Fujitsu Open Data para Smart Cities patroci
+ nado\nconjuntamente por Fujitsu España y Fujitsu Laboratories.\n\nEn Fujit
+ su queremos fomentar el desarrollo de nuevos métodos de\nexploración de da
+ tos\, colaborando tanto en los avances científicos de\námbito público como
+  en aquellos que afectan a la vida cotidiana de las\npersonas. Creemos que
+  Open Data en general y Linked Open Data en\nparticular pueden desempeñar 
+ un papel vital en nuestras vidas\,\nayudando a la Transformación Digital d
+ e la Sociedad a través del uso\nde fuentes públicas de datos.\n\nPor este 
+ motivo\, en 2015 patrocinamos el primer concurso sobre Linked\nOpen Data y
+  este año lanzamos un Hackathon sobre el mismo tema. En\nFujitsu queremos 
+ hacer realidad el Linked Open Data.\n\nEl Hackathon se desarrollará el día
+  24 de mayo dentro del evento\nDigital Enterprise Show\, que tendrá lugar 
+ en el Pabellón 8 de IFEMA en\nMadrid. Fujitsu otorgará un premio en metáli
+ co de 3.000 euros al mejor\ndesarrollo. Este premio será presentado públic
+ amente durante el\nFujitsu World Tour el día 25 de mayo también en el Pabe
+ llón 8 de\nIFEMA.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS2-3dcbf0b5-dcce-4eae-9e97-794c0864b2f3
+DTSTAMP:20160606T083254Z
+UID:TS2-b31ce19f-39a3-4ed9-abae-2e5237a3de35
 DTSTART;VALUE=DATE:20160524
 DTEND;VALUE=DATE:20160525
 SUMMARY:Hackathon Fujitsu Open Data para Smart Cities
 DESCRIPTION:• Plazo: <2016-05-22 dom>\n• Cuándo: <2016-05-24 mar>\n• Dónde:
-  Pabellón 8 de IFEMA, Calle de Ribera del Sena, Madrid.\n• Mapa: [http://w
- ww.openstreetmap.org/way/34050269]\n• URL: [http://dcentproject.eu/dcentma
- drid/conference/]\nHackathon Fujitsu Open Data para Smart Cities patrocina
- do\nconjuntamente por Fujitsu España y Fujitsu Laboratories.\n\nEn Fujitsu
-  queremos fomentar el desarrollo de nuevos métodos de\nexploración de dato
- s, colaborando tanto en los avances científicos de\námbito público como en
-  aquellos que afectan a la vida cotidiana de las\npersonas. Creemos que Op
- en Data en general y Linked Open Data en\nparticular pueden desempeñar un 
- papel vital en nuestras vidas,\nayudando a la Transformación Digital de la
-  Sociedad a través del uso\nde fuentes públicas de datos.\n\nPor este moti
- vo, en 2015 patrocinamos el primer concurso sobre Linked\nOpen Data y este
-  año lanzamos un Hackathon sobre el mismo tema. En\nFujitsu queremos hacer
-  realidad el Linked Open Data.\n\nEl Hackathon se desarrollará el día 24 d
- e mayo dentro del evento\nDigital Enterprise Show, que tendrá lugar en el 
- Pabellón 8 de IFEMA en\nMadrid. Fujitsu otorgará un premio en metálico de 
- 3.000 euros al mejor\ndesarrollo. Este premio será presentado públicamente
-  durante el\nFujitsu World Tour el día 25 de mayo también en el Pabellón 8
-  de\nIFEMA.
+  Pabellón 8 de IFEMA\, Calle de Ribera del Sena\, Madrid.\n• Mapa: [http:/
+ /www.openstreetmap.org/way/34050269]\n• URL: [http://dcentproject.eu/dcent
+ madrid/conference/]\nHackathon Fujitsu Open Data para Smart Cities patroci
+ nado\nconjuntamente por Fujitsu España y Fujitsu Laboratories.\n\nEn Fujit
+ su queremos fomentar el desarrollo de nuevos métodos de\nexploración de da
+ tos\, colaborando tanto en los avances científicos de\námbito público como
+  en aquellos que afectan a la vida cotidiana de las\npersonas. Creemos que
+  Open Data en general y Linked Open Data en\nparticular pueden desempeñar 
+ un papel vital en nuestras vidas\,\nayudando a la Transformación Digital d
+ e la Sociedad a través del uso\nde fuentes públicas de datos.\n\nPor este 
+ motivo\, en 2015 patrocinamos el primer concurso sobre Linked\nOpen Data y
+  este año lanzamos un Hackathon sobre el mismo tema. En\nFujitsu queremos 
+ hacer realidad el Linked Open Data.\n\nEl Hackathon se desarrollará el día
+  24 de mayo dentro del evento\nDigital Enterprise Show\, que tendrá lugar 
+ en el Pabellón 8 de IFEMA en\nMadrid. Fujitsu otorgará un premio en metáli
+ co de 3.000 euros al mejor\ndesarrollo. Este premio será presentado públic
+ amente durante el\nFujitsu World Tour el día 25 de mayo también en el Pabe
+ llón 8 de\nIFEMA.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-88789b7e-4f8d-46db-afea-055da4f132fa
+DTSTAMP:20160606T083254Z
+UID:TS1-fb5756bf-58e7-46ff-ab34-5e4337376878
 DTSTART;VALUE=DATE:20160313
 DTEND;VALUE=DATE:20160314
-SUMMARY:I Congreso Iberoamericano Nebrija PIATCOM: tendencias, competencias
-  y perfiles profesionales en el sector de la comunicación
+SUMMARY:I Congreso Iberoamericano Nebrija PIATCOM: tendencias\, competencia
+ s y perfiles profesionales en el sector de la comunicación
 DESCRIPTION:• Call for Abstracts DEADLINE: <2016-03-13 dom>\n• Cuándo: <201
  6-05-24 mar>–<2016-05-25 mié>\n• Dónde: Universidad Nebrija. Facultad de C
  iencias de la\n  Comunicación. Campus de la Berzosa. Hoyo del Manzanares. 
@@ -658,12 +664,12 @@ DESCRIPTION:• Call for Abstracts DEADLINE: <2016-03-13 dom>\n• Cuándo: <201
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS2-88789b7e-4f8d-46db-afea-055da4f132fa
+DTSTAMP:20160606T083254Z
+UID:TS2-fb5756bf-58e7-46ff-ab34-5e4337376878
 DTSTART;VALUE=DATE:20160524
 DTEND;VALUE=DATE:20160526
-SUMMARY:I Congreso Iberoamericano Nebrija PIATCOM: tendencias, competencias
-  y perfiles profesionales en el sector de la comunicación
+SUMMARY:I Congreso Iberoamericano Nebrija PIATCOM: tendencias\, competencia
+ s y perfiles profesionales en el sector de la comunicación
 DESCRIPTION:• Call for Abstracts DEADLINE: <2016-03-13 dom>\n• Cuándo: <201
  6-05-24 mar>–<2016-05-25 mié>\n• Dónde: Universidad Nebrija. Facultad de C
  iencias de la\n  Comunicación. Campus de la Berzosa. Hoyo del Manzanares. 
@@ -672,76 +678,76 @@ DESCRIPTION:• Call for Abstracts DEADLINE: <2016-03-13 dom>\n• Cuándo: <201
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-a7449ed4-b11b-4dff-af49-5c698ef65132
+DTSTAMP:20160606T083254Z
+UID:TS1-414fe3ed-5799-45c6-a66b-5a35a15b3dcf
 DTSTART;VALUE=DATE:20160313
 DTEND;VALUE=DATE:20160314
 SUMMARY:Jornadas SIG Libre
 DESCRIPTION:⁃ Call for Abstracts DEADLINE: <2016-03-13 dom>\n⁃ Cuándo: <201
- 6-05-24 mar>–<2016-05-29 dom>\n⁃ Dónde: Aulas de Informática, Facultad de 
- Letras (Universitat de\n  Girona)\n⁃ Mapa:\n⁃ URL:\n  [http://www.sigte.ud
- g.edu/jornadassiglibre/jornadas-sig-libre/talleres/]\n\nLas Jornadas de SI
- G Libre son un evento de referencia en el sector de\nlas tecnologías libre
- s en el ámbito de la información geográfica. Son\nun punto de encuentro do
- nde compartir conocimientos, experiencias y\ncrear sinergias. El idioma de
-  la conferencia es el Español.\n\n\nLa International QGIS User and Develop
- er Conference quiere convertirse\nen el espacio de referencia, y un punto 
- de encuentro para la familia\nde usuarios y desarrolladores que orbitan al
- rededor del proyecto QGIS,\ncon el objetivo de recopilar experiencias y co
- mpartir el conocimiento\nsobre QGIS. El idioma de la conferencia es el Ing
- lés.
+ 6-05-24 mar>–<2016-05-29 dom>\n⁃ Dónde: Aulas de Informática\, Facultad de
+  Letras (Universitat de\n  Girona)\n⁃ Mapa:\n⁃ URL:\n  [http://www.sigte.u
+ dg.edu/jornadassiglibre/jornadas-sig-libre/talleres/]\n\nLas Jornadas de S
+ IG Libre son un evento de referencia en el sector de\nlas tecnologías libr
+ es en el ámbito de la información geográfica. Son\nun punto de encuentro d
+ onde compartir conocimientos\, experiencias y\ncrear sinergias. El idioma 
+ de la conferencia es el Español.\n\n\nLa International QGIS User and Devel
+ oper Conference quiere convertirse\nen el espacio de referencia\, y un pun
+ to de encuentro para la familia\nde usuarios y desarrolladores que orbitan
+  alrededor del proyecto QGIS\,\ncon el objetivo de recopilar experiencias 
+ y compartir el conocimiento\nsobre QGIS. El idioma de la conferencia es el
+  Inglés.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS2-a7449ed4-b11b-4dff-af49-5c698ef65132
+DTSTAMP:20160606T083254Z
+UID:TS2-414fe3ed-5799-45c6-a66b-5a35a15b3dcf
 DTSTART;VALUE=DATE:20160524
 DTEND;VALUE=DATE:20160530
 SUMMARY:Jornadas SIG Libre
 DESCRIPTION:⁃ Call for Abstracts DEADLINE: <2016-03-13 dom>\n⁃ Cuándo: <201
- 6-05-24 mar>–<2016-05-29 dom>\n⁃ Dónde: Aulas de Informática, Facultad de 
- Letras (Universitat de\n  Girona)\n⁃ Mapa:\n⁃ URL:\n  [http://www.sigte.ud
- g.edu/jornadassiglibre/jornadas-sig-libre/talleres/]\n\nLas Jornadas de SI
- G Libre son un evento de referencia en el sector de\nlas tecnologías libre
- s en el ámbito de la información geográfica. Son\nun punto de encuentro do
- nde compartir conocimientos, experiencias y\ncrear sinergias. El idioma de
-  la conferencia es el Español.\n\n\nLa International QGIS User and Develop
- er Conference quiere convertirse\nen el espacio de referencia, y un punto 
- de encuentro para la familia\nde usuarios y desarrolladores que orbitan al
- rededor del proyecto QGIS,\ncon el objetivo de recopilar experiencias y co
- mpartir el conocimiento\nsobre QGIS. El idioma de la conferencia es el Ing
- lés.
+ 6-05-24 mar>–<2016-05-29 dom>\n⁃ Dónde: Aulas de Informática\, Facultad de
+  Letras (Universitat de\n  Girona)\n⁃ Mapa:\n⁃ URL:\n  [http://www.sigte.u
+ dg.edu/jornadassiglibre/jornadas-sig-libre/talleres/]\n\nLas Jornadas de S
+ IG Libre son un evento de referencia en el sector de\nlas tecnologías libr
+ es en el ámbito de la información geográfica. Son\nun punto de encuentro d
+ onde compartir conocimientos\, experiencias y\ncrear sinergias. El idioma 
+ de la conferencia es el Español.\n\n\nLa International QGIS User and Devel
+ oper Conference quiere convertirse\nen el espacio de referencia\, y un pun
+ to de encuentro para la familia\nde usuarios y desarrolladores que orbitan
+  alrededor del proyecto QGIS\,\ncon el objetivo de recopilar experiencias 
+ y compartir el conocimiento\nsobre QGIS. El idioma de la conferencia es el
+  Inglés.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-71b80ee9-3fca-40cd-8c34-bb643d5fd1a1
+DTSTAMP:20160606T083254Z
+UID:TS1-f3ef795b-3955-4a24-adb0-b1289754c576
 DTSTART;VALUE=DATE:20160527
 DTEND;VALUE=DATE:20160529
 SUMMARY:Common Technology and the Democratic City conference
 DESCRIPTION:• Cuándo: <2016-05-27 vie>–<2016-05-28 sáb>\n• Dónde: Medialab-
- Prado, Alameda 15, 28014, Madrid\n• Mapa:\n  [http://www.openstreetmap.org
- /way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://dcentproject.eu/d
- centmadrid/conference/]\nThe Common Technology and the Democratic City con
- ference (27-28 May,\nMuseo Reina Sofia) will conclude the week’s activitie
- s. Prompting\ndiscussion on network democracy, new forms of citizen partic
- ipation\nand digital commons in democratic Cities, the conference will sho
- wcase\nthe success of the European D-CENT project and look at the future o
- f\ndigital democracy.\n\nThe event will gather politicians, activists, res
- earchers, social\nmovements, hackers and Cities to explore innovative meth
- ods, digital\ntools, and policies to strengthen large-scale citizen partic
- ipation in\nthe political process at European and global level. Participan
- ts will\ndebate public policies at the municipal, national and European le
- vel\nto transform democracy and promote transparency to devolve power to\n
- citizens and fight concentration of power within public institutions.\n\nB
- y sharing real-world insights from these global experiments and\ndemonstra
- ting the digital tools being used, the event will provide a\npositive visi
- on of collective intelligence in 21st Century democracy.
+ Prado\, Alameda 15\, 28014\, Madrid\n• Mapa:\n  [http://www.openstreetmap.
+ org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://dcentproject.e
+ u/dcentmadrid/conference/]\nThe Common Technology and the Democratic City 
+ conference (27-28 May\,\nMuseo Reina Sofia) will conclude the week’s activ
+ ities. Prompting\ndiscussion on network democracy\, new forms of citizen p
+ articipation\nand digital commons in democratic Cities\, the conference wi
+ ll showcase\nthe success of the European D-CENT project and look at the fu
+ ture of\ndigital democracy.\n\nThe event will gather politicians\, activis
+ ts\, researchers\, social\nmovements\, hackers and Cities to explore innov
+ ative methods\, digital\ntools\, and policies to strengthen large-scale ci
+ tizen participation in\nthe political process at European and global level
+ . Participants will\ndebate public policies at the municipal\, national an
+ d European level\nto transform democracy and promote transparency to devol
+ ve power to\ncitizens and fight concentration of power within public insti
+ tutions.\n\nBy sharing real-world insights from these global experiments a
+ nd\ndemonstrating the digital tools being used\, the event will provide a\
+ npositive vision of collective intelligence in 21st Century democracy.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:DL-6e317eae-2563-420a-a0ad-6bf24149e0a9
+DTSTAMP:20160606T083254Z
+UID:DL-facd5123-2417-43c3-861b-dc772e983c68
 DTSTART;VALUE=DATE:20160530
 DTEND;VALUE=DATE:20160531
 SUMMARY:DL: Call for Abstracts Open Data Research Symposium
@@ -750,493 +756,513 @@ DESCRIPTION:[http://odresearch.org/abstract.html]\n\nConferencia el 5 de oc
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104059Z
-UID:TS1-5896b83c-8ff0-4872-a302-62de8d4a6733
+DTSTAMP:20160606T083254Z
+UID:TS1-eb202315-dc24-4dbe-a5d8-3023c8b30072
 DTSTART;VALUE=DATE:20160530
 DTEND;VALUE=DATE:20160531
 SUMMARY:News Impact Summit Doha
-DESCRIPTION:• Cuándo: <2016-05-30 lun>\n• Dónde: Doha, Qatar\n• URL: [http:
- //newsimpact.io]\n• Fuente:\n  [http://ejc.net/projects/news/article/ejc-a
- nnounces-a-new-series-of-news-impact-summits-in-2016]
+DESCRIPTION:• Cuándo: <2016-05-30 lun>\n• Dónde: Doha\, Qatar\n• URL: [http
+ ://newsimpact.io]\n• Fuente:\n  [http://ejc.net/projects/news/article/ejc-
+ announces-a-new-series-of-news-impact-summits-in-2016]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-04d0de42-7787-4301-b238-c888ec6a8c91
+DTSTAMP:20160606T083254Z
+UID:TS1-22b209e4-2db2-4741-b3b2-88920ca99a55
 DTSTART;VALUE=DATE:20160531
 DTEND;VALUE=DATE:20160604
 SUMMARY:Q2016 European Conference on Quality in Official Statistics
 DESCRIPTION:<2016-05-31 mar>–<2016-06-03 vie>\n• URL: [http://www.q2016.es/
- ?lang=es]\n• Lugar: Círculo de Bellas Artes en Madrid, España\n• Fechas: d
- el 1 al 3 de Junio de 2016.
+ ?lang=es]\n• Lugar: Círculo de Bellas Artes en Madrid\, España\n• Fechas: 
+ del 1 al 3 de Junio de 2016.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-8dd7468c-f776-4d4e-875d-608d380eb495
+DTSTAMP:20160606T083254Z
+UID:TS1-e209a8da-18e1-44b2-8da3-d21fcc156723
 DTSTART:20160601T183000
 DTEND:20160601T203000
 SUMMARY:Iniciación de Web Scraping con Python
 DESCRIPTION:• Cuándo: <2016-06-01 mié 18:30>–<2016-06-01 mié 20:30>\n• Dónd
- e: Medialab-Prado, Alameda 15, 28014, Madrid\n• Mapa:\n  [http://www.opens
- treetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL:\n  [http://me
- dialab-prado.es/article/iniciacion-a-web-scraping-con-python]\n\nEl 1 de j
- unio escrapearemos la web con Python, o como también se dice,\nwebscraping
-  con Python de la mano de Nicolás Pérez (@nicolasperezi),\nreportero de da
- tos de El Español.
+ e: Medialab-Prado\, Alameda 15\, 28014\, Madrid\n• Mapa:\n  [http://www.op
+ enstreetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL:\n  [http:/
+ /medialab-prado.es/article/iniciacion-a-web-scraping-con-python]\n\nEl 1 d
+ e junio escrapearemos la web con Python\, o como también se dice\,\nwebscr
+ aping con Python de la mano de Nicolás Pérez (@nicolasperezi)\,\nreportero
+  de datos de El Español.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-79aa7ff3-0ade-4df0-82dd-a519298ffbd6
+DTSTAMP:20160606T083254Z
+UID:TS1-ebea740b-8a0e-4d02-9811-356e828c435f
 DTSTART:20160601T193000
 DTEND:20160601T203000
 SUMMARY:CartoDBeers Elecciones 26J
 DESCRIPTION:• Cuándo: <2016-06-01 mié 19:30>–<2016-06-01 mié 20:30>\n• Dónd
- e: Palacio de la Prensa, Gran Vía 46, 2ª planta. 28013, Madrid\n• Mapa:\n 
-  [http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• 
- URL:\n  [https://www.eventbrite.es/e/entradas-cartodbeers-elecciones-26j-2
- 5258224028]\n\nTaller enfocado a la visualización de los datos electorales
-  para las\nelecciones generales del 26 de Junio. Tras este workshop, tendr
- emos el\nplacer de invitaros a unas cervezas y así poder charlar sobre cóm
- o\nsacar el mayor partido a vuestras visualizaciones a través de CartoDB.
+ e: Palacio de la Prensa\, Gran Vía 46\, 2ª planta. 28013\, Madrid\n• Mapa:
+ \n  [http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359]\
+ n• URL:\n  [https://www.eventbrite.es/e/entradas-cartodbeers-elecciones-26
+ j-25258224028]\n\nTaller enfocado a la visualización de los datos electora
+ les para las\nelecciones generales del 26 de Junio. Tras este workshop\, t
+ endremos el\nplacer de invitaros a unas cervezas y así poder charlar sobre
+  cómo\nsacar el mayor partido a vuestras visualizaciones a través de Carto
+ DB.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-9e670078-9be9-4f98-8702-b1b21640aec7
+DTSTAMP:20160606T083254Z
+UID:TS1-2a3c5f7a-22b8-40e1-8b08-2776e48c4f33
 DTSTART;VALUE=DATE:20160602
 DTEND;VALUE=DATE:20160603
 SUMMARY:Open Expo 2016
 DESCRIPTION:• Cuándo: <2016-06-02 jue>\n• Dónde: Ático de la Estación de Ch
- amartín, Calle de Rodríguez Jaén,\n  Madrid.\n• Mapa: [http://www.openstre
- etmap.org/relation/4804690]\n• URL: [http://www.openexpo.es]\n• Entrada: V
- aría el precio,\n  [http://www.openexpo.es/openexpo-2016/inscripcion]\n\nO
- penExpo 2016, III Feria y Congreso anual sobre FLOSS y Open World\nEconomy
-  (Open Data y Open Innovation) que reúne el 2 de junio 2016 en\nel Espacio
-  MEEU, Ático de la Estación de Chamartín (Madrid) a más de\n2.000 personal
- idades del sector, profesionales y empresas en búsqueda\nde generación de 
- negocio.\n\n• Encuentro con más de 2.000 profesionales senior del sector e
- n solo\n• un día: representantes de las principales empresas e institucion
- es,\n• desarrolladores de código abierto, hackers, expertos, proveedores y
- \n• usuarios de todos los niveles.  Un día de conferencias, casos de\n• éx
- ito, Keynotes, talleres, mesas redondas, demos y otras actividades\n• para
- lelas en torno al mundo de las tecnologías libres.  Más de 100\n• empresas
-  participantes que presentarán sus novedades y soluciones\n• tecnológicas.
+ amartín\, Calle de Rodríguez Jaén\,\n  Madrid.\n• Mapa: [http://www.openst
+ reetmap.org/relation/4804690]\n• URL: [http://www.openexpo.es]\n• Entrada:
+  Varía el precio\,\n  [http://www.openexpo.es/openexpo-2016/inscripcion]\n
+ \nOpenExpo 2016\, III Feria y Congreso anual sobre FLOSS y Open World\nEco
+ nomy (Open Data y Open Innovation) que reúne el 2 de junio 2016 en\nel Esp
+ acio MEEU\, Ático de la Estación de Chamartín (Madrid) a más de\n2.000 per
+ sonalidades del sector\, profesionales y empresas en búsqueda\nde generaci
+ ón de negocio.\n\n• Encuentro con más de 2.000 profesionales senior del se
+ ctor en solo\n• un día: representantes de las principales empresas e insti
+ tuciones\,\n• desarrolladores de código abierto\, hackers\, expertos\, pro
+ veedores y\n• usuarios de todos los niveles.  Un día de conferencias\, cas
+ os de\n• éxito\, Keynotes\, talleres\, mesas redondas\, demos y otras acti
+ vidades\n• paralelas en torno al mundo de las tecnologías libres.  Más de 
+ 100\n• empresas participantes que presentarán sus novedades y soluciones\n
+ • tecnológicas.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-6ed6a1e0-2689-4b62-9d61-3692e9739579
+DTSTAMP:20160606T083254Z
+UID:TS1-02bb8983-cd0f-420a-a0a3-100de2b2cf95
 DTSTART:20160602T013000
 DTEND:20160602T021000
 SUMMARY:Debate sobre datos abiertos
 DESCRIPTION:• Cuándo: <2016-06-02 jue 01:30>–<2016-06-02 jue 02:10>\n• Dónd
- e: Ático de la Estación de Chamartín, Calle de Rodríguez Jaén,\n  Madrid.\
- n• Mapa: [http://www.openstreetmap.org/relation/4804690]\n• URL: [http://w
- ww.openexpo.es]\n• Entrada: Varía el precio,\n  [http://www.openexpo.es/op
- enexpo-2016/inscripcion]\n\nMesa redonda moderada por Adolfo Antón Bravo, 
- presidente de Open\nKnowledge España y coordinador del programa de Transpa
- rencia y Datos\nAbiertos de Medialab-Prado. Con la participación de:\n• Ma
- ría Poveda, de ODI Madrid y OEG-UPM. Datos abiertos y enlazados\n  (Linked
-  Open Data)\n• Alberto Abella, de Open Knowledge España, profesor en URJC.
-  Datos\n  abiertos e impacto en la sociedad. ¿Como argumentar que invertir
-  en\n  datos abiertos no es un mal uso de los recursos públicos? ¿Tenemos\
- n  los datos de su impacto?¿Sabemos como se produce? ¿Hay alguna buena\n  
- práctica o seguir? ¿Cuanto hay de postureo en las apuestas por la\n  apert
- ura de datos?.\n• representante del ayuntamiento de Madrid (por confirmar)
+ e: Ático de la Estación de Chamartín\, Calle de Rodríguez Jaén\,\n  Madrid
+ .\n• Mapa: [http://www.openstreetmap.org/relation/4804690]\n• URL: [http:/
+ /www.openexpo.es]\n• Entrada: Varía el precio\,\n  [http://www.openexpo.es
+ /openexpo-2016/inscripcion]\n\nMesa redonda moderada por Adolfo Antón Brav
+ o\, presidente de Open\nKnowledge España y coordinador del programa de Tra
+ nsparencia y Datos\nAbiertos de Medialab-Prado. Con la participación de:\n
+ • María Poveda\, de ODI Madrid y OEG-UPM. Datos abiertos y enlazados\n  (L
+ inked Open Data)\n• Alberto Abella\, de Open Knowledge España\, profesor e
+ n URJC. Datos\n  abiertos e impacto en la sociedad. ¿Como argumentar que i
+ nvertir en\n  datos abiertos no es un mal uso de los recursos públicos? ¿T
+ enemos\n  los datos de su impacto?¿Sabemos como se produce? ¿Hay alguna bu
+ ena\n  práctica o seguir? ¿Cuanto hay de postureo en las apuestas por la\n
+   apertura de datos?.\n• representante del ayuntamiento de Madrid (por con
+ firmar)
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-ebf97af0-d60d-4424-8e58-4b17dc18b941
+DTSTAMP:20160606T083254Z
+UID:TS1-4289f9e5-2e8a-47c2-9c82-f6fe4dd30179
 DTSTART:20160609T190000
 DTEND:20160609T203000
 SUMMARY:R en Junio en Medialab-Prado
 DESCRIPTION:• Cuándo: <2016-06-09 jue 19:00>–<2016-06-09 jue 20:30>\n• Dónd
- e: Medialab-Prado, Alameda 15, 28014, Madrid\n• Mapa:\n  [http://www.opens
- treetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL:\n  [http://ww
- w.meetup.com/es-ES/Grupo-de-Usuarios-de-R-de-Madrid/events/231334596/]\n\n
- Daniel Santolaria: Daniel nos presentará una solución sobre openCPU\ncomo 
- servidor web para aplicaciones de R. Y de un ejemplo propio que\nse llama 
- "Modeler", y que se trata de un modelizador web de series\ntemporales. Ést
- e se puede ver en medible.es\n\nSantiago Mota: Santiago hará una introducc
- ión a la plataforma Kaggle,\nqué es, cómo funciona y algunos consejos prác
- ticos para los que están\nempezando.
+ e: Medialab-Prado\, Alameda 15\, 28014\, Madrid\n• Mapa:\n  [http://www.op
+ enstreetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL:\n  [http:/
+ /www.meetup.com/es-ES/Grupo-de-Usuarios-de-R-de-Madrid/events/231334596/]\
+ n\nDaniel Santolaria: Daniel nos presentará una solución sobre openCPU\nco
+ mo servidor web para aplicaciones de R. Y de un ejemplo propio que\nse lla
+ ma "Modeler"\, y que se trata de un modelizador web de series\ntemporales.
+  Éste se puede ver en medible.es\n\nSantiago Mota: Santiago hará una intro
+ ducción a la plataforma Kaggle\,\nqué es\, cómo funciona y algunos consejo
+ s prácticos para los que están\nempezando.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-801e9594-7494-4104-af00-2f4fc9121476
+DTSTAMP:20160606T083254Z
+UID:TS1-c8e75290-a4e6-43a1-a2da-f3558d6b263d
+DTSTART:20160609T190000
+DTEND:20160609T203000
+SUMMARY:DataBeers Castilla y León
+DESCRIPTION:• Cuándo: <2016-06-09 jue 19:00>–<2016-06-09 jue 20:30>\n• Dónd
+ e: VíaLab. Estación de Renfe. C/. de Recondo\, s/n. 47007\n  Valladolid\n•
+  URL: [https://www.twitter.com/databeerscyl]\n\nPrimer DataBeers Castilla 
+ y León\n\n• Diego Merino Andrés\, de SmartRural\, sobre drones\, datos y\n
+   agricultura.\n• Jesús Lorenzana Campillo\, Centro de Supercomputación de
+  Castilla y\n  León\, datos científicos y centros de supercomputación.\n• 
+ Anibal Reñones Domínguez\, Centro Tecnológico CARTIF\, datos y\n  mantenim
+ iento.\n• Cristina Rueda\, Universidad de Valladolid\, INdat: Big Data en 
+ las\n  aulas
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20160606T083254Z
+UID:TS1-7818da39-9288-4260-9448-c8f70b4d46a0
 DTSTART;VALUE=DATE:20160609
 DTEND;VALUE=DATE:20160614
-SUMMARY:ICA Fukuoka 2016, conference of the International Communication Ass
- ociation
-DESCRIPTION:• Cuándo: <2016-06-09 jue>–<2016-06-13 lun>\n• Dónde: Fukuoka, 
- Japón\n• Mapa:\n• URL: [http://icahdq.org]
+SUMMARY:ICA Fukuoka 2016\, conference of the International Communication As
+ sociation
+DESCRIPTION:• Cuándo: <2016-06-09 jue>–<2016-06-13 lun>\n• Dónde: Fukuoka\,
+  Japón\n• Mapa:\n• URL: [http://icahdq.org]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-111cdd3c-9522-46e7-bb94-ddc4027a075d
+DTSTAMP:20160606T083254Z
+UID:TS1-6317010e-a0af-4840-9f5f-93c7da8d6f80
 DTSTART:20160615T100000
 DTEND:20160615T180000
 SUMMARY:Evento transparente
 DESCRIPTION:• Cuándo: <2016-06-15 mié 10:00>–<2016-06-15 mié 18:00>\n• Dónd
- e: Medialab-Prado, Alameda 15, 28014, Madrid\n• Mapa:\n  [http://www.opens
- treetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://event
- otransparente.org/]
+ e: Medialab-Prado\, Alameda 15\, 28014\, Madrid\n• Mapa:\n  [http://www.op
+ enstreetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://ev
+ entotransparente.org/]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-b59e85d2-0d16-4fc4-8b3e-cda4930a7e52
+DTSTAMP:20160606T083254Z
+UID:TS1-cf526b5e-e994-43a2-86c7-37bc1cf0497c
 DTSTART;VALUE=DATE:20160615
 DTEND;VALUE=DATE:20160618
 SUMMARY:GEN Summit
-DESCRIPTION:• Cuándo: <2016-06-15 mié>–<2016-06-17 vie>\n• Dónde: Viena, Au
- stria\n• Mapa:\n• URL: [http://www.gensummit2016.org/]\n\nHow can the medi
- a industry deal with Facebook, Apple, Google, Amazon\nand other mega-platf
- orms offering news to their users? This is the\nmajor question for 2016 an
- d the sixth annual GEN Summit will explore\nthe most relevant solutions fo
- r your newsroom. Over-the-top platforms\nclaim to want to partner with med
- ia organisations and share revenue,\nbut who will own the data and the rea
- ders’ loyalty? Content\ndistribution is becoming a common battleground for
-  legacy media and\npure online players alike. For the first time, both are
-  facing the\nsame struggle. Join more than 600 Editors-in-Chief and media\
- ninnovators for three days in Vienna, presented by the Global Editors\nNet
- work, June 15-17, 2016.
+DESCRIPTION:• Cuándo: <2016-06-15 mié>–<2016-06-17 vie>\n• Dónde: Viena\, A
+ ustria\n• Mapa:\n• URL: [http://www.gensummit2016.org/]\n\nHow can the med
+ ia industry deal with Facebook\, Apple\, Google\, Amazon\nand other mega-p
+ latforms offering news to their users? This is the\nmajor question for 201
+ 6 and the sixth annual GEN Summit will explore\nthe most relevant solution
+ s for your newsroom. Over-the-top platforms\nclaim to want to partner with
+  media organisations and share revenue\,\nbut who will own the data and th
+ e readers’ loyalty? Content\ndistribution is becoming a common battlegroun
+ d for legacy media and\npure online players alike. For the first time\, bo
+ th are facing the\nsame struggle. Join more than 600 Editors-in-Chief and 
+ media\ninnovators for three days in Vienna\, presented by the Global Edito
+ rs\nNetwork\, June 15-17\, 2016.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-e16104bf-9885-4c55-9b7a-9cbefb0adc4a
+DTSTAMP:20160606T083254Z
+UID:TS1-d0ea5e7a-f0d9-4cf4-97a5-02e98bb9f43c
 DTSTART:20160616T193000
 DTEND:20160616T204500
 SUMMARY:Madrid D3.js: Teoría sobre visualización e introducción a Submarine
  .js
 DESCRIPTION:• Cuándo: <2016-06-16 jue 19:30>–<2016-06-16 jue 20:45>\n• Dónd
- e: Ronda de Atocha, 37 Oficina Derecha 28012, Madrid\n• Mapa:\n• URL:\n  [
- http://www.meetup.com/es-ES/Madrid-D3-js/events/231507953/?rv=ea1]\n\nJuan
-  Morales (@crispamares) hablará de Visualizar con la cabeza en\nmente:\n\n
- ¿Cómo crear visualizaciones que representen tus datos de forma\nefectiva y
-  expresiva? ¿Qué layout usar? ¿Qué colores usar? En esta\ncharla hablaremo
- s de percepción y de cómo mapear las variables de tu\ndataset a variables 
- visuales.\n\nÁlvaro Sánchez (@alvarosata) nos hablará de Submarine.js:\n\n
- ¿Tienes datos geolocalizados y quieres visualizarlos? ¿Los productos\nde m
- apas se te quedan cortos, pero desarrollar desde cero es demasiado\ncostos
- o? Submarine.js es una librería de código abierto para facilitar\nla imple
- tementación de mapas interactivos con D3 y\nLeaflet. [https://github.com/T
- elefonica/submarine]
+ e: Ronda de Atocha\, 37 Oficina Derecha 28012\, Madrid\n• Mapa:\n• URL:\n 
+  [http://www.meetup.com/es-ES/Madrid-D3-js/events/231507953/?rv=ea1]\n\nJu
+ an Morales (@crispamares) hablará de Visualizar con la cabeza en\nmente:\n
+ \n¿Cómo crear visualizaciones que representen tus datos de forma\nefectiva
+  y expresiva? ¿Qué layout usar? ¿Qué colores usar? En esta\ncharla hablare
+ mos de percepción y de cómo mapear las variables de tu\ndataset a variable
+ s visuales.\n\nÁlvaro Sánchez (@alvarosata) nos hablará de Submarine.js:\n
+ \n¿Tienes datos geolocalizados y quieres visualizarlos? ¿Los productos\nde
+  mapas se te quedan cortos\, pero desarrollar desde cero es demasiado\ncos
+ toso? Submarine.js es una librería de código abierto para facilitar\nla im
+ pletementación de mapas interactivos con D3 y\nLeaflet. [https://github.co
+ m/Telefonica/submarine]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:DL-175d996d-60cc-4ffd-ae14-d7064ed558f6
+DTSTAMP:20160606T083254Z
+UID:DL-bea5d310-228d-4d66-927d-0590177e5877
 DTSTART;VALUE=DATE:20160410
 DTEND;VALUE=DATE:20160411
 SUMMARY:DL: Data Journalism Awards
-DESCRIPTION:• Cuándo: <2016-06-17 vie>\n• Dónde: Viena, Austria\n• Mapa:\n•
-  URL:\n  [http://www.globaleditorsnetwork.org/programmes/data-journalism-a
- wards/]\n\nEstos son los únicos premios mundiales que reconocen y ayudan a
- \nvisibilizar la labor periodística que combina la visualización y el\naná
- lisis de datos para narrar historias innovadoras. Entre los\nganadores de 
- anteriores ediciones de se encuentran The New York Times,\nProPublica, The
-  Guardian o La Nación (de Argentina). La fecha límite\npara presentar los 
- proyectos es el 10 de abril a media noche (horario\ndel Meridiano de Green
- wich) y la cuantía de los premios es €1.000. Los\npremios #DJA2016 están o
- rientados a redacciones y periodistas de\norganizaciones y grupos editoria
- les de cualquier tamaño, tanto grandes\ncomo pequeños. Se reconocen a los 
- mejores trabajos en 12 categorías,\nincluyendo:\n\n• Mejor trabajo de visu
- alización de datos\n• Mejor investigación\n• Mejor app de datos aplicada a
- l periodismo\n• Mejor web de periodismo de datos\n• Mejor portfolio indivi
- dual\n• Mejor uso de datos en una noticia de última hora\n• Premio a datos
-  abiertos\n• Premio de excelencia (premio del jurado y premio del público)
- \n\nEl concurso está organizado por Global Editors Network, una plataforma
- \nque cuenta con el apoyo de Google y Knight Foundation y que aglutina\nje
- fes de redacción e innovadores en medios de comunicación\ncomprometidos co
- n el periodismo de alta calidad.
+DESCRIPTION:• Cuándo: <2016-06-17 vie>\n• Dónde: Viena\, Austria\n• Mapa:\n
+ • URL:\n  [http://www.globaleditorsnetwork.org/programmes/data-journalism-
+ awards/]\n\nEstos son los únicos premios mundiales que reconocen y ayudan 
+ a\nvisibilizar la labor periodística que combina la visualización y el\nan
+ álisis de datos para narrar historias innovadoras. Entre los\nganadores de
+  anteriores ediciones de se encuentran The New York Times\,\nProPublica\, 
+ The Guardian o La Nación (de Argentina). La fecha límite\npara presentar l
+ os proyectos es el 10 de abril a media noche (horario\ndel Meridiano de Gr
+ eenwich) y la cuantía de los premios es €1.000. Los\npremios #DJA2016 está
+ n orientados a redacciones y periodistas de\norganizaciones y grupos edito
+ riales de cualquier tamaño\, tanto grandes\ncomo pequeños. Se reconocen a 
+ los mejores trabajos en 12 categorías\,\nincluyendo:\n\n• Mejor trabajo de
+  visualización de datos\n• Mejor investigación\n• Mejor app de datos aplic
+ ada al periodismo\n• Mejor web de periodismo de datos\n• Mejor portfolio i
+ ndividual\n• Mejor uso de datos en una noticia de última hora\n• Premio a 
+ datos abiertos\n• Premio de excelencia (premio del jurado y premio del púb
+ lico)\n\nEl concurso está organizado por Global Editors Network\, una plat
+ aforma\nque cuenta con el apoyo de Google y Knight Foundation y que agluti
+ na\njefes de redacción e innovadores en medios de comunicación\ncomprometi
+ dos con el periodismo de alta calidad.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-175d996d-60cc-4ffd-ae14-d7064ed558f6
+DTSTAMP:20160606T083254Z
+UID:TS1-bea5d310-228d-4d66-927d-0590177e5877
 DTSTART;VALUE=DATE:20160617
 DTEND;VALUE=DATE:20160618
 SUMMARY:Data Journalism Awards
-DESCRIPTION:• Cuándo: <2016-06-17 vie>\n• Dónde: Viena, Austria\n• Mapa:\n•
-  URL:\n  [http://www.globaleditorsnetwork.org/programmes/data-journalism-a
- wards/]\n\nEstos son los únicos premios mundiales que reconocen y ayudan a
- \nvisibilizar la labor periodística que combina la visualización y el\naná
- lisis de datos para narrar historias innovadoras. Entre los\nganadores de 
- anteriores ediciones de se encuentran The New York Times,\nProPublica, The
-  Guardian o La Nación (de Argentina). La fecha límite\npara presentar los 
- proyectos es el 10 de abril a media noche (horario\ndel Meridiano de Green
- wich) y la cuantía de los premios es €1.000. Los\npremios #DJA2016 están o
- rientados a redacciones y periodistas de\norganizaciones y grupos editoria
- les de cualquier tamaño, tanto grandes\ncomo pequeños. Se reconocen a los 
- mejores trabajos en 12 categorías,\nincluyendo:\n\n• Mejor trabajo de visu
- alización de datos\n• Mejor investigación\n• Mejor app de datos aplicada a
- l periodismo\n• Mejor web de periodismo de datos\n• Mejor portfolio indivi
- dual\n• Mejor uso de datos en una noticia de última hora\n• Premio a datos
-  abiertos\n• Premio de excelencia (premio del jurado y premio del público)
- \n\nEl concurso está organizado por Global Editors Network, una plataforma
- \nque cuenta con el apoyo de Google y Knight Foundation y que aglutina\nje
- fes de redacción e innovadores en medios de comunicación\ncomprometidos co
- n el periodismo de alta calidad.
+DESCRIPTION:• Cuándo: <2016-06-17 vie>\n• Dónde: Viena\, Austria\n• Mapa:\n
+ • URL:\n  [http://www.globaleditorsnetwork.org/programmes/data-journalism-
+ awards/]\n\nEstos son los únicos premios mundiales que reconocen y ayudan 
+ a\nvisibilizar la labor periodística que combina la visualización y el\nan
+ álisis de datos para narrar historias innovadoras. Entre los\nganadores de
+  anteriores ediciones de se encuentran The New York Times\,\nProPublica\, 
+ The Guardian o La Nación (de Argentina). La fecha límite\npara presentar l
+ os proyectos es el 10 de abril a media noche (horario\ndel Meridiano de Gr
+ eenwich) y la cuantía de los premios es €1.000. Los\npremios #DJA2016 está
+ n orientados a redacciones y periodistas de\norganizaciones y grupos edito
+ riales de cualquier tamaño\, tanto grandes\ncomo pequeños. Se reconocen a 
+ los mejores trabajos en 12 categorías\,\nincluyendo:\n\n• Mejor trabajo de
+  visualización de datos\n• Mejor investigación\n• Mejor app de datos aplic
+ ada al periodismo\n• Mejor web de periodismo de datos\n• Mejor portfolio i
+ ndividual\n• Mejor uso de datos en una noticia de última hora\n• Premio a 
+ datos abiertos\n• Premio de excelencia (premio del jurado y premio del púb
+ lico)\n\nEl concurso está organizado por Global Editors Network\, una plat
+ aforma\nque cuenta con el apoyo de Google y Knight Foundation y que agluti
+ na\njefes de redacción e innovadores en medios de comunicación\ncomprometi
+ dos con el periodismo de alta calidad.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-9516c1f9-8f5e-494a-93a9-e7765561ace3
+DTSTAMP:20160606T083254Z
+UID:TS1-5018474e-0ad0-428a-85f4-d5c224b666fd
 DTSTART:20160618T100000
 DTEND:20160618T130000
 SUMMARY:Taller de PostGIS y CartoCSS con CartoDB
 DESCRIPTION:• Cuándo: <2016-06-18 sáb 10:00>–<2016-06-18 sáb 13:00>\n• Dónd
- e: Medialab-Prado, Alameda 15, 28014, Madrid\n• Mapa:\n  [http://www.opens
- treetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL:\n  [http://me
- dialab-prado.es/article/taller-de-postgis-y-cartocss-con-cartodb]\n\nTalle
- r organizado por GeoInquietos Madrid será de dificultad\nintermedia ajusta
- do para aquellos geoinquietos interesados en el\nanálisis de bases de dato
- s espaciales con PostGIS, así como el diseño\nde visualizaciones con el le
- nguaje de estilos CartoCSS, ambos dentro\ndel editor de CartoDB.
+ e: Medialab-Prado\, Alameda 15\, 28014\, Madrid\n• Mapa:\n  [http://www.op
+ enstreetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL:\n  [http:/
+ /medialab-prado.es/article/taller-de-postgis-y-cartocss-con-cartodb]\n\nTa
+ ller organizado por GeoInquietos Madrid será de dificultad\nintermedia aju
+ stado para aquellos geoinquietos interesados en el\nanálisis de bases de d
+ atos espaciales con PostGIS\, así como el diseño\nde visualizaciones con e
+ l lenguaje de estilos CartoCSS\, ambos dentro\ndel editor de CartoDB.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-02662982-c1cf-492a-a3f8-af055b815d0d
+DTSTAMP:20160606T083254Z
+UID:TS1-2fa829a7-0089-44cb-9724-a26d5e649874
 DTSTART;VALUE=DATE:20160618
 DTEND;VALUE=DATE:20160619
 SUMMARY:Code for Spain Unconference
 DESCRIPTION:• Cuándo: <2016-06-18 sáb>\n• Dónde: Campus Madrid (Calle Moren
- o Nieto 12, Madrid)\n• Mapa:\n• URL:\n  [https://docs.google.com/forms/d/1
- nbwT36hPt1FtokcElK5hW3VBrLzsUPHgEKjLtWddKFU/viewform?c=0&w=1]\n\nPrimer ev
- ento de la iniciativa con el que pretenden poner cara los\nmiembros, dar a
-  conocer cual es el propósito del proyecto, los avances\nrealizados y prin
- cipalmente abrir un espacio donde tratar aquellos\ntemas que más nos preoc
- upan como los que se pueden leer en el\nrepositorio de Github: [https://gi
- thub.com/codeforspain/datos/issues]
+ o Nieto 12\, Madrid)\n• Mapa:\n• URL:\n  [https://docs.google.com/forms/d/
+ 1nbwT36hPt1FtokcElK5hW3VBrLzsUPHgEKjLtWddKFU/viewform?c=0&w=1]\n\nPrimer e
+ vento de la iniciativa con el que pretenden poner cara los\nmiembros\, dar
+  a conocer cual es el propósito del proyecto\, los avances\nrealizados y p
+ rincipalmente abrir un espacio donde tratar aquellos\ntemas que más nos pr
+ eocupan como los que se pueden leer en el\nrepositorio de Github: [https:/
+ /github.com/codeforspain/datos/issues]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-c30e6cf6-a1b8-4c7b-9eb9-6de162309da0
+DTSTAMP:20160606T083254Z
+UID:TS1-8a62fed2-fe34-43c6-b4d8-5b5be45d2578
 DTSTART:20160620T183000
 DTEND:20160620T204500
 SUMMARY:Reunión GNOME Hispano
 DESCRIPTION:• Cuándo: <2016-06-20 lun 18:30>–<2016-06-20 lun 20:45>\n• Dónd
- e: Medialab-Prado, Alameda 15, 28014, Madrid\n• Mapa:\n  [http://www.opens
- treetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://media
- lab-prado.es/article/gnome-hispano]
+ e: Medialab-Prado\, Alameda 15\, 28014\, Madrid\n• Mapa:\n  [http://www.op
+ enstreetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://me
+ dialab-prado.es/article/gnome-hispano]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-001cf917-f58e-4e6e-a75a-b757f250167d
+DTSTAMP:20160606T083254Z
+UID:TS1-3d86f859-d560-44b0-bdc5-fb2b99c4c125
 DTSTART;VALUE=DATE:20160330
 DTEND;VALUE=DATE:20160331
 SUMMARY:Wikimania 2016
 DESCRIPTION:• Proposals: DEADLINE: <2016-03-30 mié>\n• Cuándo: <2016-06-22 
- mié>–<2016-06-28 mar>\n• Dónde: Esino Lario, Lecco, Lombardía, Italia\n• M
- apa:\n• URL: [https://wikimania2016.wikimedia.org/wiki/Main_Page]\n\nWikim
- ania is the annual conference celebrating Wikipedia and its\nsister free k
- nowledge projects with conferences, discussions, meetups,\ntraining and a 
- hackathon. Hundreds of volunteer editors come together\nto learn about and
-  discuss projects, approaches and issues.\n\nJoin us in Esino Lario, Provi
- nce of Lecco, Lombardy Region, Italy, on\nJune 22–23 (pre-conference), 24–
- 26 (main conference) and 27–28\n(post-conference), 2016.
+ mié>–<2016-06-28 mar>\n• Dónde: Esino Lario\, Lecco\, Lombardía\, Italia\n
+ • Mapa:\n• URL: [https://wikimania2016.wikimedia.org/wiki/Main_Page]\n\nWi
+ kimania is the annual conference celebrating Wikipedia and its\nsister fre
+ e knowledge projects with conferences\, discussions\, meetups\,\ntraining 
+ and a hackathon. Hundreds of volunteer editors come together\nto learn abo
+ ut and discuss projects\, approaches and issues.\n\nJoin us in Esino Lario
+ \, Province of Lecco\, Lombardy Region\, Italy\, on\nJune 22–23 (pre-confe
+ rence)\, 24–26 (main conference) and 27–28\n(post-conference)\, 2016.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS2-001cf917-f58e-4e6e-a75a-b757f250167d
+DTSTAMP:20160606T083254Z
+UID:TS2-3d86f859-d560-44b0-bdc5-fb2b99c4c125
 DTSTART;VALUE=DATE:20160622
 DTEND;VALUE=DATE:20160629
 SUMMARY:Wikimania 2016
 DESCRIPTION:• Proposals: DEADLINE: <2016-03-30 mié>\n• Cuándo: <2016-06-22 
- mié>–<2016-06-28 mar>\n• Dónde: Esino Lario, Lecco, Lombardía, Italia\n• M
- apa:\n• URL: [https://wikimania2016.wikimedia.org/wiki/Main_Page]\n\nWikim
- ania is the annual conference celebrating Wikipedia and its\nsister free k
- nowledge projects with conferences, discussions, meetups,\ntraining and a 
- hackathon. Hundreds of volunteer editors come together\nto learn about and
-  discuss projects, approaches and issues.\n\nJoin us in Esino Lario, Provi
- nce of Lecco, Lombardy Region, Italy, on\nJune 22–23 (pre-conference), 24–
- 26 (main conference) and 27–28\n(post-conference), 2016.
+ mié>–<2016-06-28 mar>\n• Dónde: Esino Lario\, Lecco\, Lombardía\, Italia\n
+ • Mapa:\n• URL: [https://wikimania2016.wikimedia.org/wiki/Main_Page]\n\nWi
+ kimania is the annual conference celebrating Wikipedia and its\nsister fre
+ e knowledge projects with conferences\, discussions\, meetups\,\ntraining 
+ and a hackathon. Hundreds of volunteer editors come together\nto learn abo
+ ut and discuss projects\, approaches and issues.\n\nJoin us in Esino Lario
+ \, Province of Lecco\, Lombardy Region\, Italy\, on\nJune 22–23 (pre-confe
+ rence)\, 24–26 (main conference) and 27–28\n(post-conference)\, 2016.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-075cc468-921e-44fd-93f5-458712508e72
+DTSTAMP:20160606T083254Z
+UID:TS1-004fcba1-9bdb-4b81-aac5-c7be964b02cd
 DTSTART;VALUE=DATE:20160701
 DTEND;VALUE=DATE:20160702
 SUMMARY:News Impact Summit Berlin
-DESCRIPTION:• Cuándo: <2016-07-01 vie>\n• Dónde: Berlín, Alemania\n• URL: [
- http://newsimpact.io]\n• Fuente:\n  [http://ejc.net/projects/news/article/
- ejc-announces-a-new-series-of-news-impact-summits-in-2016]
+DESCRIPTION:• Cuándo: <2016-07-01 vie>\n• Dónde: Berlín\, Alemania\n• URL: 
+ [http://newsimpact.io]\n• Fuente:\n  [http://ejc.net/projects/news/article
+ /ejc-announces-a-new-series-of-news-impact-summits-in-2016]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-10015161-63b6-46ec-9cbf-3f94c325f6f7
+DTSTAMP:20160606T083254Z
+UID:TS1-8fb3e734-4e56-4775-bfc4-296b243c456a
 DTSTART;VALUE=DATE:20160701
 DTEND;VALUE=DATE:20160703
 SUMMARY:2nd Swiss Open Cultural Data Hackaton
 DESCRIPTION:• Cuándo: <2016-07-01 vie>–<2016-07-02 sáb>\n• Dónde: Basel Uni
- versity Library / Digital Humanities Lab, Basilea,\n  Suiza.\n• URL: [http
- ://make.opendata.ch/wiki/event:2016-07]\n\nYou can already bring in ideas 
- about ways to use cultural data. Have a\nlook at the Swiss cultural data a
- nd data from heritage institutions\nabroad published under open licenses:\
- n• Swiss Data Sources\n• Open Cultural Data (Worldwide)\n\nYou can help by
-  sharing cultural data\n\nYou may own yourself cultural data that you are 
- ready to share. Please\nlook at these infosheets (German / French) on how 
- to share data. If\nyou have further questions, please feel free to contact
- \nbeat.estermann@openglam.ch.\n\nShare your discoveries of unspotted cultu
- ral data\n\nMaybe you are aware of interesting cultural data. In preparati
- on for\nthe hackathon we are putting together a list of such datasets link
- s to\ninteresting data. We encourage you to contribute to it by adding new
- \nitems.\n\nShare Project Ideas\n\nYou can already bring in ideas about wa
- ys to use cultural data. Feel\nfree to take part in an ongoing brainstormi
- ng on this page.
+ versity Library / Digital Humanities Lab\, Basilea\,\n  Suiza.\n• URL: [ht
+ tp://make.opendata.ch/wiki/event:2016-07]\n\nYou can already bring in idea
+ s about ways to use cultural data. Have a\nlook at the Swiss cultural data
+  and data from heritage institutions\nabroad published under open licenses
+ :\n• Swiss Data Sources\n• Open Cultural Data (Worldwide)\n\nYou can help 
+ by sharing cultural data\n\nYou may own yourself cultural data that you ar
+ e ready to share. Please\nlook at these infosheets (German / French) on ho
+ w to share data. If\nyou have further questions\, please feel free to cont
+ act\nbeat.estermann@openglam.ch.\n\nShare your discoveries of unspotted cu
+ ltural data\n\nMaybe you are aware of interesting cultural data. In prepar
+ ation for\nthe hackathon we are putting together a list of such datasets l
+ inks to\ninteresting data. We encourage you to contribute to it by adding 
+ new\nitems.\n\nShare Project Ideas\n\nYou can already bring in ideas about
+  ways to use cultural data. Feel\nfree to take part in an ongoing brainsto
+ rming on this page.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-f81800f7-e819-4878-9537-bf31e9dea154
+DTSTAMP:20160606T083254Z
+UID:TS1-054a4636-340e-4f7d-b98b-c32b6adc20a8
 DTSTART;VALUE=DATE:20160717
 DTEND;VALUE=DATE:20160722
 SUMMARY:SIGIR 2016
 DESCRIPTION:<2016-07-17 dom>–<2016-07-21 jue>\n\n39th International ACM SIG
- IR Conference on Research and Development in\nInformation Retrieval, exact
- ly 30 years since SIGIR 1986, also held in\nPisa.\n\nResearchers, academic
- s, students, and industry leaders working in the\nbroad area of informatio
- n retrieval, are invited to join the conf for\na rich, five-days program f
- eaturing full paper presentations, poster\npresentations, system demonstra
- tions, tutorials, specialized\nworkshops, an industry-oriented event, and 
- social events.\n\nThe SIGIR conference is the major international forum fo
- r the\npresentation of new research results and for the demonstration of n
- ew\nsystems and techniques in the field of information retrieval (IR). The
- \nGeneral Chairs and Program Chairs of SIGIR 2016 invite all those\nworkin
- g in areas related to IR to submit high-impact original papers\nfor review
- . SIGIR 2016 welcomes contributions related to any aspect of\nIR theory, f
- oundations, techniques, and applications, and solicits\nproposals for work
- shops, demonstrations, tutorials, and\nindustry-oriented papers.\n\n[http:
- //sigir.org/sigir2016/]
+ IR Conference on Research and Development in\nInformation Retrieval\, exac
+ tly 30 years since SIGIR 1986\, also held in\nPisa.\n\nResearchers\, acade
+ mics\, students\, and industry leaders working in the\nbroad area of infor
+ mation retrieval\, are invited to join the conf for\na rich\, five-days pr
+ ogram featuring full paper presentations\, poster\npresentations\, system 
+ demonstrations\, tutorials\, specialized\nworkshops\, an industry-oriented
+  event\, and social events.\n\nThe SIGIR conference is the major internati
+ onal forum for the\npresentation of new research results and for the demon
+ stration of new\nsystems and techniques in the field of information retrie
+ val (IR). The\nGeneral Chairs and Program Chairs of SIGIR 2016 invite all 
+ those\nworking in areas related to IR to submit high-impact original paper
+ s\nfor review. SIGIR 2016 welcomes contributions related to any aspect of\
+ nIR theory\, foundations\, techniques\, and applications\, and solicits\np
+ roposals for workshops\, demonstrations\, tutorials\, and\nindustry-orient
+ ed papers.\n\n[http://sigir.org/sigir2016/]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-8a0ece6b-6a6c-466b-a645-7818f36fb50d
+DTSTAMP:20160606T083254Z
+UID:TS1-1f9321b8-0197-4d8d-b1cc-f9d08266a4e5
 DTSTART:20160718T183000
 DTEND:20160718T204500
 SUMMARY:Reunión GNOME Hispano
 DESCRIPTION:• Cuándo: <2016-07-18 lun 18:30>–<2016-07-18 lun 20:45>\n• Dónd
- e: Medialab-Prado, Alameda 15, 28014, Madrid\n• Mapa:\n  [http://www.opens
- treetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://media
- lab-prado.es/article/gnome-hispano]
+ e: Medialab-Prado\, Alameda 15\, 28014\, Madrid\n• Mapa:\n  [http://www.op
+ enstreetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://me
+ dialab-prado.es/article/gnome-hispano]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-fd1a420c-021d-4510-9e80-f3e62bdd734a
+DTSTAMP:20160606T083254Z
+UID:TS1-4011c989-7090-4444-9e47-d5a3fd4668a4
 DTSTART;VALUE=DATE:20160728
 DTEND;VALUE=DATE:20160730
 SUMMARY:SRCCON
 DESCRIPTION:• Cuándo: <2016-07-28 jue>–<2016-07-29 vie>\n• Dónde: Pacific N
- orthwest College of Art, Portland, Oregon, EE.UU.\n• Mapa:\n• URL: [http:/
- /srccon.org/]\n\nSRCCON is a hands-on conference focused on the practical 
- challenges\nnews technology and data teams encounter every day. Active\npa
- rticipation is at the center of SRCCON, and we work to make it an\ninclusi
- ve and welcoming event where people can feel comfortable\njumping in to wo
- rk on complex problems. We welcome participants from\nall fields—if you wa
- nt to strengthen journalism online, we want you\nthere.
+ orthwest College of Art\, Portland\, Oregon\, EE.UU.\n• Mapa:\n• URL: [htt
+ p://srccon.org/]\n\nSRCCON is a hands-on conference focused on the practic
+ al challenges\nnews technology and data teams encounter every day. Active\
+ nparticipation is at the center of SRCCON\, and we work to make it an\ninc
+ lusive and welcoming event where people can feel comfortable\njumping in t
+ o work on complex problems. We welcome participants from\nall fields—if yo
+ u want to strengthen journalism online\, we want you\nthere.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-fcb32472-12b9-4831-aac9-ba1d24ee6a55
+DTSTAMP:20160606T083254Z
+UID:TS1-7d068a64-f157-41a3-ba22-1e0fb52708c3
 DTSTART;VALUE=DATE:20161003
 DTEND;VALUE=DATE:20161006
-SUMMARY:VII Congreso Internacional en Gobierno, Administración y Políticas 
- Públicas
+SUMMARY:VII Congreso Internacional en Gobierno\, Administración y Políticas
+  Públicas
 DESCRIPTION:• Cuándo: <2016-10-03 lun>–<2016-10-05 mié>\n• Dónde:\n• Mapa:\
  n• URL: [http://www.gigapp.org/index.php/congreso/congreso-2016]\n\n“Const
  ruyendo una nueva cultura administrativa: políticas y gestión\npública con
-  la ciudadanía” El Congreso Internacional en Gobierno,\nAdministración y P
- olíticas Públicas, organizado por el GIGAPP desde\n2010, ha logrado consti
- tuirse en un Congreso anual de referencia en\nlos temas de Gobierno, Admin
- istración y Políticas Públicas en\nIberoamérica. La progresión del evento 
- da cuenta del avance en\ncantidad y calidad del evento. Este evento es un 
- espacio abierto\npensado para presentar y debatir nuevas ideas y enfoques,
-  experiencias\ne investigaciones de calidad y cultivar vínculos de colabor
- ación y\ngeneración de redes de trabajo sobre los ejes temáticos en los qu
- e se\nenmarca.
+  la ciudadanía” El Congreso Internacional en Gobierno\,\nAdministración y 
+ Políticas Públicas\, organizado por el GIGAPP desde\n2010\, ha logrado con
+ stituirse en un Congreso anual de referencia en\nlos temas de Gobierno\, A
+ dministración y Políticas Públicas en\nIberoamérica. La progresión del eve
+ nto da cuenta del avance en\ncantidad y calidad del evento. Este evento es
+  un espacio abierto\npensado para presentar y debatir nuevas ideas y enfoq
+ ues\, experiencias\ne investigaciones de calidad y cultivar vínculos de co
+ laboración y\ngeneración de redes de trabajo sobre los ejes temáticos en l
+ os que se\nenmarca.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-95597e81-7116-44dc-8d56-61eeec6015fe
+DTSTAMP:20160606T083255Z
+UID:TS1-25ec181a-5a9c-4105-8ff8-a77513d02282
 DTSTART:20161005T100000
 DTEND:20161005T200000
 SUMMARY:Open Data Research Symposium 2016
 DESCRIPTION:• Cuándo: <2016-10-05 mié 10:00>–<2016-10-05 mié 20:00>\n• Dónd
- e: Madrid, Spain\n• Mapa:\n• URL: [http://odresearch.org/]\n• Hashtag: [OD
- R16]
+ e: Madrid\, Spain\n• Mapa:\n• URL: [http://odresearch.org/]\n• Hashtag: [O
+ DR16] (https://twitter.com/hashtag/ODRS16?src%3Dhash)
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-66ef1513-8d1b-4864-8226-0fd036a538cf
+DTSTAMP:20160606T083255Z
+UID:TS1-a7efd436-6b13-48d6-a213-a792c8b5724d
 DTSTART;VALUE=DATE:20161006
 DTEND;VALUE=DATE:20161008
 SUMMARY:IODC 2016
 DESCRIPTION:<2016-10-06 jue>–<2016-10-07 vie> 4ª Conferencia Internacional 
- sobre\nDatos Abiertos Objertivos globales, impacto local\n[http://opendata
- con.org/]
+ sobre\nDatos Abiertos Objertivos globales\, impacto local\n[http://opendat
+ acon.org/]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-245b98e3-392d-48e0-98ab-408817bb5049
+DTSTAMP:20160606T083255Z
+UID:TS1-be84799d-44af-4566-adc9-ca5136c06948
 DTSTART;VALUE=DATE:20161027
 DTEND;VALUE=DATE:20161028
 SUMMARY:Big Data Week
 DESCRIPTION:• Cuándo: <2016-10-27 jue>\n• Dónde: etc.venues 155 Bishopsgate
- , Londres, Reino Unido\n• Mapa: 51.5186567,-0.08028590000003533\n• URL: [h
- ttp://london.bigdataweek.com/]\n\nBig data players from finance, healthcar
- e & insurance, retail, IoT,\nentertainment, and travel are coming together
-  for one week full of\nevents.  Learn from industry leaders, attend meet-u
- ps, webinars,\nworkshops and discuss the latest developments in the big da
- ta world.
+ \, Londres\, Reino Unido\n• Mapa: 51.5186567\,-0.08028590000003533\n• URL:
+  [http://london.bigdataweek.com/]\n\nBig data players from finance\, healt
+ hcare & insurance\, retail\, IoT\,\nentertainment\, and travel are coming 
+ together for one week full of\nevents.  Learn from industry leaders\, atte
+ nd meet-ups\, webinars\,\nworkshops and discuss the latest developments in
+  the big data world.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-1763f716-41af-417d-acb4-20f7b7067740
+DTSTAMP:20160606T083255Z
+UID:TS1-e6e90e9b-d1f4-484d-9632-900e96a9333b
 DTSTART;VALUE=DATE:20151215
 DTEND;VALUE=DATE:20151216
 SUMMARY:Desarrollador web Python en Viderum
 DESCRIPTION:• URL:\n  [http://www.viderum.com/blog/2015/12/07/senior-python
  -web-developer]\n• Entidad: Viderum\n• Publicado: <2015-12-15 mar>\n\nWork
- ing in the fast-growing area of open data, we build open source\ntools to 
- drive transparency, accountability and re-use. Based on CKAN,\nwe‘ve built
-  the the official national data portals from the UK to\nBrazil, US to Aust
- ralia and many others.\n\nWe’re looking for someone passionate about the t
- echnical challenges of\nbuilding software that is used as the infrastructu
- re for open data\naround the world, so come join our growing team to shape
-  the future of\nthe open data ecosystem!\n\nKey Skills\n\n• Python, JavaSc
- ript, HTML, CSS\n• Python web frameworks (we use Pylons and Flask)\n• Post
- greSQL and SQLAlchemy\n• Self motivated, self-starter, able to manage your
-  own time\n\nExtra bonus points for:\n\n• Open source projects/contributio
- ns\n• Front end skills, particularly in data-vis\n• You’ve written an app 
- using open data before\n• Experience working in a distributed team\n• Abil
- ity to communicate in German\n\nHow to apply\n\nEmail jobs@viderum.com, wi
- th the subject line “Python Developer:\nCKAN”. Please include your CV and 
- a link to your GitHub (or similar)\nprofile.
+ ing in the fast-growing area of open data\, we build open source\ntools to
+  drive transparency\, accountability and re-use. Based on CKAN\,\nwe‘ve bu
+ ilt the the official national data portals from the UK to\nBrazil\, US to 
+ Australia and many others.\n\nWe’re looking for someone passionate about t
+ he technical challenges of\nbuilding software that is used as the infrastr
+ ucture for open data\naround the world\, so come join our growing team to 
+ shape the future of\nthe open data ecosystem!\n\nKey Skills\n\n• Python\, 
+ JavaScript\, HTML\, CSS\n• Python web frameworks (we use Pylons and Flask)
+ \n• PostgreSQL and SQLAlchemy\n• Self motivated\, self-starter\, able to m
+ anage your own time\n\nExtra bonus points for:\n\n• Open source projects/c
+ ontributions\n• Front end skills\, particularly in data-vis\n• You’ve writ
+ ten an app using open data before\n• Experience working in a distributed t
+ eam\n• Ability to communicate in German\n\nHow to apply\n\nEmail jobs@vide
+ rum.com\, with the subject line “Python Developer:\nCKAN”. Please include 
+ your CV and a link to your GitHub (or similar)\nprofile.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-cc6a530f-03bf-452b-8968-f2c9ccd0b75a
+DTSTAMP:20160606T083255Z
+UID:TS1-2b3fc4d7-ade3-492e-98a6-93ff766b6dc8
 DTSTART;VALUE=DATE:20160216
 DTEND;VALUE=DATE:20160305
 SUMMARY:Becas El País y Amazon para festival internacional de Periodismo de
@@ -1249,8 +1275,8 @@ DESCRIPTION:• Cuándo: <2016-02-16 mar>–<2016-03-04 vie>\n• Fecha límite:
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS2-cc6a530f-03bf-452b-8968-f2c9ccd0b75a
+DTSTAMP:20160606T083255Z
+UID:TS2-2b3fc4d7-ade3-492e-98a6-93ff766b6dc8
 DTSTART;VALUE=DATE:20160304
 DTEND;VALUE=DATE:20160305
 SUMMARY:Becas El País y Amazon para festival internacional de Periodismo de
@@ -1263,8 +1289,8 @@ DESCRIPTION:• Cuándo: <2016-02-16 mar>–<2016-03-04 vie>\n• Fecha límite:
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-a3699dd3-27ff-44af-8451-cbcfd117059d
+DTSTAMP:20160606T083255Z
+UID:TS1-260710c5-8e55-4327-be2a-3bd4478bce12
 DTSTART;VALUE=DATE:20160603
 DTEND;VALUE=DATE:20160604
 SUMMARY:Contentmine Fellowship
@@ -1274,64 +1300,80 @@ DESCRIPTION:• DEADLINE: <2016-06-03 vie>\n• URL:\n  [https://discuss.okfn.o
  g-contentmine-fellowships/]\n• We welcome and encourage applicants from ou
  tside academia.\n• Fellows will receive a £1000 grant and support for thei
  r project\n  from the ContentMine team\n• If you have any questions about 
- the Fellowships, please contact\n  graham [at] contentmine [dot] org\n\nWe
-  require applicants to have basic knowledge of:\n\n• UNIX command line\n• 
- At least one programming language such as javascript, java, python,\n  R, 
- MATLAB or other data science/statistical programming languages.\n• Version
-  control using git and github
+ the Fellowships\, please contact\n  graham [at] contentmine [dot] org\n\nW
+ e require applicants to have basic knowledge of:\n\n• UNIX command line\n•
+  At least one programming language such as javascript\, java\, python\,\n 
+  R\, MATLAB or other data science/statistical programming languages.\n• Ve
+ rsion control using git and github
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-ffa394c5-a655-4798-b73e-70dcf7035660
+DTSTAMP:20160606T083255Z
+UID:TS1-079204d6-7efc-4a59-8458-2aaeab48759a
 DTSTART;VALUE=DATE:20160517
 DTEND;VALUE=DATE:20160518
 SUMMARY:UI Designer at Populate
 DESCRIPTION:• Fecha publicación: <2016-05-17 mar>\n• URL: [http://populate.
  tools/join_us.html]\nPopulate is looking for a visual designer Write to\ni
  tsme@populate.tools telling us about:\n\n• 3 recent projects you worked in
-  and you are most proud of, why, your\n  achievements in the project and t
- hose of the project itself.\n• 3 civic tech initiatives (tools, data journ
- alism projects, etc) you\n  have discovered recently, and why you think th
- ey are interesting.\n• Some ideas of products you have been thinking on bu
- ilding.
+  and you are most proud of\, why\, your\n  achievements in the project and
+  those of the project itself.\n• 3 civic tech initiatives (tools\, data jo
+ urnalism projects\, etc) you\n  have discovered recently\, and why you thi
+ nk they are interesting.\n• Some ideas of products you have been thinking 
+ on building.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:TS1-21007574-4b6e-4f5c-a3fa-b1d61e5e2004
+DTSTAMP:20160606T083255Z
+UID:TS1-aeddde24-9b41-4ae5-bb3b-f9d56fc05d1f
+DTSTART;VALUE=DATE:20160610
+DTEND;VALUE=DATE:20160611
+SUMMARY:Coordinador proyecto DITOs
+DESCRIPTION:• Deadline: DEADLINE: <2016-06-10 vie>\n• Tipo de Contrato: Obr
+ a o Servicio determinado (3 años)\n• Jornada Laboral: Completa.\n• URL: [m
+ adrid-destino]\n  (http://www.madrid-destino.com/images/EMPLEO/OFERTA%2520
+ DE%2520EMPLEO%2520-%2520COORDINADOR%2520PROYECTO%2520DITOs%25202.pdf)\n\nC
+ oordina y Lidera el desarrollo Work Package 2 Sostenibilidad\nMedioambient
+ al\, del proyecto europeo “Do it Together Science (DITO ́s)\npara la conse
+ cución de objetivos y colabora y participa en los otros\nWorks Packages de
+ l proyecto.
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20160606T083255Z
+UID:TS1-80334378-9e80-47a0-bd2d-34989a2678ff
 DTSTART;VALUE=DATE:20160617
 DTEND;VALUE=DATE:20160618
 SUMMARY:Reuters Institute hosts Google Digital News Journalist Fellowship
 DESCRIPTION:• DEADLINE: <2016-06-17 vie>\n• Pueden aplicar periodistas de A
- ustria, Belgium, Czech Republic,\n  Denmark, Finland, France, Germany, Gre
- ece, Hungary, Italy, Ireland,\n  Netherlands, Norway, Poland, Portugal, Sp
- ain, Sweden, Switzerland\n  and Turkey\n• 5 años de inglés profesional\n• 
- URL:\n  [https://ijnet.org/en/opportunities/reuters-institute-hosts-google
- -digital-news-journalist-fellowship-europe]\n• Más info:\n  [http://reuter
- sinstitute.politics.ox.ac.uk/news/call-applications-new-google-digital-new
- s-journalist-fellowship-0]\n• Twitter: [@risj_oxford]\nThe Reuters Institu
- te for the Study of Journalism at Oxford University\nis seeking applicatio
- ns for its Google Digital News Journalist\nFellowship in Oxford, United Ki
- ngdom.\n\nThe fellowship is intended for two six-month terms starting eith
- er\nOctober 2016 or January 2017. Fellows will work on a research paper\nb
- ased on some aspect of either the survey data for the 2017 Reuters\nInstit
- ute Digital News Report or digital journalism more generally\nwith a direc
- t focus on the professional and industry implications\nbased on their own 
- experience.
+ ustria\, Belgium\, Czech Republic\,\n  Denmark\, Finland\, France\, German
+ y\, Greece\, Hungary\, Italy\, Ireland\,\n  Netherlands\, Norway\, Poland\
+ , Portugal\, Spain\, Sweden\, Switzerland\n  and Turkey\n• 5 años de inglé
+ s profesional\n• URL:\n  [https://ijnet.org/en/opportunities/reuters-insti
+ tute-hosts-google-digital-news-journalist-fellowship-europe]\n• Más info:\
+ n  [http://reutersinstitute.politics.ox.ac.uk/news/call-applications-new-g
+ oogle-digital-news-journalist-fellowship-0]\n• Twitter: [@risj_oxford] (ht
+ tps://twitter.com/risj_oxford)\nThe Reuters Institute for the Study of Jou
+ rnalism at Oxford University\nis seeking applications for its Google Digit
+ al News Journalist\nFellowship in Oxford\, United Kingdom.\n\nThe fellowsh
+ ip is intended for two six-month terms starting either\nOctober 2016 or Ja
+ nuary 2017. Fellows will work on a research paper\nbased on some aspect of
+  either the survey data for the 2017 Reuters\nInstitute Digital News Repor
+ t or digital journalism more generally\nwith a direct focus on the profess
+ ional and industry implications\nbased on their own experience.
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20160601T104100Z
-UID:DL-30ca632b-a3f4-4f00-a1cd-a7d3748c0cba
+DTSTAMP:20160606T083255Z
+UID:DL-9859eb50-a636-4f3a-be6d-4de7f4cf15a7
 DTSTART;VALUE=DATE:20160331
 DTEND;VALUE=DATE:20160401
 SUMMARY:DL: ProPublica's Summer Data Institute
-DESCRIPTION:First-ever Summer Data Institute, a 10-day intensive workshop o
- n how\nto use data, design and code for journalism. The workshop will be f
- rom\nJune 1st to 15th in our NYC offices. The deadline to apply is March\n
- 31st.\n\n[https://projects.propublica.org/graphics/summer]\n[https://www.p
- ropublica.org/nerds/item/propublica-summer-data-institute]
+DESCRIPTION:First-ever Summer Data Institute\, a 10-day intensive workshop 
+ on how\nto use data\, design and code for journalism. The workshop will be
+  from\nJune 1st to 15th in our NYC offices. The deadline to apply is March
+ \n31st.\n\n[https://projects.propublica.org/graphics/summer]\n[https://www
+ .propublica.org/nerds/item/propublica-summer-data-institute]
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 END:VCALENDAR

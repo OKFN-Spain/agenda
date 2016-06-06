@@ -564,6 +564,21 @@ Daniel Santolaria: Daniel nos presentará una solución sobre openCPU como servi
 
 Santiago Mota: Santiago hará una introducción a la plataforma Kaggle, qué es, cómo funciona y algunos consejos prácticos para los que están empezando.
 
+** DataBeers Castilla y León
+- Cuándo: <2016-06-09 jue 19:00-20:30>
+- Dónde: VíaLab. Estación de Renfe. C/. de Recondo, s/n. 47007 Valladolid
+- URL: https://www.twitter.com/databeerscyl
+
+Primer DataBeers Castilla y León
+
+- Diego Merino Andrés, de SmartRural, sobre drones, datos y
+  agricultura.
+- Jesús Lorenzana Campillo, Centro de Supercomputación de Castilla y
+  León, datos científicos y centros de supercomputación.
+- Anibal Reñones Domínguez, Centro Tecnológico CARTIF, datos y
+  mantenimiento.
+- Cristina Rueda, Universidad de Valladolid, INdat: Big Data en las aulas
+
 ** ICA Fukuoka 2016, conference of the International Communication Association
 - Cuándo: <2016-06-09 jue>--<2016-06-13 lun>
 - Dónde: Fukuoka, Japón
@@ -836,6 +851,15 @@ Write to itsme@populate.tools telling us about:
 - 3 civic tech initiatives (tools, data journalism projects, etc) you have discovered recently, and why you think they are interesting.
 - Some ideas of products you have been thinking on building.
  
+** Coordinador proyecto DITOs 
+- Deadline: DEADLINE: <2016-06-10 vie>
+- Tipo de Contrato: Obra o Servicio determinado (3 años)
+- Jornada Laboral: Completa.
+- URL: [[http://www.madrid-destino.com/images/EMPLEO/OFERTA%2520DE%2520EMPLEO%2520-%2520COORDINADOR%2520PROYECTO%2520DITOs%25202.pdf][madrid-destino]] 
+
+Coordina  y  Lidera  el  desarrollo  Work  Package  2  Sostenibilidad  Medioambiental,  del proyecto europeo “Do it Together Science (DITO ́s) para la consecución de objetivos y 
+colabora y participa en los otros Works Packages del proyecto.
+
 ** Reuters Institute hosts Google Digital News Journalist Fellowship
 -   DEADLINE: <2016-06-17 vie>
 - Pueden aplicar periodistas de Austria, Belgium, Czech Republic, Denmark, Finland, France, Germany, Greece, Hungary, Italy, Ireland, Netherlands, Norway, Poland, Portugal, Spain, Sweden, Switzerland and Turkey
