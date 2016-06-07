@@ -674,7 +674,20 @@ Primer evento de la iniciativa con el que pretenden poner cara los miembros, dar
 Wikimania is the annual conference celebrating Wikipedia and its sister free knowledge projects with conferences, discussions, meetups, training and a hackathon. Hundreds of volunteer editors come together to learn about and discuss projects, approaches and issues.
 
 Join us in Esino Lario, Province of Lecco, Lombardy Region, Italy, on June 22–23 (pre-conference), 24–26 (main conference) and 27–28 (post-conference), 2016.
+** Europe and Central Asia Research Associate
+- Fecha límite:    DEADLINE: <2016-06-25 sáb>
+- URL: https://www.cpj.org/about/jobs.php#ecaresearcher
+- Reports to: Europe and Central Asia Program Coordinator
+- Location: New York
 
+Asia (ECA) program to research, report, and document attacks on the press in a diverse region where freedom of expression constantly faces new challenges.
+
+The ideal candidate will have passion for and knowledge of press
+freedom and human rights issues in the ECA region, with a focus on
+Russia and the former Soviet republics. Other regional expertise,
+especially in Turkey and the Balkans, is a strong asset. 
+
+To apply, please e-mail a resume, cover letter, two short writing samples, and references to jobs@cpj.org. Please include "ECA Research Associate" in the subject line. No phone calls, please. Only candidates who have been selected for an interview will be contacted. 
 * Julio
 ** News Impact Summit Berlin
 - Cuándo: <2016-07-01 vie>
@@ -725,6 +738,10 @@ http://sigir.org/sigir2016/
 - URL: http://srccon.org/
 
 SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. Active participation is at the center of SRCCON, and we work to make it an inclusive and welcoming event where people can feel comfortable jumping in to work on complex problems. We welcome participants from all fields—if you want to strengthen journalism online, we want you there.
+
+* Septiembre
+
+** Visualizar16
 
 * Octubre
 ** VII Congreso Internacional en Gobierno, Administración y Políticas Públicas
@@ -892,5 +909,7 @@ http://code4sa.org/newsletter/
 ** Tinyletter
 ** Schema.org
 ** Orgmode
-
+* Mayo
+** Dataharvest 2017
+<2016-05-18 mié>--<2016-05-21 sáb>
 
