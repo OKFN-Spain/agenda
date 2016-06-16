@@ -785,6 +785,12 @@ Objertivos globales, impacto local
 </div>
 #+END_HTML
 http://opendatacon.org/
+** Laboratorio Iberoamericano de Innovación Ciudadana
++ Cuándo: <2016-10-09 dom>--<2016-10-23 dom>
++ Dónde: Cartagena, Colombia
++ Mapa: 
++ URL: http://www.ciudadania20.org/colaboradoreslabicco/
++ Hashtag: [[https://twitter.com/hashtag/labicco?src=hash][labicco]]
 
 ** Big Data Week
 #+BEGIN_HTML
