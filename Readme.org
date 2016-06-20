@@ -892,6 +892,14 @@ Write to itsme@populate.tools telling us about:
 Coordina  y  Lidera  el  desarrollo  Work  Package  2  Sostenibilidad  Medioambiental,  del proyecto europeo “Do it Together Science (DITO ́s) para la consecución de objetivos y 
 colabora y participa en los otros Works Packages del proyecto.
 
+** Job Offer: Full Stack Engineer
+- Fecha: <2016-06-15 mié>
+- Empresa: Vizzuality
+http://vizzuality.github.io/job-offers/development/2016/06/15/offer-full-stack-engineer.html
+
+If you are interested drop us a line to jobs@vizzuality.com or come
+have a coffee with us.
+
 ** Reuters Institute hosts Google Digital News Journalist Fellowship
 -   DEADLINE: <2016-06-17 vie>
 - Pueden aplicar periodistas de Austria, Belgium, Czech Republic, Denmark, Finland, France, Germany, Greece, Hungary, Italy, Ireland, Netherlands, Norway, Poland, Portugal, Spain, Sweden, Switzerland and Turkey
