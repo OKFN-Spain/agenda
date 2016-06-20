@@ -723,6 +723,40 @@ Maybe you are aware of interesting cultural data. In preparation for the hackath
 Share Project Ideas
 
 You can already bring in ideas about ways to use cultural data. Feel free to take part in an ongoing brainstorming on this page. 
+** Open Knowledge Leaders Program
+- Cuándo: <2016-07-15 vie>--<2016-07-17 dom>
+- Dónde: Agora Collective, Mittelweg 50, 12053 Berlín, Alemania
+- URL: http://leaders.rufuspollock.org/
+
+Openness is transforming our societies and economies. Join Open Knowledge Founder and President Rufus Pollock and open data expert Irina Bolychevsky on this course exploring the ideas, possibilities and communities in this rapidly growing space.
+
+We will examine the detailed reasoning and case studies for open transformation – whilst developing and practicing the key organising, speaking, convening and leadership skills needed to make a real difference in the world and drive openness forward.
+
+You will get to interact with experts and peers, working on practical, concrete challenges and growing through regular interaction, coaching and support.
+
+Following the workshop there will be regular virtual online classrooms and coaching approximately every two weeks with a break in August.
+
+*** Classrooms
+Planned classroom dates are as follows and will run 3pm – 5:30pm UK London time (GMT).
+
+- Saturday 23rd July <2016-07-23 sáb>
+- Sunday 31st July <2016-07-31 dom>
+- Sunday 28th August <2016-08-28 dom>
+- Sunday 4th Sept <2016-09-04 dom>
+- Sunday 18th Sept <2016-09-18 dom>
+- Sunday 2nd Oct, <2016-10-02 dom>
+- Sunday 23rd Oct, <2016-10-23 dom>
+
+Attendance at all classrooms is recommended but not required.
+*** Completion Day
+
+- Cuándo: <2016-11-05 sáb 10:00-17:00>
+
+Virtual and in person.
+
+Exact time and location to be confirmed.
+
+
 ** SIGIR 2016
 <2016-07-17 dom>--<2016-07-21 jue>
 
