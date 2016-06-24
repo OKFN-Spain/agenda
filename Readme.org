@@ -673,6 +673,16 @@ Primer evento de la iniciativa con el que pretenden poner cara los miembros, dar
 - Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
 - Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
 - URL: http://medialab-prado.es/article/gnome-hispano
+** Meetup Periodismodatos Medialab-prado
+- Cuándo: <2016-06-29 mié 18:30-20:45>
+- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL: http://medialab-prado.es/article/crea-graficos-para-la-web-con-adobe-illustrator-y-presentacion-de-tfm-de-villanueva
+
+Sexta sesión de [[https://twitter.com/journocodersMAD][@JournocodersMAD]].
+
+Empezaremos con la presentación de un trabajo de fin de master del curso de periodismo de datos de Villanueva, en concreto con Guillermo Villar. Luego nos acompañará Luis Sevillano ([[https://twitter.com/sepirdata][@sepirdata]]), [[http://www.elespanol.com/luis_sevillano/][programador de El Español]], que ofrecerá un taller de iniciación a ai2html, un script de Illustrator, desarrollado por The New York Times, para mejorar y exportar tus gráficos para la web.
+
 ** Wikimania 2016
 - Proposals:    DEADLINE: <2016-03-30 mié>
 - Cuándo: <2016-06-22 mié>--<2016-06-28 mar>
