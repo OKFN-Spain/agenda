@@ -793,8 +793,74 @@ http://sigir.org/sigir2016/
 SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. Active participation is at the center of SRCCON, and we work to make it an inclusive and welcoming event where people can feel comfortable jumping in to work on complex problems. We welcome participants from all fields—if you want to strengthen journalism online, we want you there.
 
 * Septiembre
+** Transparencia a través de los datos
+- Cuándo: <2016-09-07 mié>--<2016-09-09 vie>
+- Dónde: Valencia, Spain
+- Mapa: 
+- URL: http://www.ctranspa.webs.upv.es/es/noticias/abierta-inscripcion-curso-verano-upv-transparencia-datos/
 
-** Visualizar16
+Curso de verano de la UPV (Valencia) sobre "Transparencia a través de
+los datos" que se realiza los próximos 7, 8 y 9 de septiembre.
+
+El curso surge del marco de colaboración establecido entre la
+Conselleria de Transparencia, Responsabilidad Social, Participación y
+Cooperación, la ETSINF y el Máster Universitario en Gestión de la
+Información – MUGI, de la Universitat Politècnica de València con ánimo
+de promover el uso del Gobierno Abierto.
+
+Se compone de tres días de talleres por la mañana y conferencias
+complementarias a los talleres por las tardes. Los tres módulos que
+componen los talleres son, el primero de introducción al Open Data, el
+segundo de gestión y explotación de datos y el tercero de Big data y
+aplicaciones.
+
+En las sesiones matinales se trabajará el uso de datos abiertos con
+ejemplos y casos prácticos, también cómo es posible contar historias o
+gestionar información con estos datos abiertos de la administración.
+Con este fin se utilizarán distintas herramientas con las que se podrán
+realizar visualizaciones, análisis de datos y descubrir las
+posibilidades del mundo de los datos abiertos.
+
+El coste del taller está subvencionado parcialmente por la Cátedra de
+Transparencia y Participación UPV. Puedes acceder al formulario de
+inscripción y al detalle de los talleres aquí: http://bit.ly/CursoTrans
+parenciaDatos. Las conferencias son gratuitas.
+
+Entre otras personas, participan:
+- Zulima Pérez Seguí, Secretaria Autonómica de Transparencia,
+Responsabilidad Social, Participación y Cooperación de la Comunidad
+Valenciana
+- Mar Cabra, socia de Open Knowledge España y miembra del The
+International Consorcium of Investigate Journalists - ICIJ
+- Alberto Abella, ex presidente de Open Knowledge España y actual
+senior manager de Desidedatum.
+- Hervé Falciani, ex informático del banco HSBC.
+- Alonso Puncel Chornet, Subsecretario Conselleria de Transparencia de
+la Comunidad Valenciana.
+- Kiko Llaneras, actualmente en El País.
+- Adolfo Antón Bravo, presidente de Open Knowledge España y
+  coordinador del Laboratorio de Datos de Medialab-Prado.
+
+** ownCloud Conference 2016
+- Cuándo: <2016-09-09 vie>--<2016-09-15 jue>
+- Dónde: Berlín, Alemania
+- Mapa: 
+- URL: https://conference.owncloud.org/conference/oCC2016
+
+
+** ONA16
+- Cuándo: <2016-09-15 jue>--<2016-09-17 sáb>
+- Dónde: Denver, EE.UU.
+- Mapa: 
+- URL: http://ona16.journalists.org/
+- Etiqueta: #ona16
+
+** Visualizar'16 Ciudades abiertas Open Cities
+- Cuándo: <2016-09-26 lun>--<2016-10-05 mié>
+- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL: http://bit.ly/visualizar16
+- Etiqueta: #visualizar16
 
 * Octubre
 ** VII Congreso Internacional en Gobierno, Administración y Políticas Públicas
@@ -805,6 +871,28 @@ SRCCON is a hands-on conference focused on the practical challenges news technol
 
 “Construyendo una nueva cultura administrativa: políticas y gestión pública con la ciudadanía”
 El Congreso Internacional en Gobierno, Administración y Políticas Públicas, organizado por el GIGAPP desde 2010, ha logrado constituirse en un Congreso anual de referencia en los temas de Gobierno, Administración y Políticas Públicas en Iberoamérica. La progresión del evento da cuenta del avance en cantidad y calidad del evento. Este evento es un espacio abierto pensado para presentar y debatir nuevas ideas y enfoques, experiencias e investigaciones de calidad y cultivar vínculos de colaboración y generación de redes de trabajo sobre los ejes temáticos en los que se enmarca.
+
+** Encuentro de Periodismo de datos
+- Cuándo: <2016-10-04 mar 9:00-18:00>
+- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL:
+- Etiqueta:
+
+** School of Data y Jornada de Periodismo de datos
+- Cuándo: <2016-10-04 mar 09:00-20:30>
+- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL:
+- Etiqueta: 
+
+** Open Cities Summit
+- Cuándo: <2016-10-05 mié 09:00-20:30>
+- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL: http://opencitiessummit.org
+- Etiqueta: #opencitiessummit
+
 
 ** Open Data Research Symposium 2016
 - Cuándo: <2016-10-05 mié 10:00-20:00>
@@ -856,6 +944,28 @@ http://opendatacon.org/
 
 Big data players from finance, healthcare & insurance, retail, IoT, entertainment, and travel are coming together for one week full of events.
 Learn from industry leaders, attend meet-ups, webinars, workshops and discuss the latest developments in the big data world.
+
+* Noviembre
+** VI Congreso Internacional de Periodismo en Red
+- Cuándo: <2016-11-14 lun>--<2016-11-16 mié>
+- Dónde: Facultad de Ciencias de la Información, UCM, Madrid, Spain
+- URL: http://congreso2016.internetmedialab.com/
+Organizado por el Departamento de Periodismo II de la Facultad de Ciencias de la
+Información de la Universidad Complutense y el [[http://internetmedialab.com/][Grupo de Investigación
+Internet Media Lab]] (UCM).
+
+La sexta edición versará sobre el "Futuro del Periodismo y Calidad
+Informativa en Nuevos Formatos: Desde Wikileaks a los Papeles de
+Panamá" con el objetivo de ofrecer, un año más, un foro de análisis y
+reflexión sobre el impacto de Internet en los medios y en el
+desarrollo de la profesión periodística tras los avances del
+Ciberperiodismo y la evolución de las Tecnologías Emergentes. La
+realización de este evento tendrá un enfoque vanguardista a través de
+sesiones plenarias y contará con Grupos de Trabajo, en los que los
+ponentes y/o asistentes podrán dar a conocer sus investigaciones y
+debatir sobre el impacto, las tendencias y/o perspectivas de las
+Tecnologías de la Información y las Comunicaciones en la construcción
+del nuevo periodismo, desde una perspectiva profesional y científica.
 
 * Todo el año
 * Becas, ofertas de trabajo
@@ -956,6 +1066,17 @@ The Reuters Institute for the Study of Journalism at Oxford University is seekin
 The fellowship is intended for two six-month terms starting either October 2016 or January 2017. Fellows will work on a research paper based on some aspect of either the survey data for the 2017 Reuters Institute Digital News Report or digital journalism more generally with a direct focus on the professional and industry implications based on their own experience. 
 
 * Cursos
+** HTML
+- Autoría: [[http://rauljimenez.info/][Raúl Jiménez Ortega]]
+- URL: http://www.cursohtml5desdecero.com/
+- Licencia: [[https://creativecommons.org/licenses/by-nc-sa/4.0/][CC-BY-NC-SA 4.0 Internacional]]
+- GitHub: https://github.com/hhkaos/cursohtml5desdecero/
+*** Temáticas
+
+- Enseñar los elementos más comunes de HTML5, CSS3 y JavaScript.
+- Mostrar dónde podrás resolver tus dudas cuando tengas problemas.
+- Explicar cómo trabajar con algunas de las herramientas que usan los profesionales del mundo real como son Github o las herramientas para desarrolladores de Google Chrome.
+
 
 * ProPublica's Summer Data Institute
   DEADLINE: <2016-03-31 jue>
