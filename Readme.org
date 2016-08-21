@@ -1137,6 +1137,19 @@ engineer y business manager
 
 Pintar mapas, JS y Canvas.
 
+** Senior Data Scientist at Wise Athena
+- URL:
+  http://www.kdnuggets.com/jobs/16/08-04-wiseathena-senior-data-scientist.html
+- Empresa: Wise Athena
+- Web: www.wiseathena.com
+- Position: Senior Data Scientist
+- Contact: careers@wiseathena.com
+- Location: Madrid, Spain
+- Gross Salary: 45.000 - 55.000 €
+
+Looking for a data scientist, to work in some of the most exciting areas of computer and information science, including intelligent information extraction, recommendation systems, visualizations and cognitive agents.
+
+We're looking for people who love turning data into gold and enjoy solving second order differential equations.
 * Cursos
 ** HTML
 - Autoría: [[http://rauljimenez.info/][Raúl Jiménez Ortega]]
