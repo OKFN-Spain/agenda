@@ -1149,7 +1149,27 @@ Pintar mapas, JS y Canvas.
 
 Looking for a data scientist, to work in some of the most exciting areas of computer and information science, including intelligent information extraction, recommendation systems, visualizations and cognitive agents.
 
-We're looking for people who love turning data into gold and enjoy solving second order differential equations.
+We're looking for people who love turning data into gold and enjoy
+solving second order differential equations.
+** Becas para proyectos de investigación periodística de la Fundación Nieman
+   DEADLINE: <2016-10-14 vie>
+
+- URL:
+  http://www.apmadrid.es/becas-para-proyectos-de-investigacion-periodistica-de-la-fundacion-nieman/
+- Web: http://nieman.harvard.edu/fellowships/nieman-visiting-fellowships/
+
+La Fundación Nieman para el periodismo, de la Universidad de Harvard, ofrece unas becas de corta duración (Knight Visiting Nieman Fellowships) destinadas a profesionales interesados en la mejora de la calidad informativa, la construcción de nuevos modelos de negocio o el diseño de programas para mejorar el periodismo.
+
+Los proyectos pueden estar relacionados con la programación, el diseño o las estrategias financieras, entre otras áreas del sector de los medios.
+
+Las becas tendrán una duración máxima de tres meses, dependiendo del alcance del proyecto. Los becarios tendrán acceso a los recursos de la Universidad de Harvard, incluyendo centros de investigación, bibliotecas y contactos con el cuerpo académico.
+
+Para aquellos que estén interesados, deberán presentar una biográfica,
+un currículum vítae y una propuesta de proyecto antes del 14 de
+octubre de 2016. La propuesta de proyecto deberá ser un ensayo de un
+máximo de 500 palabras que incluya su descripción. El plazo para
+presentar las candidaturas se abrirá en el mes de agosto.
+
 * Cursos
 ** HTML
 - Autoría: [[http://rauljimenez.info/][Raúl Jiménez Ortega]]
