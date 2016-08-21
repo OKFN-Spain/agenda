@@ -862,6 +862,11 @@ la Comunidad Valenciana.
 - URL: http://bit.ly/visualizar16
 - Etiqueta: #visualizar16
 
+*** Convocatoria de proyectos
+    DEADLINE: <2016-08-31 mié>
+*** Convocatoria de colaboradorxs
+    DEADLINE: <2016-09-19 lun>
+
 ** Congreso Internacional Transparencia 2016
 - Cuándo: <2016-09-28 mié>--<2016-09-30 vie>
 - Dónde: Facultad de Ciencias de la Información, UCM, Madrid, Spain.
@@ -903,6 +908,8 @@ El Congreso Internacional en Gobierno, Administración y Políticas Públicas, o
 - Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
 - URL: http://opencitiessummit.org
 - Etiqueta: #opencitiessummit
+*** Envío de ponencias
+    DEADLINE: <2016-08-31 mié>
 
 
 ** Open Data Research Symposium 2016
@@ -1074,7 +1081,17 @@ have a coffee with us.
 - Twitter: [[https://twitter.com/risj_oxford][@risj_oxford]]
 The Reuters Institute for the Study of Journalism at Oxford University is seeking applications for its Google Digital News Journalist Fellowship in Oxford, United Kingdom.
 
-The fellowship is intended for two six-month terms starting either October 2016 or January 2017. Fellows will work on a research paper based on some aspect of either the survey data for the 2017 Reuters Institute Digital News Report or digital journalism more generally with a direct focus on the professional and industry implications based on their own experience. 
+The fellowship is intended for two six-month terms starting either October 2016 or January 2017. Fellows will work on a research paper based on some aspect of either the survey data for the 2017 Reuters Institute Digital News Report or digital journalism more generally with a direct focus on the professional and industry implications based on their own experience.
+
+** Communications officer. Digital Equality
+   DEADLINE: <2016-08-31 mié>
+- URL: http://webfoundation.org/about/jobs/
+
+The agreement of new global goals around gender equality and universal access to ICTs present a significant opportunity to drive meaningful change. Working closely with the policy team, the communications officer will take the lead on producing compelling content in support of our policy and advocacy goals in this area. She or he will also need to work closely with local partners in developing countries to tailor outputs to their needs and assist them in communicating effectively on these issues.  This role requires strong social media and copy writing skills, and offers the chance to work on a growing team.
+
+Please see the full [[http://webfoundation.org/docs/2012/12/Communications-Officer_010816.pdf][job description]] for full details and send your CV and covering letter with “Communications Officer” in the subject line to [[mailto:jobs@webfoundation.org][jobs@webfoundation.org]]. Note that although the closing date is 31 August, we will review applications and interview candidates on an on-going basis so the position may be filled before then. Apply early!
+
+Application deadline: 31 August, but may be filled ahead of this 
 
 ** Technical writer at Mozilla Foundation
 - URL: https://coralproject.net/open-positions/
