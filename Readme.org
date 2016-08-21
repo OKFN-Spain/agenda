@@ -878,6 +878,22 @@ Este Congreso trata de ser un lugar de encuentro para todos aquellos interesados
 
 El carácter internacional del Congreso, con una fuerte presencia de participantes latinoamericanos, servirá para conocer el marco jurídico y político en diferentes países e intercambiar experiencias y reflexiones que podrán mejorar la transparencia pública. Tratamos de crear un verdadero foro de intercambio de conocimiento y de transferencia de investigación. La confluencia del conocimiento científico con la esfera profesional será muy valiosa a efectos del desarrollo de una sociedad más participativa y abierta.
 
+** Seminario Data Science in Telecommunications
+- Cuándo: <2016-09-30 vie>
+- Dónde: Escuela Politécnica Superior de la Universidad Autónoma de
+  Madrid, Madrid, Spain
+- URL: http://www.iic.uam.es/catedras/amyp/actividades/actualidad/83-seminario-data-science-in-telecommunications
+- Organiza: Cátedra UAM-IIC de Ciencia de datos y aprendizaje automático
+
+El sector de las telecomunicaciones genera un volumen masivo de datos
+de gran riqueza. El gran crecimiento del uso de dispositivos y datos
+móviles permite el estudio de comportamientos de cientos de millones
+de personas y de poblaciones y sociedades enteras. En esta ponencia
+nos acercaremos a algunas de las aplicaciones que estos datos tienen
+tanto en el negocio principal de las compañías de las
+telecomunicaciones como en el estudio de distintos fenómenos sociales,
+entre otros.
+
 * Octubre
 ** VII Congreso Internacional en Gobierno, Administración y Políticas Públicas
 - Cuándo: <2016-10-03 lun>--<2016-10-05 mié>
@@ -1115,6 +1131,11 @@ samples of your work, and hourly rate.
 - URL: http://www.synergicpartners.com/talento/ofertas-empleo/
 Big data consultant, data scientist, big data architect, software
 engineer y business manager
+** Frontend en Carto
+- URL:
+  https://gist.github.com/javisantana/f88c8e3815e7af28f5e51c3e78290ad2
+
+Pintar mapas, JS y Canvas.
 
 * Cursos
 ** HTML
