@@ -1065,6 +1065,23 @@ The Reuters Institute for the Study of Journalism at Oxford University is seekin
 
 The fellowship is intended for two six-month terms starting either October 2016 or January 2017. Fellows will work on a research paper based on some aspect of either the survey data for the 2017 Reuters Institute Digital News Report or digital journalism more generally with a direct focus on the professional and industry implications based on their own experience. 
 
+** Technical writer at Mozilla Foundation
+- URL: https://coralproject.net/open-positions/
+We’re looking for a technical writer to join our team on a contract
+basis, to create the documents that will help newsrooms around the
+world install and maintain our products, as well as empowering
+community members to contribute to our technology.
+
+What you have:
+• A real passion for excellent writing and clear communication
+• An eye for detail
+• Excellent working knowledge of technical solutions and how they work
+
+This will be a contract position of around 5-10 hours per week, which may vary slightly around product releases as you may assist with installation testing.
+
+If you’re deeply interested in working on technical documentation and have relevant skills and experience, please consider applying even if your background doesn’t perfectly match our ideal credentials. We are committed to diversity and especially encourage members of underrepresented communities to apply.
+
+To apply: please email andrewl@mozillafoundation.org with your resume, samples of your work, and hourly rate.
 * Cursos
 ** HTML
 - Autoría: [[http://rauljimenez.info/][Raúl Jiménez Ortega]]
