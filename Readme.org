@@ -1109,7 +1109,13 @@ This will be a contract position of around 5-10 hours per week, which may vary s
 
 If you’re deeply interested in working on technical documentation and have relevant skills and experience, please consider applying even if your background doesn’t perfectly match our ideal credentials. We are committed to diversity and especially encourage members of underrepresented communities to apply.
 
-To apply: please email andrewl@mozillafoundation.org with your resume, samples of your work, and hourly rate.
+To apply: please email andrewl@mozillafoundation.org with your resume,
+samples of your work, and hourly rate.
+** Synergic Partners
+- URL: http://www.synergicpartners.com/talento/ofertas-empleo/
+Big data consultant, data scientist, big data architect, software
+engineer y business manager
+
 * Cursos
 ** HTML
 - Autoría: [[http://rauljimenez.info/][Raúl Jiménez Ortega]]
