@@ -862,6 +862,17 @@ la Comunidad Valenciana.
 - URL: http://bit.ly/visualizar16
 - Etiqueta: #visualizar16
 
+** Congreso Internacional Transparencia 2016
+- Cuándo: <2016-09-28 mié>--<2016-09-30 vie>
+- Dónde: Facultad de Ciencias de la Información, UCM, Madrid, Spain.
+- Mapa:
+- URL: http://congresotransparencia.com/
+- Twitter: [[https://twitter.com/cotransparencia][@COTransparencia]]
+
+Este Congreso trata de ser un lugar de encuentro para todos aquellos interesados en la Transparencia y el Derecho de Acceso a la Información Pública. La orientación es claramente multidisciplinar, abierto a diferentes enfoques desde el Derecho, la Ciencia Política, la Economía, la Documentación y la Comunicación, entre otras disciplinas.
+
+El carácter internacional del Congreso, con una fuerte presencia de participantes latinoamericanos, servirá para conocer el marco jurídico y político en diferentes países e intercambiar experiencias y reflexiones que podrán mejorar la transparencia pública. Tratamos de crear un verdadero foro de intercambio de conocimiento y de transferencia de investigación. La confluencia del conocimiento científico con la esfera profesional será muy valiosa a efectos del desarrollo de una sociedad más participativa y abierta.
+
 * Octubre
 ** VII Congreso Internacional en Gobierno, Administración y Políticas Públicas
 - Cuándo: <2016-10-03 lun>--<2016-10-05 mié>
