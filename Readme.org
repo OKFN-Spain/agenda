@@ -1169,6 +1169,15 @@ un currículum vítae y una propuesta de proyecto antes del 14 de
 octubre de 2016. La propuesta de proyecto deberá ser un ensayo de un
 máximo de 500 palabras que incluya su descripción. El plazo para
 presentar las candidaturas se abrirá en el mes de agosto.
+** Data visualization engineering intern at BBVA
+- URL: https://www.linkedin.com/jobs2/view/190580116?trk=biz-overview-job-post
+- Fecha publicación: <2016-08-12 vie>
+- Empresa: BBVA
+- Position: Data visualization engineering
+- Location: Madrid, Spain
+ 
+We’re looking for a person passionate about full-stack application development with a special interest in Data Science. You will help our data visualization team develop (optionally amazing) solutions used by data scientists to explore and communicate their results. You will participate in the creation of well-integrated and data scientist tools to make their lives easier focused on visual analytics, model evaluation and interpretation. You should take into account data scientists' real-world problems and limitations. 
+
 
 * Cursos
 ** HTML
