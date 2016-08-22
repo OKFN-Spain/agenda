@@ -847,6 +847,19 @@ la Comunidad Valenciana.
 - Mapa: 
 - URL: https://conference.owncloud.org/conference/oCC2016
 
+** View Source
+- Cuándo: <2016-09-12 lun>--<2016-09-14 mié>
+- Dónde: RADIALSYSTEM V. Holzmarktstraße 33, 10243 Berlin, Germany
+- Mapa: https://maps.google.com/maps?ll=52.510292,13.428619&z=16&t=m&hl=es-ES&gl=US&mapclient=embed&daddr=RADIALSYSTEM%20V%20Holzmarktstra%C3%9Fe%2033%2010243%20Berlin%20Alemania@52.51029219999999,13.4286193
+- URL: https://viewsourceconf.org/berlin-2016/
+
+In this three-day, intimate (limited to 500 participants), single-track conference, Mozilla brings together the most visionary speakers and companies to explore new frontiers in the open web, from both technical and design perspectives, across platforms and devices. And when the day’s done, we’ll relax with fun (optional) group activities.
+
+It’s a great opportunity to network with likeminded people in a
+collaborative, inclusive environment.
+
+
+
 
 ** ONA16
 - Cuándo: <2016-09-15 jue>--<2016-09-17 sáb>
@@ -854,7 +867,7 @@ la Comunidad Valenciana.
 - Mapa: 
 - URL: http://ona16.journalists.org/
 - Etiqueta: #ona16
-
+  
 ** Visualizar'16 Ciudades abiertas Open Cities
 - Cuándo: <2016-09-26 lun>--<2016-10-05 mié>
 - Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
@@ -979,7 +992,42 @@ http://opendatacon.org/
 Big data players from finance, healthcare & insurance, retail, IoT, entertainment, and travel are coming together for one week full of events.
 Learn from industry leaders, attend meet-ups, webinars, workshops and discuss the latest developments in the big data world.
 
+** Mozfest
+- Cuándo: <2016-10-28 vie>--<2016-10-30 dom>
+- Dónde: [[http://www.ravensbourne.ac.uk/][Ravensbourne]], London, UK
+- Mapa: https://mozillafestival.org/location
+- URL: https://mozillafestival.org/
+- Hashtag: [[https://twitter.com/hashtag/mozfest?src=hash][mozfest]]
+
+The world’s leading event for and by the open Internet movement.
+Join us to build, debate, and explore the future of our lives online.
+
+** MozRun 2016
+- Cuándo: <2016-10-30 dom 9:00 AM>
+- Dónde: Greenwich Peninsula Ecology Park. Londres, Reino Unido
+- URL: http://goo.gl/forms/Q3WbQghIyjjANt3a2
+
+MozRun - Think Parkrun, but on a Sunday. 5k (ish). Clear out the
+cobwebs and lose the blurry eyes from the night before. What better
+way to kick off the Sunday than a bit of fresh air and exercise! Plus
+you'll get a free t-shirt and we'll raise a bit of money for charity
+too!
+
 * Noviembre
+** Graphical Web
+- Cuándo: <2016-11-01 mar>--<2016-11-04 vie>
+- Dónde: Met Office - FitzRoy Road, Exeter, EX1 3PB, United Kingdom
+- Tickets: https://www.eventbrite.com/e/the-graphical-web-tickets-21521884536
+- URL: http://2016.graphicalweb.org/
+
+The Graphical Web is an annual, global conference to showcase the many
+new open source technologies that have become available for presenting
+visual information on the web. The conference showcases best practice,
+new opportunities and future directions in the fast-changing world of
+web graphics and will be of direct appeal to a wide range of
+professionals throughout the technology, data visualization and
+graphics industries.
+
 ** VI Congreso Internacional de Periodismo en Red
 - Cuándo: <2016-11-14 lun>--<2016-11-16 mié>
 - Dónde: Facultad de Ciencias de la Información, UCM, Madrid, Spain

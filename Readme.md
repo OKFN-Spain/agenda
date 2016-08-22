@@ -144,91 +144,95 @@
 <li><a href="#orgheadline96">SRCCON</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline106">Septiembre</a>
+<li><a href="#orgheadline107">Septiembre</a>
 <ul>
 <li><a href="#orgheadline98">Transparencia a través de los datos</a></li>
 <li><a href="#orgheadline99">ownCloud Conference 2016</a></li>
-<li><a href="#orgheadline100">ONA16</a></li>
-<li><a href="#orgheadline103">Visualizar'16 Ciudades abiertas Open Cities</a>
+<li><a href="#orgheadline100">View Source</a></li>
+<li><a href="#orgheadline101">ONA16</a></li>
+<li><a href="#orgheadline104">Visualizar'16 Ciudades abiertas Open Cities</a>
 <ul>
-<li><a href="#orgheadline101">Convocatoria de proyectos</a></li>
-<li><a href="#orgheadline102">Convocatoria de colaboradorxs</a></li>
+<li><a href="#orgheadline102">Convocatoria de proyectos</a></li>
+<li><a href="#orgheadline103">Convocatoria de colaboradorxs</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline104">Congreso Internacional Transparencia 2016</a></li>
-<li><a href="#orgheadline105">Seminario Data Science in Telecommunications</a></li>
+<li><a href="#orgheadline105">Congreso Internacional Transparencia 2016</a></li>
+<li><a href="#orgheadline106">Seminario Data Science in Telecommunications</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline116">Octubre</a>
+<li><a href="#orgheadline119">Octubre</a>
 <ul>
-<li><a href="#orgheadline107">VII Congreso Internacional en Gobierno, Administración y Políticas Públicas</a></li>
-<li><a href="#orgheadline108">Encuentro de Periodismo de datos</a></li>
-<li><a href="#orgheadline109">School of Data y Jornada de Periodismo de datos</a></li>
-<li><a href="#orgheadline111">Open Cities Summit</a>
+<li><a href="#orgheadline108">VII Congreso Internacional en Gobierno, Administración y Políticas Públicas</a></li>
+<li><a href="#orgheadline109">Encuentro de Periodismo de datos</a></li>
+<li><a href="#orgheadline110">School of Data y Jornada de Periodismo de datos</a></li>
+<li><a href="#orgheadline112">Open Cities Summit</a>
 <ul>
-<li><a href="#orgheadline110">Envío de ponencias</a></li>
+<li><a href="#orgheadline111">Envío de ponencias</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline112">Open Data Research Symposium 2016</a></li>
-<li><a href="#orgheadline113">IODC 2016</a></li>
-<li><a href="#orgheadline114">Laboratorio Iberoamericano de Innovación Ciudadana</a></li>
-<li><a href="#orgheadline115">Big Data Week</a></li>
+<li><a href="#orgheadline113">Open Data Research Symposium 2016</a></li>
+<li><a href="#orgheadline114">IODC 2016</a></li>
+<li><a href="#orgheadline115">Laboratorio Iberoamericano de Innovación Ciudadana</a></li>
+<li><a href="#orgheadline116">Big Data Week</a></li>
+<li><a href="#orgheadline117">Mozfest</a></li>
+<li><a href="#orgheadline118">MozRun 2016</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline118">Noviembre</a>
+<li><a href="#orgheadline122">Noviembre</a>
 <ul>
-<li><a href="#orgheadline117">VI Congreso Internacional de Periodismo en Red</a></li>
+<li><a href="#orgheadline120">Graphical Web</a></li>
+<li><a href="#orgheadline121">VI Congreso Internacional de Periodismo en Red</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline119">Todo el año</a></li>
-<li><a href="#orgheadline137">Becas, ofertas de trabajo</a>
+<li><a href="#orgheadline123">Todo el año</a></li>
+<li><a href="#orgheadline141">Becas, ofertas de trabajo</a>
 <ul>
-<li><a href="#orgheadline120">Desarrollador web Python en Viderum</a></li>
-<li><a href="#orgheadline121">Becas El País y Amazon para festival internacional de Periodismo de Perugia</a></li>
-<li><a href="#orgheadline122">Premios de periodismo</a></li>
-<li><a href="#orgheadline123">eldiario.es</a></li>
-<li><a href="#orgheadline124">Contentmine Fellowship</a></li>
-<li><a href="#orgheadline125">UI Designer at Populate</a></li>
-<li><a href="#orgheadline126">Coordinador proyecto DITOs</a></li>
-<li><a href="#orgheadline127">Job Offer: Full Stack Engineer</a></li>
-<li><a href="#orgheadline128">Reuters Institute hosts Google Digital News Journalist Fellowship</a></li>
-<li><a href="#orgheadline129">Communications officer. Digital Equality</a></li>
-<li><a href="#orgheadline130">Technical writer at Mozilla Foundation</a></li>
-<li><a href="#orgheadline131">Synergic Partners</a></li>
-<li><a href="#orgheadline132">Frontend en Carto</a></li>
-<li><a href="#orgheadline133">Senior Data Scientist at Wise Athena</a></li>
-<li><a href="#orgheadline134">Becas para proyectos de investigación periodística de la Fundación Nieman</a></li>
-<li><a href="#orgheadline135">Data visualization engineering intern at BBVA</a></li>
-<li><a href="#orgheadline136">Técnico junior de Open Data en Desidedatum.com</a></li>
+<li><a href="#orgheadline124">Desarrollador web Python en Viderum</a></li>
+<li><a href="#orgheadline125">Becas El País y Amazon para festival internacional de Periodismo de Perugia</a></li>
+<li><a href="#orgheadline126">Premios de periodismo</a></li>
+<li><a href="#orgheadline127">eldiario.es</a></li>
+<li><a href="#orgheadline128">Contentmine Fellowship</a></li>
+<li><a href="#orgheadline129">UI Designer at Populate</a></li>
+<li><a href="#orgheadline130">Coordinador proyecto DITOs</a></li>
+<li><a href="#orgheadline131">Job Offer: Full Stack Engineer</a></li>
+<li><a href="#orgheadline132">Reuters Institute hosts Google Digital News Journalist Fellowship</a></li>
+<li><a href="#orgheadline133">Communications officer. Digital Equality</a></li>
+<li><a href="#orgheadline134">Technical writer at Mozilla Foundation</a></li>
+<li><a href="#orgheadline135">Synergic Partners</a></li>
+<li><a href="#orgheadline136">Frontend en Carto</a></li>
+<li><a href="#orgheadline137">Senior Data Scientist at Wise Athena</a></li>
+<li><a href="#orgheadline138">Becas para proyectos de investigación periodística de la Fundación Nieman</a></li>
+<li><a href="#orgheadline139">Data visualization engineering intern at BBVA</a></li>
+<li><a href="#orgheadline140">Técnico junior de Open Data en Desidedatum.com</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline140">Cursos</a>
+<li><a href="#orgheadline144">Cursos</a>
 <ul>
-<li><a href="#orgheadline139">HTML</a>
+<li><a href="#orgheadline143">HTML</a>
 <ul>
-<li><a href="#orgheadline138">Temáticas</a></li>
+<li><a href="#orgheadline142">Temáticas</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orgheadline141">ProPublica's Summer Data Institute</a></li>
-<li><a href="#orgheadline143">Enlaces de interés</a>
+<li><a href="#orgheadline145">ProPublica's Summer Data Institute</a></li>
+<li><a href="#orgheadline147">Enlaces de interés</a>
 <ul>
-<li><a href="#orgheadline142">Naked Data, Code for South Africa Newsletter</a></li>
+<li><a href="#orgheadline146">Naked Data, Code for South Africa Newsletter</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline149">Ideas</a>
+<li><a href="#orgheadline153">Ideas</a>
 <ul>
-<li><a href="#orgheadline144">Calendario en Google</a></li>
-<li><a href="#orgheadline145">Calendario en ICS</a></li>
-<li><a href="#orgheadline146">Tinyletter</a></li>
-<li><a href="#orgheadline147">Schema.org</a></li>
-<li><a href="#orgheadline148">Orgmode</a></li>
+<li><a href="#orgheadline148">Calendario en Google</a></li>
+<li><a href="#orgheadline149">Calendario en ICS</a></li>
+<li><a href="#orgheadline150">Tinyletter</a></li>
+<li><a href="#orgheadline151">Schema.org</a></li>
+<li><a href="#orgheadline152">Orgmode</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline151">Mayo</a>
+<li><a href="#orgheadline155">Mayo</a>
 <ul>
-<li><a href="#orgheadline150">Dataharvest 2017</a></li>
+<li><a href="#orgheadline154">Dataharvest 2017</a></li>
 </ul>
 </li>
 </ul>
@@ -343,74 +347,78 @@ Si tienes un evento que proponer, añade [una nueva issue](https://github.com/OK
 <ul>
 <li><a href="#orgheadline77">Transparencia a través de los datos</a></li>
 <li><a href="#orgheadline78">ownCloud Conference 2016</a></li>
-<li><a href="#orgheadline79">ONA16</a></li>
-<li><a href="#orgheadline80">Visualizar'16 Ciudades abiertas Open Cities</a></li>
-<li><a href="#orgheadline81">Congreso Internacional Transparencia 2016</a></li>
-<li><a href="#orgheadline82">Seminario Data Science in Telecommunications</a></li>
+<li><a href="#orgheadline79">View Source</a></li>
+<li><a href="#orgheadline80">ONA16</a></li>
+<li><a href="#orgheadline81">Visualizar'16 Ciudades abiertas Open Cities</a></li>
+<li><a href="#orgheadline82">Congreso Internacional Transparencia 2016</a></li>
+<li><a href="#orgheadline83">Seminario Data Science in Telecommunications</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline83">Octubre</a>
+<li><a href="#orgheadline84">Octubre</a>
 <ul>
-<li><a href="#orgheadline84">VII Congreso Internacional en Gobierno, Administración y Políticas Públicas</a></li>
-<li><a href="#orgheadline85">Encuentro de Periodismo de datos</a></li>
-<li><a href="#orgheadline86">School of Data y Jornada de Periodismo de datos</a></li>
-<li><a href="#orgheadline87">Open Cities Summit</a></li>
-<li><a href="#orgheadline88">Open Data Research Symposium 2016</a></li>
-<li><a href="#orgheadline89">IODC 2016</a></li>
-<li><a href="#orgheadline90">Laboratorio Iberoamericano de Innovación Ciudadana</a></li>
-<li><a href="#orgheadline91">Big Data Week</a></li>
+<li><a href="#orgheadline85">VII Congreso Internacional en Gobierno, Administración y Políticas Públicas</a></li>
+<li><a href="#orgheadline86">Encuentro de Periodismo de datos</a></li>
+<li><a href="#orgheadline87">School of Data y Jornada de Periodismo de datos</a></li>
+<li><a href="#orgheadline88">Open Cities Summit</a></li>
+<li><a href="#orgheadline89">Open Data Research Symposium 2016</a></li>
+<li><a href="#orgheadline90">IODC 2016</a></li>
+<li><a href="#orgheadline91">Laboratorio Iberoamericano de Innovación Ciudadana</a></li>
+<li><a href="#orgheadline92">Big Data Week</a></li>
+<li><a href="#orgheadline93">Mozfest</a></li>
+<li><a href="#orgheadline94">MozRun 2016</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline92">Noviembre</a>
+<li><a href="#orgheadline95">Noviembre</a>
 <ul>
-<li><a href="#orgheadline93">VI Congreso Internacional de Periodismo en Red</a></li>
+<li><a href="#orgheadline96">Graphical Web</a></li>
+<li><a href="#orgheadline97">VI Congreso Internacional de Periodismo en Red</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline94">Todo el año</a></li>
-<li><a href="#orgheadline95">Becas, ofertas de trabajo</a>
+<li><a href="#orgheadline98">Todo el año</a></li>
+<li><a href="#orgheadline99">Becas, ofertas de trabajo</a>
 <ul>
-<li><a href="#orgheadline96">Desarrollador web Python en Viderum</a></li>
-<li><a href="#orgheadline97">Becas El País y Amazon para festival internacional de Periodismo de Perugia</a></li>
-<li><a href="#orgheadline98">Premios de periodismo</a></li>
-<li><a href="#orgheadline99">eldiario.es</a></li>
-<li><a href="#orgheadline100">Contentmine Fellowship</a></li>
-<li><a href="#orgheadline101">UI Designer at Populate</a></li>
-<li><a href="#orgheadline102">Coordinador proyecto DITOs</a></li>
-<li><a href="#orgheadline103">Job Offer: Full Stack Engineer</a></li>
-<li><a href="#orgheadline104">Reuters Institute hosts Google Digital News Journalist Fellowship</a></li>
-<li><a href="#orgheadline105">Communications officer. Digital Equality</a></li>
-<li><a href="#orgheadline106">Technical writer at Mozilla Foundation</a></li>
-<li><a href="#orgheadline107">Synergic Partners</a></li>
-<li><a href="#orgheadline108">Frontend en Carto</a></li>
-<li><a href="#orgheadline109">Senior Data Scientist at Wise Athena</a></li>
-<li><a href="#orgheadline110">Becas para proyectos de investigación periodística de la Fundación Nieman</a></li>
-<li><a href="#orgheadline111">Data visualization engineering intern at BBVA</a></li>
-<li><a href="#orgheadline112">Técnico junior de Open Data en Desidedatum.com</a></li>
+<li><a href="#orgheadline100">Desarrollador web Python en Viderum</a></li>
+<li><a href="#orgheadline101">Becas El País y Amazon para festival internacional de Periodismo de Perugia</a></li>
+<li><a href="#orgheadline102">Premios de periodismo</a></li>
+<li><a href="#orgheadline103">eldiario.es</a></li>
+<li><a href="#orgheadline104">Contentmine Fellowship</a></li>
+<li><a href="#orgheadline105">UI Designer at Populate</a></li>
+<li><a href="#orgheadline106">Coordinador proyecto DITOs</a></li>
+<li><a href="#orgheadline107">Job Offer: Full Stack Engineer</a></li>
+<li><a href="#orgheadline108">Reuters Institute hosts Google Digital News Journalist Fellowship</a></li>
+<li><a href="#orgheadline109">Communications officer. Digital Equality</a></li>
+<li><a href="#orgheadline110">Technical writer at Mozilla Foundation</a></li>
+<li><a href="#orgheadline111">Synergic Partners</a></li>
+<li><a href="#orgheadline112">Frontend en Carto</a></li>
+<li><a href="#orgheadline113">Senior Data Scientist at Wise Athena</a></li>
+<li><a href="#orgheadline114">Becas para proyectos de investigación periodística de la Fundación Nieman</a></li>
+<li><a href="#orgheadline115">Data visualization engineering intern at BBVA</a></li>
+<li><a href="#orgheadline116">Técnico junior de Open Data en Desidedatum.com</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline113">Cursos</a>
+<li><a href="#orgheadline117">Cursos</a>
 <ul>
-<li><a href="#orgheadline114">HTML</a></li>
+<li><a href="#orgheadline118">HTML</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline115">ProPublica's Summer Data Institute</a></li>
-<li><a href="#orgheadline116">Enlaces de interés</a>
+<li><a href="#orgheadline119">ProPublica's Summer Data Institute</a></li>
+<li><a href="#orgheadline120">Enlaces de interés</a>
 <ul>
-<li><a href="#orgheadline117">Naked Data, Code for South Africa Newsletter</a></li>
+<li><a href="#orgheadline121">Naked Data, Code for South Africa Newsletter</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline118">Ideas</a>
+<li><a href="#orgheadline122">Ideas</a>
 <ul>
-<li><a href="#orgheadline119">Calendario en Google</a></li>
-<li><a href="#orgheadline120">Calendario en ICS</a></li>
-<li><a href="#orgheadline121">Tinyletter</a></li>
-<li><a href="#orgheadline122">Schema.org</a></li>
-<li><a href="#orgheadline123">Orgmode</a></li>
+<li><a href="#orgheadline123">Calendario en Google</a></li>
+<li><a href="#orgheadline124">Calendario en ICS</a></li>
+<li><a href="#orgheadline125">Tinyletter</a></li>
+<li><a href="#orgheadline126">Schema.org</a></li>
+<li><a href="#orgheadline127">Orgmode</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline124">Mayo</a>
+<li><a href="#orgheadline128">Mayo</a>
 <ul>
-<li><a href="#orgheadline125">Dataharvest 2017</a></li>
+<li><a href="#orgheadline129">Dataharvest 2017</a></li>
 </ul>
 </li>
 </ul>
@@ -1314,7 +1322,7 @@ The SIGIR conference is the major international forum for the presentation of ne
 
 SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. Active participation is at the center of SRCCON, and we work to make it an inclusive and welcoming event where people can feel comfortable jumping in to work on complex problems. We welcome participants from all fields—if you want to strengthen journalism online, we want you there.
 
-# Septiembre<a id="orgheadline106"></a>
+# Septiembre<a id="orgheadline107"></a>
 
 ## Transparencia a través de los datos<a id="orgheadline98"></a>
 
@@ -1381,7 +1389,19 @@ la Comunidad Valenciana.
 -   Mapa:
 -   URL: <https://conference.owncloud.org/conference/oCC2016>
 
-## ONA16<a id="orgheadline100"></a>
+## View Source<a id="orgheadline100"></a>
+
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 lun&gt;&#x2013;&lt;2016-09-14 mié&gt;</span></span>
+-   Dónde: RADIALSYSTEM V. Holzmarktstraße 33, 10243 Berlin, Germany
+-   Mapa: <https://maps.google.com/maps?ll=52.510292,13.428619&z=16&t=m&hl=es-ES&gl=US&mapclient=embed&daddr=RADIALSYSTEM%20V%20Holzmarktstra%C3%9Fe%2033%2010243%20Berlin%20Alemania@52.51029219999999,13.4286193>
+-   URL: <https://viewsourceconf.org/berlin-2016/>
+
+In this three-day, intimate (limited to 500 participants), single-track conference, Mozilla brings together the most visionary speakers and companies to explore new frontiers in the open web, from both technical and design perspectives, across platforms and devices. And when the day’s done, we’ll relax with fun (optional) group activities.
+
+It’s a great opportunity to network with likeminded people in a
+collaborative, inclusive environment.
+
+## ONA16<a id="orgheadline101"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 jue&gt;&#x2013;&lt;2016-09-17 sáb&gt;</span></span>
 -   Dónde: Denver, EE.UU.
@@ -1389,7 +1409,7 @@ la Comunidad Valenciana.
 -   URL: <http://ona16.journalists.org/>
 -   Etiqueta: #ona16
 
-## Visualizar'16 Ciudades abiertas Open Cities<a id="orgheadline103"></a>
+## Visualizar'16 Ciudades abiertas Open Cities<a id="orgheadline104"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 lun&gt;&#x2013;&lt;2016-10-05 mié&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
@@ -1397,11 +1417,11 @@ la Comunidad Valenciana.
 -   URL: <http://bit.ly/visualizar16>
 -   Etiqueta: #visualizar16
 
-### Convocatoria de proyectos<a id="orgheadline101"></a>
+### Convocatoria de proyectos<a id="orgheadline102"></a>
 
-### Convocatoria de colaboradorxs<a id="orgheadline102"></a>
+### Convocatoria de colaboradorxs<a id="orgheadline103"></a>
 
-## Congreso Internacional Transparencia 2016<a id="orgheadline104"></a>
+## Congreso Internacional Transparencia 2016<a id="orgheadline105"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 mié&gt;&#x2013;&lt;2016-09-30 vie&gt;</span></span>
 -   Dónde: Facultad de Ciencias de la Información, UCM, Madrid, Spain.
@@ -1413,7 +1433,7 @@ Este Congreso trata de ser un lugar de encuentro para todos aquellos interesados
 
 El carácter internacional del Congreso, con una fuerte presencia de participantes latinoamericanos, servirá para conocer el marco jurídico y político en diferentes países e intercambiar experiencias y reflexiones que podrán mejorar la transparencia pública. Tratamos de crear un verdadero foro de intercambio de conocimiento y de transferencia de investigación. La confluencia del conocimiento científico con la esfera profesional será muy valiosa a efectos del desarrollo de una sociedad más participativa y abierta.
 
-## Seminario Data Science in Telecommunications<a id="orgheadline105"></a>
+## Seminario Data Science in Telecommunications<a id="orgheadline106"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 vie&gt;</span></span>
 -   Dónde: Escuela Politécnica Superior de la Universidad Autónoma de
@@ -1430,9 +1450,9 @@ tanto en el negocio principal de las compañías de las
 telecomunicaciones como en el estudio de distintos fenómenos sociales,
 entre otros.
 
-# Octubre<a id="orgheadline116"></a>
+# Octubre<a id="orgheadline119"></a>
 
-## VII Congreso Internacional en Gobierno, Administración y Políticas Públicas<a id="orgheadline107"></a>
+## VII Congreso Internacional en Gobierno, Administración y Políticas Públicas<a id="orgheadline108"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 lun&gt;&#x2013;&lt;2016-10-05 mié&gt;</span></span>
 -   Dónde:
@@ -1442,7 +1462,7 @@ entre otros.
 “Construyendo una nueva cultura administrativa: políticas y gestión pública con la ciudadanía”
 El Congreso Internacional en Gobierno, Administración y Políticas Públicas, organizado por el GIGAPP desde 2010, ha logrado constituirse en un Congreso anual de referencia en los temas de Gobierno, Administración y Políticas Públicas en Iberoamérica. La progresión del evento da cuenta del avance en cantidad y calidad del evento. Este evento es un espacio abierto pensado para presentar y debatir nuevas ideas y enfoques, experiencias e investigaciones de calidad y cultivar vínculos de colaboración y generación de redes de trabajo sobre los ejes temáticos en los que se enmarca.
 
-## Encuentro de Periodismo de datos<a id="orgheadline108"></a>
+## Encuentro de Periodismo de datos<a id="orgheadline109"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-04 mar 09:00&gt;&#x2013;&lt;2016-10-04 mar 18:00&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
@@ -1450,7 +1470,7 @@ El Congreso Internacional en Gobierno, Administración y Políticas Públicas, o
 -   URL:
 -   Etiqueta:
 
-## School of Data y Jornada de Periodismo de datos<a id="orgheadline109"></a>
+## School of Data y Jornada de Periodismo de datos<a id="orgheadline110"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-04 mar 09:00&gt;&#x2013;&lt;2016-10-04 mar 20:30&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
@@ -1458,7 +1478,7 @@ El Congreso Internacional en Gobierno, Administración y Políticas Públicas, o
 -   URL:
 -   Etiqueta:
 
-## Open Cities Summit<a id="orgheadline111"></a>
+## Open Cities Summit<a id="orgheadline112"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 mié 09:00&gt;&#x2013;&lt;2016-10-05 mié 20:30&gt;</span></span>
 -   Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
@@ -1466,9 +1486,9 @@ El Congreso Internacional en Gobierno, Administración y Políticas Públicas, o
 -   URL: <http://opencitiessummit.org>
 -   Etiqueta: #opencitiessummit
 
-### Envío de ponencias<a id="orgheadline110"></a>
+### Envío de ponencias<a id="orgheadline111"></a>
 
-## Open Data Research Symposium 2016<a id="orgheadline112"></a>
+## Open Data Research Symposium 2016<a id="orgheadline113"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 mié 10:00&gt;&#x2013;&lt;2016-10-05 mié 20:00&gt;</span></span>
 -   Dónde: Madrid, Spain
@@ -1476,7 +1496,7 @@ El Congreso Internacional en Gobierno, Administración y Políticas Públicas, o
 -   URL: <http://odresearch.org/>
 -   Hashtag: [ODR16](https://twitter.com/hashtag/ODRS16?src%3Dhash)
 
-## IODC 2016<a id="orgheadline113"></a>
+## IODC 2016<a id="orgheadline114"></a>
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 jue&gt;&#x2013;&lt;2016-10-07 vie&gt;</span></span>
 4ª Conferencia Internacional sobre Datos Abiertos
@@ -1495,7 +1515,7 @@ Objertivos globales, impacto local
 
 <http://opendatacon.org/>
 
-## Laboratorio Iberoamericano de Innovación Ciudadana<a id="orgheadline114"></a>
+## Laboratorio Iberoamericano de Innovación Ciudadana<a id="orgheadline115"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 dom&gt;&#x2013;&lt;2016-10-23 dom&gt;</span></span>
 -   Dónde: Cartagena, Colombia
@@ -1503,7 +1523,7 @@ Objertivos globales, impacto local
 -   URL: <http://www.ciudadania20.org/colaboradoreslabicco/>
 -   Hashtag: [labicco](https://twitter.com/hashtag/labicco?src=hash)
 
-## Big Data Week<a id="orgheadline115"></a>
+## Big Data Week<a id="orgheadline116"></a>
 
 <div itemscope itemtype="http://schema.org/Event">
 <a itemprop="url" href="http://london.bigdataweek.com/"><div itemprop="name"><strong>Big Data Week</strong></div>
@@ -1524,9 +1544,47 @@ Objertivos globales, impacto local
 Big data players from finance, healthcare & insurance, retail, IoT, entertainment, and travel are coming together for one week full of events.
 Learn from industry leaders, attend meet-ups, webinars, workshops and discuss the latest developments in the big data world.
 
-# Noviembre<a id="orgheadline118"></a>
+## Mozfest<a id="orgheadline117"></a>
 
-## VI Congreso Internacional de Periodismo en Red<a id="orgheadline117"></a>
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-28 vie&gt;&#x2013;&lt;2016-10-30 dom&gt;</span></span>
+-   Dónde: [Ravensbourne](http://www.ravensbourne.ac.uk/), London, UK
+-   Mapa: <https://mozillafestival.org/location>
+-   URL: <https://mozillafestival.org/>
+-   Hashtag: [mozfest](https://twitter.com/hashtag/mozfest?src=hash)
+
+The world’s leading event for and by the open Internet movement.
+Join us to build, debate, and explore the future of our lives online.
+
+## MozRun 2016<a id="orgheadline118"></a>
+
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 dom 09:00&gt;</span></span>
+-   Dónde: Greenwich Peninsula Ecology Park. Londres, Reino Unido
+-   URL: <http://goo.gl/forms/Q3WbQghIyjjANt3a2>
+
+MozRun - Think Parkrun, but on a Sunday. 5k (ish). Clear out the
+cobwebs and lose the blurry eyes from the night before. What better
+way to kick off the Sunday than a bit of fresh air and exercise! Plus
+you'll get a free t-shirt and we'll raise a bit of money for charity
+too!
+
+# Noviembre<a id="orgheadline122"></a>
+
+## Graphical Web<a id="orgheadline120"></a>
+
+-   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-01 mar&gt;&#x2013;&lt;2016-11-04 vie&gt;</span></span>
+-   Dónde: Met Office - FitzRoy Road, Exeter, EX1 3PB, United Kingdom
+-   Tickets: <https://www.eventbrite.com/e/the-graphical-web-tickets-21521884536>
+-   URL: <http://2016.graphicalweb.org/>
+
+The Graphical Web is an annual, global conference to showcase the many
+new open source technologies that have become available for presenting
+visual information on the web. The conference showcases best practice,
+new opportunities and future directions in the fast-changing world of
+web graphics and will be of direct appeal to a wide range of
+professionals throughout the technology, data visualization and
+graphics industries.
+
+## VI Congreso Internacional de Periodismo en Red<a id="orgheadline121"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-14 lun&gt;&#x2013;&lt;2016-11-16 mié&gt;</span></span>
 -   Dónde: Facultad de Ciencias de la Información, UCM, Madrid, Spain
@@ -1549,11 +1607,11 @@ debatir sobre el impacto, las tendencias y/o perspectivas de las
 Tecnologías de la Información y las Comunicaciones en la construcción
 del nuevo periodismo, desde una perspectiva profesional y científica.
 
-# Todo el año<a id="orgheadline119"></a>
+# Todo el año<a id="orgheadline123"></a>
 
-# Becas, ofertas de trabajo<a id="orgheadline137"></a>
+# Becas, ofertas de trabajo<a id="orgheadline141"></a>
 
-## Desarrollador web Python en Viderum<a id="orgheadline120"></a>
+## Desarrollador web Python en Viderum<a id="orgheadline124"></a>
 
 -   URL: <http://www.viderum.com/blog/2015/12/07/senior-python-web-developer>
 -   Entidad: Viderum
@@ -1582,7 +1640,7 @@ How to apply
 
 Email jobs@viderum.com, with the subject line “Python Developer: CKAN”. Please include your CV and a link to your GitHub (or similar) profile.
 
-## Becas El País y Amazon para festival internacional de Periodismo de Perugia<a id="orgheadline121"></a>
+## Becas El País y Amazon para festival internacional de Periodismo de Perugia<a id="orgheadline125"></a>
 
 -   Cuándo: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-02-16 mar&gt;&#x2013;&lt;2016-03-04 vie&gt;</span></span>
 -   Fecha límite:   DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-03-04 vie&gt;</span></span>
@@ -1591,11 +1649,11 @@ Email jobs@viderum.com, with the subject line “Python Developer: CKAN”. Plea
 Los participantes deben escribir un ensayo sobre el periodismo en la era digital
 Los premiados ganarán un viaje al Festival Internacional de Periodismo de Perugia
 
-## Premios de periodismo<a id="orgheadline122"></a>
+## Premios de periodismo<a id="orgheadline126"></a>
 
 <http://gijn.org/2015/06/08/premios-para-periodistas-de-investigacion/>
 
-## eldiario.es<a id="orgheadline123"></a>
+## eldiario.es<a id="orgheadline127"></a>
 
 -   URL: <http://www.eldiario.es/redaccion/Quieres-tecnologico-revolucionara-sostenibilidad-medios_6_505059505.html>
 -   desarrolladores para encargarse del diseño e implantación de la tecnología del modelo editorial y de socios de eldiario.es
@@ -1603,7 +1661,7 @@ Los premiados ganarán un viaje al Festival Internacional de Periodismo de Perug
 -   desarrolladores front
 -   desarrolladores back-end.
 
-## Contentmine Fellowship<a id="orgheadline124"></a>
+## Contentmine Fellowship<a id="orgheadline128"></a>
 
 -   DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-03 vie&gt;</span></span>
 -   URL: <https://discuss.okfn.org/t/announcing-contentmine-fellowships-applications-due-3-june-2016/2761>
@@ -1618,7 +1676,7 @@ We require applicants to have basic knowledge of:
 -   At least one programming language such as javascript, java, python, R, MATLAB or other data science/statistical programming languages.
 -   Version control using git and github
 
-## UI Designer at Populate<a id="orgheadline125"></a>
+## UI Designer at Populate<a id="orgheadline129"></a>
 
 -   Fecha publicación: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-05-17 mar&gt;</span></span>
 -   URL: <http://populate.tools/join_us.html>
@@ -1630,7 +1688,7 @@ Write to itsme@populate.tools telling us about:
 -   3 civic tech initiatives (tools, data journalism projects, etc) you have discovered recently, and why you think they are interesting.
 -   Some ideas of products you have been thinking on building.
 
-## Coordinador proyecto DITOs<a id="orgheadline126"></a>
+## Coordinador proyecto DITOs<a id="orgheadline130"></a>
 
 -   Deadline: DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-10 vie&gt;</span></span>
 -   Tipo de Contrato: Obra o Servicio determinado (3 años)
@@ -1640,7 +1698,7 @@ Write to itsme@populate.tools telling us about:
 Coordina  y  Lidera  el  desarrollo  Work  Package  2  Sostenibilidad  Medioambiental,  del proyecto europeo “Do it Together Science (DITO ́s) para la consecución de objetivos y 
 colabora y participa en los otros Works Packages del proyecto.
 
-## Job Offer: Full Stack Engineer<a id="orgheadline127"></a>
+## Job Offer: Full Stack Engineer<a id="orgheadline131"></a>
 
 -   Fecha: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-15 mié&gt;</span></span>
 -   Empresa: Vizzuality
@@ -1650,7 +1708,7 @@ colabora y participa en los otros Works Packages del proyecto.
 If you are interested drop us a line to jobs@vizzuality.com or come
 have a coffee with us.
 
-## Reuters Institute hosts Google Digital News Journalist Fellowship<a id="orgheadline128"></a>
+## Reuters Institute hosts Google Digital News Journalist Fellowship<a id="orgheadline132"></a>
 
 -   DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-17 vie&gt;</span></span>
 -   Pueden aplicar periodistas de Austria, Belgium, Czech Republic, Denmark, Finland, France, Germany, Greece, Hungary, Italy, Ireland, Netherlands, Norway, Poland, Portugal, Spain, Sweden, Switzerland and Turkey
@@ -1663,7 +1721,7 @@ The Reuters Institute for the Study of Journalism at Oxford University is seekin
 
 The fellowship is intended for two six-month terms starting either October 2016 or January 2017. Fellows will work on a research paper based on some aspect of either the survey data for the 2017 Reuters Institute Digital News Report or digital journalism more generally with a direct focus on the professional and industry implications based on their own experience.
 
-## Communications officer. Digital Equality<a id="orgheadline129"></a>
+## Communications officer. Digital Equality<a id="orgheadline133"></a>
 
 -   URL: <http://webfoundation.org/about/jobs/>
 
@@ -1673,7 +1731,7 @@ Please see the full [job description](http://webfoundation.org/docs/2012/12/Comm
 
 Application deadline: 31 August, but may be filled ahead of this 
 
-## Technical writer at Mozilla Foundation<a id="orgheadline130"></a>
+## Technical writer at Mozilla Foundation<a id="orgheadline134"></a>
 
 -   URL: <https://coralproject.net/open-positions/>
 
@@ -1694,21 +1752,21 @@ If you’re deeply interested in working on technical documentation and have rel
 To apply: please email andrewl@mozillafoundation.org with your resume,
 samples of your work, and hourly rate.
 
-## Synergic Partners<a id="orgheadline131"></a>
+## Synergic Partners<a id="orgheadline135"></a>
 
 -   URL: <http://www.synergicpartners.com/talento/ofertas-empleo/>
 
 Big data consultant, data scientist, big data architect, software
 engineer y business manager
 
-## Frontend en Carto<a id="orgheadline132"></a>
+## Frontend en Carto<a id="orgheadline136"></a>
 
 -   URL:
     <https://gist.github.com/javisantana/f88c8e3815e7af28f5e51c3e78290ad2>
 
 Pintar mapas, JS y Canvas.
 
-## Senior Data Scientist at Wise Athena<a id="orgheadline133"></a>
+## Senior Data Scientist at Wise Athena<a id="orgheadline137"></a>
 
 -   URL:
     <http://www.kdnuggets.com/jobs/16/08-04-wiseathena-senior-data-scientist.html>
@@ -1724,7 +1782,7 @@ Looking for a data scientist, to work in some of the most exciting areas of comp
 We're looking for people who love turning data into gold and enjoy
 solving second order differential equations.
 
-## Becas para proyectos de investigación periodística de la Fundación Nieman<a id="orgheadline134"></a>
+## Becas para proyectos de investigación periodística de la Fundación Nieman<a id="orgheadline138"></a>
 
 -   URL:
     <http://www.apmadrid.es/becas-para-proyectos-de-investigacion-periodistica-de-la-fundacion-nieman/>
@@ -1742,7 +1800,7 @@ octubre de 2016. La propuesta de proyecto deberá ser un ensayo de un
 máximo de 500 palabras que incluya su descripción. El plazo para
 presentar las candidaturas se abrirá en el mes de agosto.
 
-## Data visualization engineering intern at BBVA<a id="orgheadline135"></a>
+## Data visualization engineering intern at BBVA<a id="orgheadline139"></a>
 
 -   URL: <https://www.linkedin.com/jobs2/view/190580116?trk=biz-overview-job-post>
 -   Fecha publicación: <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-12 vie&gt;</span></span>
@@ -1752,7 +1810,7 @@ presentar las candidaturas se abrirá en el mes de agosto.
 
 We’re looking for a person passionate about full-stack application development with a special interest in Data Science. You will help our data visualization team develop (optionally amazing) solutions used by data scientists to explore and communicate their results. You will participate in the creation of well-integrated and data scientist tools to make their lives easier focused on visual analytics, model evaluation and interpretation. You should take into account data scientists' real-world problems and limitations. 
 
-## Técnico junior de Open Data en Desidedatum.com<a id="orgheadline136"></a>
+## Técnico junior de Open Data en Desidedatum.com<a id="orgheadline140"></a>
 
 -   Fecha publicación: 20170722
 -   Contacto: alberto.abella@desidedatum.com
@@ -1762,48 +1820,48 @@ Se requieren conocimientos para gestiona datos mediante herramientas como Pentah
 
 Se valorará experiencia en este ámbito y conocimientos de gestión y programación mediante API.
 
-# Cursos<a id="orgheadline140"></a>
+# Cursos<a id="orgheadline144"></a>
 
-## HTML<a id="orgheadline139"></a>
+## HTML<a id="orgheadline143"></a>
 
 -   Autoría: [Raúl Jiménez Ortega](http://rauljimenez.info/)
 -   URL: <http://www.cursohtml5desdecero.com/>
 -   Licencia: [CC-BY-NC-SA 4.0 Internacional](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 -   GitHub: <https://github.com/hhkaos/cursohtml5desdecero/>
 
-### Temáticas<a id="orgheadline138"></a>
+### Temáticas<a id="orgheadline142"></a>
 
 -   Enseñar los elementos más comunes de HTML5, CSS3 y JavaScript.
 -   Mostrar dónde podrás resolver tus dudas cuando tengas problemas.
 -   Explicar cómo trabajar con algunas de las herramientas que usan los profesionales del mundo real como son Github o las herramientas para desarrolladores de Google Chrome.
 
-# ProPublica's Summer Data Institute<a id="orgheadline141"></a>
+# ProPublica's Summer Data Institute<a id="orgheadline145"></a>
 
 First-ever Summer Data Institute, a 10-day intensive workshop on how to use data, design and code for journalism. The workshop will be from June 1st to 15th in our NYC offices. The deadline to apply is March 31st.
 
 <https://projects.propublica.org/graphics/summer>
 <https://www.propublica.org/nerds/item/propublica-summer-data-institute>
 
-# Enlaces de interés<a id="orgheadline143"></a>
+# Enlaces de interés<a id="orgheadline147"></a>
 
-## Naked Data, Code for South Africa Newsletter<a id="orgheadline142"></a>
+## Naked Data, Code for South Africa Newsletter<a id="orgheadline146"></a>
 
 <http://code4sa.org/newsletter/>
 
-# Ideas<a id="orgheadline149"></a>
+# Ideas<a id="orgheadline153"></a>
 
-## Calendario en Google<a id="orgheadline144"></a>
+## Calendario en Google<a id="orgheadline148"></a>
 
-## Calendario en ICS<a id="orgheadline145"></a>
+## Calendario en ICS<a id="orgheadline149"></a>
 
-## Tinyletter<a id="orgheadline146"></a>
+## Tinyletter<a id="orgheadline150"></a>
 
-## Schema.org<a id="orgheadline147"></a>
+## Schema.org<a id="orgheadline151"></a>
 
-## Orgmode<a id="orgheadline148"></a>
+## Orgmode<a id="orgheadline152"></a>
 
-# Mayo<a id="orgheadline151"></a>
+# Mayo<a id="orgheadline155"></a>
 
-## Dataharvest 2017<a id="orgheadline150"></a>
+## Dataharvest 2017<a id="orgheadline154"></a>
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-05-18 mié&gt;&#x2013;&lt;2016-05-21 sáb&gt;</span></span>
