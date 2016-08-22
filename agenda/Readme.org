@@ -1171,6 +1171,7 @@ máximo de 500 palabras que incluya su descripción. El plazo para
 presentar las candidaturas se abrirá en el mes de agosto.
 ** Data visualization engineering intern at BBVA
 - URL: https://www.linkedin.com/jobs2/view/190580116?trk=biz-overview-job-post
+- Fecha publicación: <2016-08-12 vie>
 - Empresa: BBVA
 - Position: Data visualization engineering
 - Location: Madrid, Spain
