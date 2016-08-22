@@ -181,7 +181,7 @@
 </ul>
 </li>
 <li><a href="#orgheadline119">Todo el año</a></li>
-<li><a href="#orgheadline136">Becas, ofertas de trabajo</a>
+<li><a href="#orgheadline137">Becas, ofertas de trabajo</a>
 <ul>
 <li><a href="#orgheadline120">Desarrollador web Python en Viderum</a></li>
 <li><a href="#orgheadline121">Becas El País y Amazon para festival internacional de Periodismo de Perugia</a></li>
@@ -199,35 +199,36 @@
 <li><a href="#orgheadline133">Senior Data Scientist at Wise Athena</a></li>
 <li><a href="#orgheadline134">Becas para proyectos de investigación periodística de la Fundación Nieman</a></li>
 <li><a href="#orgheadline135">Data visualization engineering intern at BBVA</a></li>
+<li><a href="#orgheadline136">Técnico junior de Open Data en Desidedatum.com</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline139">Cursos</a>
+<li><a href="#orgheadline140">Cursos</a>
 <ul>
-<li><a href="#orgheadline138">HTML</a>
+<li><a href="#orgheadline139">HTML</a>
 <ul>
-<li><a href="#orgheadline137">Temáticas</a></li>
+<li><a href="#orgheadline138">Temáticas</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orgheadline140">ProPublica's Summer Data Institute</a></li>
-<li><a href="#orgheadline142">Enlaces de interés</a>
+<li><a href="#orgheadline141">ProPublica's Summer Data Institute</a></li>
+<li><a href="#orgheadline143">Enlaces de interés</a>
 <ul>
-<li><a href="#orgheadline141">Naked Data, Code for South Africa Newsletter</a></li>
+<li><a href="#orgheadline142">Naked Data, Code for South Africa Newsletter</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline148">Ideas</a>
+<li><a href="#orgheadline149">Ideas</a>
 <ul>
-<li><a href="#orgheadline143">Calendario en Google</a></li>
-<li><a href="#orgheadline144">Calendario en ICS</a></li>
-<li><a href="#orgheadline145">Tinyletter</a></li>
-<li><a href="#orgheadline146">Schema.org</a></li>
-<li><a href="#orgheadline147">Orgmode</a></li>
+<li><a href="#orgheadline144">Calendario en Google</a></li>
+<li><a href="#orgheadline145">Calendario en ICS</a></li>
+<li><a href="#orgheadline146">Tinyletter</a></li>
+<li><a href="#orgheadline147">Schema.org</a></li>
+<li><a href="#orgheadline148">Orgmode</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline150">Mayo</a>
+<li><a href="#orgheadline151">Mayo</a>
 <ul>
-<li><a href="#orgheadline149">Dataharvest 2017</a></li>
+<li><a href="#orgheadline150">Dataharvest 2017</a></li>
 </ul>
 </li>
 </ul>
@@ -384,31 +385,32 @@ Si tienes un evento que proponer, añade [una nueva issue](https://github.com/OK
 <li><a href="#orgheadline109">Senior Data Scientist at Wise Athena</a></li>
 <li><a href="#orgheadline110">Becas para proyectos de investigación periodística de la Fundación Nieman</a></li>
 <li><a href="#orgheadline111">Data visualization engineering intern at BBVA</a></li>
+<li><a href="#orgheadline112">Técnico junior de Open Data en Desidedatum.com</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline112">Cursos</a>
+<li><a href="#orgheadline113">Cursos</a>
 <ul>
-<li><a href="#orgheadline113">HTML</a></li>
+<li><a href="#orgheadline114">HTML</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline114">ProPublica's Summer Data Institute</a></li>
-<li><a href="#orgheadline115">Enlaces de interés</a>
+<li><a href="#orgheadline115">ProPublica's Summer Data Institute</a></li>
+<li><a href="#orgheadline116">Enlaces de interés</a>
 <ul>
-<li><a href="#orgheadline116">Naked Data, Code for South Africa Newsletter</a></li>
+<li><a href="#orgheadline117">Naked Data, Code for South Africa Newsletter</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline117">Ideas</a>
+<li><a href="#orgheadline118">Ideas</a>
 <ul>
-<li><a href="#orgheadline118">Calendario en Google</a></li>
-<li><a href="#orgheadline119">Calendario en ICS</a></li>
-<li><a href="#orgheadline120">Tinyletter</a></li>
-<li><a href="#orgheadline121">Schema.org</a></li>
-<li><a href="#orgheadline122">Orgmode</a></li>
+<li><a href="#orgheadline119">Calendario en Google</a></li>
+<li><a href="#orgheadline120">Calendario en ICS</a></li>
+<li><a href="#orgheadline121">Tinyletter</a></li>
+<li><a href="#orgheadline122">Schema.org</a></li>
+<li><a href="#orgheadline123">Orgmode</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline123">Mayo</a>
+<li><a href="#orgheadline124">Mayo</a>
 <ul>
-<li><a href="#orgheadline124">Dataharvest 2017</a></li>
+<li><a href="#orgheadline125">Dataharvest 2017</a></li>
 </ul>
 </li>
 </ul>
@@ -1549,7 +1551,7 @@ del nuevo periodismo, desde una perspectiva profesional y científica.
 
 # Todo el año<a id="orgheadline119"></a>
 
-# Becas, ofertas de trabajo<a id="orgheadline136"></a>
+# Becas, ofertas de trabajo<a id="orgheadline137"></a>
 
 ## Desarrollador web Python en Viderum<a id="orgheadline120"></a>
 
@@ -1750,48 +1752,58 @@ presentar las candidaturas se abrirá en el mes de agosto.
 
 We’re looking for a person passionate about full-stack application development with a special interest in Data Science. You will help our data visualization team develop (optionally amazing) solutions used by data scientists to explore and communicate their results. You will participate in the creation of well-integrated and data scientist tools to make their lives easier focused on visual analytics, model evaluation and interpretation. You should take into account data scientists' real-world problems and limitations. 
 
-# Cursos<a id="orgheadline139"></a>
+## Técnico junior de Open Data en Desidedatum.com<a id="orgheadline136"></a>
 
-## HTML<a id="orgheadline138"></a>
+-   Fecha publicación: 20170722
+-   Contacto: alberto.abella@desidedatum.com
+-   Web: <http://desidedatum.com>
+
+Se requieren conocimientos para gestiona datos mediante herramientas como Pentaho, Java, JS, script o Excel, de forma rápida y ágil.
+
+Se valorará experiencia en este ámbito y conocimientos de gestión y programación mediante API.
+
+# Cursos<a id="orgheadline140"></a>
+
+## HTML<a id="orgheadline139"></a>
 
 -   Autoría: [Raúl Jiménez Ortega](http://rauljimenez.info/)
 -   URL: <http://www.cursohtml5desdecero.com/>
 -   Licencia: [CC-BY-NC-SA 4.0 Internacional](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 -   GitHub: <https://github.com/hhkaos/cursohtml5desdecero/>
 
-### Temáticas<a id="orgheadline137"></a>
+### Temáticas<a id="orgheadline138"></a>
 
 -   Enseñar los elementos más comunes de HTML5, CSS3 y JavaScript.
 -   Mostrar dónde podrás resolver tus dudas cuando tengas problemas.
 -   Explicar cómo trabajar con algunas de las herramientas que usan los profesionales del mundo real como son Github o las herramientas para desarrolladores de Google Chrome.
 
-# ProPublica's Summer Data Institute<a id="orgheadline140"></a>
+# ProPublica's Summer Data Institute<a id="orgheadline141"></a>
 
 First-ever Summer Data Institute, a 10-day intensive workshop on how to use data, design and code for journalism. The workshop will be from June 1st to 15th in our NYC offices. The deadline to apply is March 31st.
 
 <https://projects.propublica.org/graphics/summer>
 <https://www.propublica.org/nerds/item/propublica-summer-data-institute>
 
-# Enlaces de interés<a id="orgheadline142"></a>
+# Enlaces de interés<a id="orgheadline143"></a>
 
-## Naked Data, Code for South Africa Newsletter<a id="orgheadline141"></a>
+## Naked Data, Code for South Africa Newsletter<a id="orgheadline142"></a>
 
 <http://code4sa.org/newsletter/>
 
-# Ideas<a id="orgheadline148"></a>
+# Ideas<a id="orgheadline149"></a>
 
-## Calendario en Google<a id="orgheadline143"></a>
+## Calendario en Google<a id="orgheadline144"></a>
 
-## Calendario en ICS<a id="orgheadline144"></a>
+## Calendario en ICS<a id="orgheadline145"></a>
 
-## Tinyletter<a id="orgheadline145"></a>
+## Tinyletter<a id="orgheadline146"></a>
 
-## Schema.org<a id="orgheadline146"></a>
+## Schema.org<a id="orgheadline147"></a>
 
-## Orgmode<a id="orgheadline147"></a>
+## Orgmode<a id="orgheadline148"></a>
 
-# Mayo<a id="orgheadline150"></a>
+# Mayo<a id="orgheadline151"></a>
 
-## Dataharvest 2017<a id="orgheadline149"></a>
+## Dataharvest 2017<a id="orgheadline150"></a>
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-05-18 mié&gt;&#x2013;&lt;2016-05-21 sáb&gt;</span></span>
