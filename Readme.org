@@ -2,7 +2,7 @@
 #+CATEGORY: calendario, evento, periodismodatos, datajournalism 
 #+TAGS: boletín, periodismodatos, tinyletter, 
 #+DESCRIPTION: Calendario de eventos relacionados con el conocimiento abierto para 2016
-#+TITLE: Agenda de Open Knowledge España 2016
+#+TITLE: Agenda de Open Knowledge España 2017
 #+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 Bienvenidxs a la agenda de eventos relacionados o de interés para la comunidad de periodismodatos, datascientists, conocimiento abierto España.
 
@@ -15,108 +15,6 @@ Si tienes un evento que proponer, añade [[https://github.com/OKFN-Spain/agenda/
 - Cuándo: <2017-01-13 vie>--<2017-04-01 sáb>
 - URL: http://escuela.elpais.com/talleres/taller-periodismo-datos/
 * Abril
-** Festival Internacional de Periodismo de Perugia
-- Cuándo: <2016-04-06 mié>--<2016-04-10 dom>
-- Dónde: Perugia, Italia
-- Mapa: 
-- URL: http://www.festivaldelgiornalismo.com/
-
-** 25th International World Wide Web Conference
-<2016-04-11 lun>--<2016-04-15 vie>
-http://www2016.ca/
-** Akademy-es 2016
-- Cuándo: <2016-04-15 vie>--<2016-04-17 dom>
-- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
-- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
-- URL: https://www.kde-espana.org/akademy-es2016/
-he KDE® Community is an international technology team dedicated to creating a free and user-friendly computing experience, offering an advanced graphical desktop, a wide variety of applications for communication, work, education and entertainment and a platform to easily build new applications upon. We have a strong focus on finding innovative solutions to old and new problems, creating a vibrant atmosphere open for experimentation.site* Mayo
-** Reunión GNOME Hispano
-- Cuándo: <2016-04-18 lun 18:30-20:45>
-- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
-- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
-- URL: http://medialab-prado.es/article/gnome-hispano
-
-
-
-** Reunión GNOME Hispano
-- Cuándo: <2016-04-18 lun>
-- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
-- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
-- URL: http://medialab-prado.es/article/gnome-hispano
-
-** Newsimpact Madrid
-- Cuándo: <2016-04-25 lun 08:45-17:30>
-- Dónde: Jardín Metropolitano, Hispainia & Oriental, Madrid
-- URL: http://newsimpact.io
-- Language: English + Spanish translation
-- Moderation​: Rina Tsubaki & Mattia Peretti 
-
-*** Schedule
-- 08:45­09:30, Registration 
-- 09:30­10:00, Opening Remarks
- - Wilfried Rütten, Director, European Journalism Centre 
- - Vicent Partal, Vice­Chairman, European Journalism Centre / Founder and 
-Director of VilaWeb.cat
- - Google Spain 
-- 10:00­11:00, Panel: Data­Driven Storytelling ­ New Approaches & Practices 
- - Mar Cabra, Head of the Data & Research Uni, ICIJ
- - Nikolas Kaiser­Bril, Co­founder, Journalism++
- - Daniele Grasso, El Confidencial Lab
- - Jacopo Ottaviani, Journalism Grants grantee and trainer 
- - Moderator: Raúl Rodríguez, Assistant Manager, 20M newspaper
-- 11:00­11:15, Coffee Break 
-- 11:15­12:00, Fireside Chat: Digital Newsroom ­ From Gathering News to Storytelling in the Digital Age 
- - Louise Roug, Global News Editor, Mashable
- - Nevine Mabro, Head of Foreign News, Channel 4 News
-- 12:00­12:30, Keynote: Measuring Impact and Audience Behaviour with Data 
-Kiki Von Glinow, Director of Growth and Analytics, The Huffington Post
-- 12:30­13:30, Lunch
-- 13:30-14:30
- - Session 1, Google Search, Trends & Maps [in Spanish] Millán I. Berzosa, Media Trainer, Google News Lab.
- - Session 2, How to attract and engage with new young audiences.
-  - Gonzalo Pastor, Executive Director, VICE Spain
-  - Lucia González, Verne
-- 14:30 ­ 14:45 Room Change 
-- 14:45-15:45
- - Session 3, ICIJ Session: ​Global exclusives through collaboration (Exclusivas globales a través de la colaboración, in Spanish).
- - Session 4, Tips & Tricks: VR & 360° storytelling at euronews. Thomas Seymat, Data Journalist/ Live­Blog Editor, euronews 
-- 15:45­16:00,  Break/ Room change 
-- 16:00­16:30, Expert Session: Digital Transformation and Innovation for BBC News Robert McKenzie, Editor, BBC News Labs (TBC)
-- 16:30­17:30, Panel: ​New challenges: from online to mobile (in Spanish, with an English interpretation)  
- - Nacho Cardero, ElConfidencial
- - María Ramírez, Elespanol.com
- - Fernando Berlín, radiocable.com
- - Juan Luis Sanchez, eldiario.es
- - Moderator: Dani Seseña, Cámara Abierta TVE
-
-** D-CENT and Open Knowledge Labs meetup
-- Cuándo: <2016-04-26 mar>
-- Dónde: Makers of Barcelona (MOB), Calle Bailén 11, bajos.
-- URL: https://attending.io/events/d-cent-and-open-knowledge-labs-meetup
-- Idioma: English
-- Mapa: http://www.openstreetmap.org/way/4745499
-
-** TICTeC 2016
-- Cuándo: <2016-04-27 mié>--<2016-04-28 jue>
-- Dónde: Edificio Este, World Trade Center, Barcelona 8039
-- URL: https://www.mysociety.org/files/2015/09/Agenda-2016.pdf
-- Language: English
-
-** Domina Git y GitHub
-30 sesiones del [[http://medialab-prado.es/article/periodismo_de_datos_-_grupo_de_trabajo][grupo de periodismo de datos de Medialab-Prado]] y cuarta de [[https://twitter.com/journocodersMAD][@JournocodersMAD]]. Si en estas 29 sesiones desde que comenzamos en 2011 no has aprendido [[https://git-scm.com/][Git]] y no has usado [[https://github.com][GitHub]], no sabes lo que te estás perdiendo.
-- Cuándo: <2016-04-27 mié 18:30-20:45>
-- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
-- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
-- URL: http://medialab-prado.es/article/domina-git-y-github
-- Meetup: http://www.meetup.com/es-ES/Madrid-Periodismo-de-datos-Meetup/events/230516014/
-
-** Rrrrevolucionem la primavera??? R per a Dummies i periodistes
-Ja ha arribat la primavera i estem tots RRRRevolucionats, així que a Hacks/Hackers Barcelona hem preparat una nova sessió per sacsejar el periodisme. 
-- Cuándo: <2016-04-29 vie>
-- Dónde: Barcelona Activa
-- Meetup: http://www.meetup.com/es-ES/Hacks-Hackers-Barcelona/events/230399129/?a=socialmedia
-- Organiza: Hacks/Hackers Barcelona
-
 ** Dataharvest 2017
 <2016-05-18 mié>--<2016-05-21 sáb>
 
