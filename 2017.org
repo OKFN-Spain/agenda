@@ -1,0 +1,82 @@
+#+BLOG: blog.infotics.es
+#+CATEGORY: calendario, evento, periodismodatos, datajournalism 
+#+TAGS: boletín, periodismodatos, tinyletter, 
+#+DESCRIPTION: Calendario de eventos relacionados con el conocimiento abierto para 2016
+#+TITLE: Agenda de Open Knowledge España 2017
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+Bienvenidxs a la agenda de eventos relacionados o de interés para la comunidad de periodismodatos, datascientists, conocimiento abierto España.
+
+Si tienes un evento que proponer, añade [[https://github.com/OKFN-Spain/agenda/issues/new][una nueva issue]].
+
+#+TOC: headlines 2
+
+* Enero
+** Taller de Periodismo de Datos El País
+- Cuándo: <2017-01-13 vie>--<2017-04-01 sáb>
+- URL: http://escuela.elpais.com/talleres/taller-periodismo-datos/
+* Abril
+** Dataharvest 2017
+<2016-05-18 mié>--<2016-05-21 sáb>
+
+
+* Mayo
+** V Jornadas Periodismo Datos #JPD17
+- Cuándo: <2017-05-04 jue>--<2017-05-07 dom>
+- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL: http://medialab-prado.github.io/jpd17
+* Todo el año
+* Becas, ofertas de trabajo
+** Code for Africa
+*** Senior Software Engineer & Technical Manager (Tools Lead)
+- URL:
+  https://opportunities.codeforafrica.org/2016/12/17/senior-software-engineer-technical-manager-tools-lead-dar-es-salaam-tanzania/
+- Dónde: Dar es Salaam, Tanzania
+- Fecha publicación: <2016-12-17 sáb>
+*** Software Engineer
+- URL:
+  https://opportunities.codeforafrica.org/2016/12/17/software-engineer-dar-es-salaam-tanzania/
+- Dónde: Dar es Salaam, Tanzania
+- Fecha publicación: <2016-12-17 sáb>
+*** PesaCheck Fellowship
+- URL:
+  https://opportunities.codeforafrica.org/2016/12/16/pesacheck-fellowship-nairobi-kenya/
+- Dónde: Nairobi, Kenya
+- Fecha publicación: <2016-12-16 vie>
+- Fecha límite: <2017-01-02 lun>
+*** Senior Software Developer (Python)
+- URL: https://opportunities.codeforafrica.org/2016/12/14/senior-software-developer-python-nairobi-kenya/
+- Dónde: Nairobi, Kenya
+- Fecha publicación: <2016-12-14 mié>
+*** Innovation Fellowship: Code for Sierra Leone
+- URL:
+  https://opportunities.codeforafrica.org/2016/12/07/innovation-fellowship-code-sierra-leone-remote-sierra-leone/
+- Dónde: remoto/Sierra Leona
+- Fecha publicación: <2016-12-07 mié>
+- Fecha límite: <2016-12-20 mar>
+
+
+* Cursos
+** HTML
+- Autoría: [[http://rauljimenez.info/][Raúl Jiménez Ortega]]
+- URL: http://www.cursohtml5desdecero.com/
+- Licencia: [[https://creativecommons.org/licenses/by-nc-sa/4.0/][CC-BY-NC-SA 4.0 Internacional]]
+- GitHub: https://github.com/hhkaos/cursohtml5desdecero/
+*** Temáticas
+
+- Enseñar los elementos más comunes de HTML5, CSS3 y JavaScript.
+- Mostrar dónde podrás resolver tus dudas cuando tengas problemas.
+- Explicar cómo trabajar con algunas de las herramientas que usan los profesionales del mundo real como son Github o las herramientas para desarrolladores de Google Chrome.
+
+* Enlaces de interés
+
+** Naked Data, Code for South Africa Newsletter
+http://code4sa.org/newsletter/
+
+* Ideas
+
+** Calendario en Google
+** Calendario en ICS
+** Tinyletter
+** Schema.org
+** Orgmode
