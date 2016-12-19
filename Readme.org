@@ -4,7 +4,7 @@
 #+DESCRIPTION: Calendario de eventos relacionados con el conocimiento abierto para 2016
 #+TITLE: Agenda de Open Knowledge España
 #+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
-Bienvenidxs a la agenda de eventos relacionados o de interés para la comunidad de periodismodatos, datascientists, conocimiento abierto España.
+Agenda de eventos relacionados o de interés para la comunidad de periodismodatos, datascientists, conocimiento abierto España.
 
 Si tienes un evento que proponer, añade [[https://github.com/OKFN-Spain/agenda/issues/new][una nueva issue]].
 
@@ -13,7 +13,12 @@ Navega en las actividades por cada año:
 - [[ https://github.com/OKFN-Spain/agenda/blob/master/2016.org][2016]]
 - [[https://github.com/OKFN-Spain/agenda/blob/master/2017.org][2017]]
 
-La estructura es:
+O descárgate los archivos ics:
+
+- [[https://github.com/OKFN-Spain/agenda/blob/master/2016.ics][2016.ics]]
+- [[https://github.com/OKFN-Spain/agenda/blob/master/2017.ics][2017.ics]]
+
+La estructura de los documentos es:
 
 - Actividades por meses
 - Actividades todo el año
@@ -21,6 +26,15 @@ La estructura es:
 - Cursos
 - Enlaces de interés
 - Ideas
+
+Si tienes cualquier propuesta al respecto, no dudes en crear [[https://github.com/OKFN-Spain/agenda/issues/new][una nueva issue]].
+
+Estas son algunas de las tareas posibles:
+
+- Crear un calendario de Google.
+- Un boletín
+- Soportar schema.org
+- Publicación web
 
 #+TOC: headlines 2
 
