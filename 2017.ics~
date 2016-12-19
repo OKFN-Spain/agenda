@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:2017
+PRODID:-//Adolfo Antón Bravo//Emacs with Org mode//EN
+X-WR-TIMEZONE:CET
+X-WR-CALDESC:Agenda de Open Knowledge España 2017
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20161219T125857Z
+UID:TS1-ef17bf68-ffeb-446f-8e85-972041d1044d
+DTSTART;VALUE=DATE:20170113
+DTEND;VALUE=DATE:20170402
+SUMMARY:Taller de Periodismo de Datos El País
+DESCRIPTION:• Cuándo: <2017-01-13 vie>–<2017-04-01 sáb>\n• URL: [http://esc
+ uela.elpais.com/talleres/taller-periodismo-datos/]
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20161219T125857Z
+UID:TS1-5b75e073-60ad-4d17-9f20-e4176b242827
+DTSTART;VALUE=DATE:20160518
+DTEND;VALUE=DATE:20160522
+SUMMARY:Dataharvest 2017
+DESCRIPTION:<2016-05-18 mié>–<2016-05-21 sáb>
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20161219T125857Z
+UID:TS1-ca2fa21f-19da-4cfe-8f1d-e5481e4303af
+DTSTART;VALUE=DATE:20170504
+DTEND;VALUE=DATE:20170508
+SUMMARY:V Jornadas Periodismo Datos #JPD17
+DESCRIPTION:• Cuándo: <2017-05-04 jue>–<2017-05-07 dom>\n• Dónde: Medialab-
+ Prado\, Alameda 15\, 28014\, Madrid\n• Mapa:\n  [http://www.openstreetmap.
+ org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://medialab-prado
+ .github.io/jpd17]
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20161219T125857Z
+UID:TS1-38f71b96-716f-421d-bcec-7a20e90a12a7
+DTSTART;VALUE=DATE:20161217
+DTEND;VALUE=DATE:20161218
+SUMMARY:Senior Software Engineer & Technical Manager (Tools Lead)
+DESCRIPTION:• URL:\n  [https://opportunities.codeforafrica.org/2016/12/17/s
+ enior-software-engineer-technical-manager-tools-lead-dar-es-salaam-tanzani
+ a/]\n• Dónde: Dar es Salaam\, Tanzania\n• Fecha publicación: <2016-12-17 s
+ áb>
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20161219T125857Z
+UID:TS1-19b92a99-e41d-42bf-8b3a-79c765415e58
+DTSTART;VALUE=DATE:20161217
+DTEND;VALUE=DATE:20161218
+SUMMARY:Software Engineer
+DESCRIPTION:• URL:\n  [https://opportunities.codeforafrica.org/2016/12/17/s
+ oftware-engineer-dar-es-salaam-tanzania/]\n• Dónde: Dar es Salaam\, Tanzan
+ ia\n• Fecha publicación: <2016-12-17 sáb>
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20161219T125857Z
+UID:TS1-ec2ae15b-3723-4bef-a222-2a930adba327
+DTSTART;VALUE=DATE:20161216
+DTEND;VALUE=DATE:20161217
+SUMMARY:PesaCheck Fellowship
+DESCRIPTION:• URL:\n  [https://opportunities.codeforafrica.org/2016/12/16/p
+ esacheck-fellowship-nairobi-kenya/]\n• Dónde: Nairobi\, Kenya\n• Fecha pub
+ licación: <2016-12-16 vie>\n• Fecha límite: <2017-01-02 lun>
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20161219T125857Z
+UID:TS2-ec2ae15b-3723-4bef-a222-2a930adba327
+DTSTART;VALUE=DATE:20170102
+DTEND;VALUE=DATE:20170103
+SUMMARY:PesaCheck Fellowship
+DESCRIPTION:• URL:\n  [https://opportunities.codeforafrica.org/2016/12/16/p
+ esacheck-fellowship-nairobi-kenya/]\n• Dónde: Nairobi\, Kenya\n• Fecha pub
+ licación: <2016-12-16 vie>\n• Fecha límite: <2017-01-02 lun>
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20161219T125857Z
+UID:TS1-0127a691-d7d5-46b0-806f-d54a26e337c7
+DTSTART;VALUE=DATE:20161214
+DTEND;VALUE=DATE:20161215
+SUMMARY:Senior Software Developer (Python)
+DESCRIPTION:• URL:\n  [https://opportunities.codeforafrica.org/2016/12/14/s
+ enior-software-developer-python-nairobi-kenya/]\n• Dónde: Nairobi\, Kenya\
+ n• Fecha publicación: <2016-12-14 mié>
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20161219T125857Z
+UID:TS1-0bf0a372-d097-4bc9-a06d-085fd8f09f6b
+DTSTART;VALUE=DATE:20161207
+DTEND;VALUE=DATE:20161208
+SUMMARY:Innovation Fellowship: Code for Sierra Leone
+DESCRIPTION:• URL:\n  [https://opportunities.codeforafrica.org/2016/12/07/i
+ nnovation-fellowship-code-sierra-leone-remote-sierra-leone/]\n• Dónde: rem
+ oto/Sierra Leona\n• Fecha publicación: <2016-12-07 mié>\n• Fecha límite: <
+ 2016-12-20 mar>
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20161219T125857Z
+UID:TS2-0bf0a372-d097-4bc9-a06d-085fd8f09f6b
+DTSTART;VALUE=DATE:20161220
+DTEND;VALUE=DATE:20161221
+SUMMARY:Innovation Fellowship: Code for Sierra Leone
+DESCRIPTION:• URL:\n  [https://opportunities.codeforafrica.org/2016/12/07/i
+ nnovation-fellowship-code-sierra-leone-remote-sierra-leone/]\n• Dónde: rem
+ oto/Sierra Leona\n• Fecha publicación: <2016-12-07 mié>\n• Fecha límite: <
+ 2016-12-20 mar>
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+END:VCALENDAR
