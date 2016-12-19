@@ -10,7 +10,7 @@ Si tienes un evento que proponer, añade [[https://github.com/OKFN-Spain/agenda/
 
 Navega en las actividades por cada año:
 
-- [[ https://github.com/OKFN-Spain/agenda/blob/master/2016.org][2016]]
+- [[https://github.com/OKFN-Spain/agenda/blob/master/2016.org][2016]]
 - [[https://github.com/OKFN-Spain/agenda/blob/master/2017.org][2017]]
 
 O descárgate los archivos ics:
