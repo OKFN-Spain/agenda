@@ -14,6 +14,39 @@ Si tienes un evento que proponer, añade [[https://github.com/OKFN-Spain/agenda/
 ** Taller de Periodismo de Datos El País
 - Cuándo: <2017-01-13 vie>--<2017-04-01 sáb>
 - URL: http://escuela.elpais.com/talleres/taller-periodismo-datos/
+** 41 Reunión Grupo de R
+- Cuándo: <2017-01-19 jue 19:00-20:30>
+- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL: https://www.meetup.com/es-ES/Grupo-de-Usuarios-de-R-de-Madrid/events/236546948/
+
+*** Luis Espada Triguero: "Aplicaciones empresariales con Shiny".
+Luis nos presentará diferentes aplicaciones de gestión que ha realizado para su empresa utilizando Shiny.
+
+*** José Luis Hidalgo: "Programación probabilística: ¿un viejo truco al que le ha llegado su momento?"
+Para una clase muy amplia de modelos (modelos generativos Bayesianos) es posible realizar inferencia usando algoritmos genéricos.  Ciertos desarrollos muy recientes están sacando estas técnicas,  extraordinariamente potentes, del ámbito académico al mundo de las aplicaciones prácticas.
+
+** Mi primera configuración Emacs
+- Cuándo: <2017-01-31 mar 18:30-20:30>
+- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL: https://www.meetup.com/es-ES/Grupo-de-Usuarios-de-R-de-Madrid/events/236546948/
+
+Si tus compañerxs te miran raro cuando abres Vim, si sientes envidia
+de los magos que usan emacs y te han hablado de org, magit y todas las
+maravillas; si has instalado Emacs, y es totalmente distinto a lo que
+habías visto, blanco y vacío, no sabes como usarlo...
+
+En esta charla hablaremos un poco de como empezar con emacs, una
+pequeña introducción a elisp y como configurar emacs a tu gusto.
+
+Los temas que se cubrirán serán:
+- Introducción a Emacs
+- Introducción a elisp
+- Mi primera configuración
+- Configuración modular
+- Configuración basada en orgmode
+
 * Abril
 ** Dataharvest 2017
 <2016-05-18 mié>--<2016-05-21 sáb>

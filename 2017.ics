@@ -6,8 +6,8 @@ X-WR-TIMEZONE:CET
 X-WR-CALDESC:Agenda de Open Knowledge España 2017
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20161219T130008Z
-UID:TS1-6917d595-8d49-4c4b-aa59-3d3b5d086625
+DTSTAMP:20170109T001844Z
+UID:TS1-16954cf0-8760-49cf-9f92-54534be59a76
 DTSTART;VALUE=DATE:20170113
 DTEND;VALUE=DATE:20170402
 SUMMARY:Taller de Periodismo de Datos El País
@@ -16,8 +16,40 @@ DESCRIPTION:• Cuándo: <2017-01-13 vie>–<2017-04-01 sáb>\n• URL: [http://
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20161219T130008Z
-UID:TS1-de77c09b-dad0-4bc9-b8b7-371abaa8f3f6
+DTSTAMP:20170109T001844Z
+UID:TS1-c6d37b97-c210-40fb-a076-1c70aa7a3f7c
+DTSTART:20170119T190000
+DTEND:20170119T203000
+SUMMARY:41 Reunión Grupo de R
+DESCRIPTION:• Cuándo: <2017-01-19 jue 19:00>–<2017-01-19 jue 20:30>\n• Dónd
+ e: Medialab-Prado\, Alameda 15\, 28014\, Madrid\n• Mapa:\n  [http://www.op
+ enstreetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL:\n  [https:
+ //www.meetup.com/es-ES/Grupo-de-Usuarios-de-R-de-Madrid/events/236546948/]
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170109T001844Z
+UID:TS1-28a709da-fbc2-4e0a-93ba-ab196dd8d501
+DTSTART:20170131T183000
+DTEND:20170131T203000
+SUMMARY:Mi primera configuración Emacs
+DESCRIPTION:• Cuándo: <2017-01-31 mar 18:30>–<2017-01-31 mar 20:30>\n• Dónd
+ e: Medialab-Prado\, Alameda 15\, 28014\, Madrid\n• Mapa:\n  [http://www.op
+ enstreetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL:\n  [https:
+ //www.meetup.com/es-ES/Grupo-de-Usuarios-de-R-de-Madrid/events/236546948/]
+ \n\nSi tus compañerxs te miran raro cuando abres Vim\, si sientes envidia\
+ nde los magos que usan emacs y te han hablado de org\, magit y todas las\n
+ maravillas\; si has instalado Emacs\, y es totalmente distinto a lo que\nh
+ abías visto\, blanco y vacío\, no sabes como usarlo…\n\nEn esta charla hab
+ laremos un poco de como empezar con emacs\, una\npequeña introducción a el
+ isp y como configurar emacs a tu gusto.\n\nLos temas que se cubrirán serán
+ :\n• Introducción a Emacs\n• Introducción a elisp\n• Mi primera configurac
+ ión\n• Configuración modular\n• Configuración basada en orgmode
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170109T001844Z
+UID:TS1-3eeca744-f1d9-4b80-b71c-7b8d810ee494
 DTSTART;VALUE=DATE:20160518
 DTEND;VALUE=DATE:20160522
 SUMMARY:Dataharvest 2017
@@ -25,8 +57,8 @@ DESCRIPTION:<2016-05-18 mié>–<2016-05-21 sáb>
 CATEGORIES:calendario, evento, periodismodatos, datajournalism
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20161219T130008Z
-UID:TS1-102773e6-32cf-41ff-9b63-e2a8c2193da0
+DTSTAMP:20170109T001844Z
+UID:TS1-f131ba62-a915-4cbf-b51f-d59d9fa03524
 DTSTART;VALUE=DATE:20170504
 DTEND;VALUE=DATE:20170508
 SUMMARY:V Jornadas Periodismo Datos #JPD17
